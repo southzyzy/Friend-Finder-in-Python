@@ -5,7 +5,7 @@ Acceptable_country: Singapore, China
 Age: 29
 Acceptable_age_range: 18-29
 Likes: hotpot, chicken and chops, chilli, roses, movies
-Dislikes: durain, garlic, swimming
+Dislikes: durain, garlic, swimming 
 
 Books:
 Mere Christianity 
