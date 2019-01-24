@@ -1,33 +1,40 @@
 import pandas as pd
 import os, re
 
-CURENT_DIR = os.path.dirname(__file__)
-PROFILES = os.path.join(CURENT_DIR, "profile/")
-files = [file for file in os.listdir(PROFILES) if file.endswith(".txt")]
+CURENT_DIR = os.path.dirname(__file__)  # specify current directory
+PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
+files = [file for file in os.listdir(PROFILES) if file.endswith(".txt")]  # list out all the filename in profiles folder
 
 
 class FILE_HANDLER:
     def __init__(self):
-        self.DATA = []
+        # specify the column header
+        self.HEADERS = ['Name', 'Gender', 'Country', 'Acceptable_country', 'Age', 'Acceptable_age_range', 'Likes',
+                        'Dislikes', 'Books']
 
-        for file in files:
-            filename = PROFILES + file
+        self.DATA = []  # create the empty list to store profiles
 
-            text_file = open(filename, "r")
-            lines = text_file.read()
-            text_file.close()
+        for file in files:  # iterate over each file
+            filename = PROFILES + file  # full path name of the data files
+
+            text_file = open(filename, "r")  # open the file
+            lines = text_file.read()  # read the file in memory
+            text_file.close()  # close the file
+
+            ###############################################################
+            # Regex to filter out all the column header and row data. ####
+            # Odd Number == Header, Even Number == Data ##################
+            ###############################################################
 
             books = re.search(
                 "(Name):(.*)\n+(Gender):(.*)\n+(Country):(.*)\n+(Acceptable_country):(.*)\n+(Age):(.*)\n+(Acceptable_age_range):(.*)\n+(Likes):(.*)\n+(Dislikes):(.*)\n+(Books):((?<=Books:)\D+)",
                 lines)
 
+            # append data into DATA list
             self.DATA.append([books.group(i).strip() for i in range(len(books.groups()) + 1) if not i % 2 and i != 0])
-
-            self.HEADERS = ['Name', 'Gender', 'Country', 'Acceptable_country', 'Age', 'Acceptable_age_range', 'Likes',
-                            'Dislikes', 'Books']
 
 
 class LOAD_PROFILES:
     def __init__(self, data, headers):
-        self.profilesDF = pd.DataFrame(data, columns=headers)
-        self.profilesDF = self.profilesDF.replace('\n', ',', regex=True)
+        self.profilesDF = pd.DataFrame(data, columns=headers) # create the dataframe
+        self.profilesDF = self.profilesDF.replace('\n', ',', regex=True) # replace all the \n in Books to ','
