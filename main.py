@@ -1,5 +1,5 @@
 import function1 as f1
-import function2_test as f2
+import function2 as f2
 
 if __name__ == '__main__':
     df_instances = f1.LOAD_PROFILES(f1.FILE_HANDLER().DATA, f1.FILE_HANDLER().HEADERS)
