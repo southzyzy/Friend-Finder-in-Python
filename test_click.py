@@ -1,13 +1,16 @@
 import click
 
+def welcome():
+    """
+    Welcome to ICT1002 Dating app
+    :return:
+    """
+
 @click.command()
-@click.option('--count', default=1, help='Number of greetings.')
-@click.option('--name', prompt='Your name',
-              help='The person to greet.')
-def hello(count, name):
-    """Simple program that greets NAME for a total of COUNT times."""
-    for x in range(count):
-        click.echo('Hello %s!' % name)
+@click.option('--users', help='Listing the profiles of all users')
+@click.argument('option')
+def hello(option):
+    click.echo("You selected %s" % option)
 
 if __name__ == '__main__':
-    hello()
+    welcome()

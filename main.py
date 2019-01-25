@@ -1,6 +1,6 @@
-import file_handler as fh
+import function1 as f1
 
 
 if __name__ == '__main__':
-    df = fh.LOAD_PROFILES(fh.FILE_HANDLER().DATA, fh.FILE_HANDLER().HEADERS)
+    df = f1.LOAD_PROFILES(f1.FILE_HANDLER().DATA, f1.FILE_HANDLER().HEADERS)
     print df.profilesDF
