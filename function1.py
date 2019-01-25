@@ -26,12 +26,13 @@ class FILE_HANDLER:
             # Odd Number == Header, Even Number == Data ##################
             ###############################################################
 
-            books = re.search(
+            profiles_data = re.search(
                 "(Name):(.*)\n+(Gender):(.*)\n+(Country):(.*)\n+(Acceptable_country):(.*)\n+(Age):(.*)\n+(Acceptable_age_range):(.*)\n+(Likes):(.*)\n+(Dislikes):(.*)\n+(Books):((?<=Books:)\D+)",
                 lines)
 
             # append data into DATA list
-            self.DATA.append([books.group(i).strip() for i in range(len(books.groups()) + 1) if not i % 2 and i != 0])
+            self.DATA.append([profiles_data.group(i).strip() for i in range(len(profiles_data.groups()) + 1) if not i % 2 and i != 0])
+
 
 
 class LOAD_PROFILES:
