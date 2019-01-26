@@ -38,4 +38,5 @@ class FILE_HANDLER:
 class LOAD_PROFILES:
     def __init__(self, data, headers):
         self.profilesDF = pd.DataFrame(data, columns=headers) # create the dataframe
+        self.profilesDF["Gender"] = self.profilesDF.Gender.replace("F", "Female")
         self.profilesDF = self.profilesDF.replace('\n', ',', regex=True) # replace all the \n in Books to ','
