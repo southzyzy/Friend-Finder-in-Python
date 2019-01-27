@@ -1,41 +1,39 @@
 import click
-import requests
-
-SAMPLE_API_KEY = 'b1b15e88fa797225412429c1c50c122a1'
 
 
-def current_weather(location, api_key=SAMPLE_API_KEY):
-    url = 'https://api.openweathermap.org/data/2.5/weather'
-
-    query_params = {
-        'q': location,
-        'appid': api_key,
-    }
-
-    response = requests.get(url, params=query_params)
-
-    return response.json()['weather'][0]['description']
+class Config(object):
+    def __init__(self):
+        self.verbose = False
 
 
-@click.command()
-@click.argument('location')
-@click.option(
-    '--api-key', '-a',
-    help='your API key for the OpenWeatherMap API',
-)
-def main(location, api_key):
-    """
-    A little weather tool that shows you the current weather in a LOCATION of
-    your choice. Provide the city name and optionally a two-digit country code.
-    Here are two examples:
-    1. London,UK
-    2. Canmore
-    You need a valid API key from OpenWeatherMap for the tool to work. You can
-    sign up for a free account at https://openweathermap.org/appid.
-    """
-    weather = current_weather(location, api_key)
-    print("The weather in {location} right now: {weather}.")
+pass_config = click.make_pass_decorator(Config)
+
+@click.group()
+@click.option('--verbose', is_flag=True)
+@click.option('--home-dir', type=click.Path())
+@pass_config
+def cli(config, verbose, home_dir):
+    config.verbose = verbose
+    if home_dir is None:
+        home_dir = '.'
+    config.home_dir = home_dir
+
+@cli.command()
+@click.option('--string', default='World', help='This is the option to greet you')
+@click.option('--repeat', default=1, help='How many times you should be greeted')
+@click.argument('out', type=click.File('r'), default='-', required=False)
+
+@pass_config
+def say(config, string, repeat, out):
+    """This script greets you"""
+    if config.verbose:
+        click.echo('We are in verbose mode')
+    click.echo('Home Directory is %s' % config.home_dir)
+
+
+
+
 
 
 if __name__ == "__main__":
-    main()
+    say()
