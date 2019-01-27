@@ -4,5 +4,5 @@ import function2 as f2
 if __name__ == '__main__':
     df_instances = f1.LOAD_PROFILES(f1.FILE_HANDLER().DATA, f1.FILE_HANDLER().HEADERS)
     df = df_instances.profilesDF
-    matches = f2.COUNTRY_MATCH(df, "Lisa Marie")
-    print matches.matched
+    matches = f2.COUNTRY_MATCH(df, "Lisa Marie").matched
+    print matches

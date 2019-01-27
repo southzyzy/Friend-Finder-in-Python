@@ -21,11 +21,10 @@ class FILE_HANDLER:
             lines = text_file.read()  # read the file in memory
             text_file.close()  # close the file
 
-            ###############################################################
-            # Regex to filter out all the column header and row data. ####
-            # Odd Number == Header, Even Number == Data ##################
-            ###############################################################
-
+            """
+            Regex to filter out all the column header and row data. 
+            Odd Number == Header, Even Number == Data
+            """
             profiles_data = re.search(
                 "(Name):(.*)\n+(Gender):(.*)\n+(Country):(.*)\n+(Acceptable_country):(.*)\n+(Age):(.*)\n+(Acceptable_age_range):(.*)\n+(Likes):(.*)\n+(Dislikes):(.*)\n+(Books):((?<=Books:)\D+)",
                 lines)
@@ -40,3 +39,4 @@ class LOAD_PROFILES:
         self.profilesDF = pd.DataFrame(data, columns=headers) # create the dataframe
         self.profilesDF["Gender"] = self.profilesDF.Gender.replace("F", "Female")
         self.profilesDF = self.profilesDF.replace('\n', ',', regex=True) # replace all the \n in Books to ','
+        self.profilesDF["Rank"] = 0
