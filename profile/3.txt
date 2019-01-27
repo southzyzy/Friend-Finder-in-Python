@@ -4,7 +4,7 @@ Country: Singapore
 Acceptable_country: Singapore
 Age: 25
 Acceptable_age_range: 10-33
-Likes: fish,chiken, chocolate, roses, durain, movies
+Likes: fish, chicken, chocolate, roses, durain, movies
 Dislikes: curry,garlic,basketball
 
 Books:
