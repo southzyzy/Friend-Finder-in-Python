@@ -21,10 +21,12 @@ def main():
     student_B_info = sb.STUDENT_B(main_df, student_B_name).student_B_info
 
     """ This part serves function 2 """
-    country_df = f2.COUNTRY_MATCH(main_df, student_B_name, student_B_info).countries_matches
+    f2_matches = f2.COUNTRY_MATCH(main_df, student_B_name, student_B_info).countries_matches
+    print "\n"
+    print f2_matches[["Name", "Likes"]]
 
     """ This part serves function 3 """
-    similarities_df = f3.LIKES(student_B_info, country_df)
+    similarities_df = f3.LIKES_DISLIKES(student_B_info, f2_matches)
 
 
 if __name__ == '__main__':

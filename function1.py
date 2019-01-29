@@ -6,6 +6,15 @@ PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
 files = [file for file in os.listdir(PROFILES) if file.endswith(".txt")]  # list out all the filename in profiles folder
 
 
+def formattingData(df):
+    df["Gender"] = df.Gender.str.replace("F", "Female")  # replace F to Female
+    df["Acceptable_country"] = df.Acceptable_country.str.replace(", ", ",")  # remove the white space after ,
+    df["Likes"] = df.Likes.str.replace(", ", ",")  # remove white spaces after ,
+    df["Dislikes"] = df.Dislikes.str.replace(", ", ",")  # remove white spaces after ,
+    df = df.replace('\n', ',', regex=True)  # replace all the \n in Books to ','
+    return df
+
+
 class FILE_HANDLER:
     def __init__(self):
         # specify the column header
@@ -30,13 +39,12 @@ class FILE_HANDLER:
                 lines)
 
             # append data into DATA list
-            self.DATA.append([profiles_data.group(i).strip() for i in range(len(profiles_data.groups()) + 1) if not i % 2 and i != 0])
-
+            self.DATA.append([profiles_data.group(i).strip() for i in range(len(profiles_data.groups()) + 1) if
+                              not i % 2 and i != 0])
 
 
 class PROFILES_DF:
     def __init__(self, data, headers):
-        self.profilesDF = pd.DataFrame(data, columns=headers) # create the dataframe
-        self.profilesDF["Gender"] = self.profilesDF.Gender.replace("F", "Female")
-        self.profilesDF = self.profilesDF.replace('\n', ',', regex=True) # replace all the \n in Books to ','
-        self.profilesDF["Rank"] = 0
+        self.profilesDF = pd.DataFrame(data, columns=headers)  # create the dataframe
+        self.profilesDF = formattingData(self.profilesDF)  # format and make data nicer
+        self.profilesDF["Rank"] = 0  # create a column Rank to rank the matches
