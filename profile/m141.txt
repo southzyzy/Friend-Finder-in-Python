@@ -1,0 +1,17 @@
+Name: Lyndia Weatherhead
+Gender: M
+Country: Mongolia
+Acceptable_country: Malaysia, Mongolia, Belgium, Mexico
+Age: 19
+Acceptable_age_range: 20-23
+Likes: Astronomy, Laser tag, Kart racing, Hooping, Embroidery, Do it yourself, Birdwatching
+Dislikes: Sun bathing, Kabaddi, Skimboarding, Airsoft, Learning
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+The Elements - Nick Mann
+The Righteous Mind - Jonathan Haidt
+A Little History of Religion - Richard Holloway
+Beowulf - J. R. R. Tolkien
+The BFG - Roald Dahl
+Animal Encyclopedia - National Geographic

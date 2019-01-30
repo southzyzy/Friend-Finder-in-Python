@@ -1,0 +1,16 @@
+Name: Kristyn Schrimsher
+Gender: F
+Country: Japan
+Acceptable_country: Philippines, Mongolia, Malaysia
+Age: 27
+Acceptable_age_range: 21-24
+Likes: Surfing, Slacklining, Cryptography, Model aircraft, Amateur astronomy, Bird watching
+Dislikes: American football, Model aircraft, Do it yourself, Bowling
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+Swimming Anatomy - Ian McLeod
+The Two Towers - J. R. R. Tolkien
+Thinking Architecture - Peter Zumthor
+The Shining - Stephen King
+Science Encyclopedia - National Geographic

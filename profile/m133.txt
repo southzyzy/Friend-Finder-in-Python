@@ -1,0 +1,17 @@
+Name: Charolette Mosqueda
+Gender: F
+Country: China
+Acceptable_country: Thailand, Mongolia, China
+Age: 18
+Acceptable_age_range: 21-23
+Likes: Sun bathing, Fishkeeping, Baton twirling, Crossword puzzles
+Dislikes: Dance, Embroidery, Skiing, Snowboarding, Electronics, Astronomy
+
+Books: 
+The Elements - Nick Mann
+Cracking the Coding Interview - Gayle Laakmann
+About a Boy - Nick Hornby
+A Little History of Religion - Richard Holloway
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Horror in the Museum - H. P. Lovecraft
+The Hobbit - J. R. R. Tolkien

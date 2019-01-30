@@ -1,0 +1,17 @@
+Name: Isidro Walts
+Gender: F
+Country: Korea
+Acceptable_country: Indonesia, Belgium, Korea
+Age: 23
+Acceptable_age_range: 20-24
+Likes: Stone skipping, Knife throwing, Laser tag, Australian rules football, Animal fancy, High-power rocketry
+Dislikes: Drama, American football, Archery, Horseback riding, Skydiving
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+Fantastic Beasts and Where to Find Them - J.K Rowling
+About a Boy - Nick Hornby
+Thinking Architecture - Peter Zumthor
+Beowulf - J. R. R. Tolkien
+The Shining - Stephen King
+The Hobbit - J. R. R. Tolkien

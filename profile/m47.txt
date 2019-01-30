@@ -1,0 +1,17 @@
+Name: Justa Moberg
+Gender: M
+Country: China
+Acceptable_country: Philippines, Indonesia, Malaysia
+Age: 27
+Acceptable_age_range: 19-23
+Likes: Gardening, Hiking, Stone skipping, Kabaddi, Model aircraft, Skiing
+Dislikes: Geocaching, Archery, Model aircraft, Cryptography, Bowling
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+The Rocky Road to Romance - Janet Evanovich
+The Two Towers - J. R. R. Tolkien
+IT - Stephen King
+Three Poems - Hannah Sullivan
+Animal Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

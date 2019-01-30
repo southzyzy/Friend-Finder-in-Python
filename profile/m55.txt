@@ -1,0 +1,17 @@
+Name: Erick Garay
+Gender: F
+Country: China
+Acceptable_country: Philippines, United Kingdom, Mexico
+Age: 22
+Acceptable_age_range: 20-26
+Likes: Archery, Laser tag, Drama, Model aircraft, Meditation, Auto racing
+Dislikes: Sun bathing, American football, Air sports, Australian rules football, Astrology
+
+Books: 
+The Very Hungry Caterpillar - Eric Carle
+Swimming Anatomy - Ian McLeod
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Amityville Horror - Jay Anson
+Beowulf - J. R. R. Tolkien
+Rock Climbing Anchors - Craig Luebben
+The Award - Danielle Steel

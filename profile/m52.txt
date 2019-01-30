@@ -1,0 +1,17 @@
+Name: Alysha Okeefe
+Gender: F
+Country: United Kingdom
+Acceptable_country: Japan, Mexico, Mongolia
+Age: 23
+Acceptable_age_range: 18-25
+Likes: High-power rocketry, Do it yourself, Skiing, Animal fancy, Bowling
+Dislikes: Auto racing, Billiards, Horseback riding, Stone skipping
+
+Books: 
+Let It Snow - John Green
+The Very Hungry Caterpillar - Eric Carle
+Swimming Anatomy - Ian McLeod
+The Night Before Christmas - Holly Hobbie
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Prisoners of Geography - Tim Marshall
+Science Encyclopedia - National Geographic

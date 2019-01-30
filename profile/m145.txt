@@ -1,0 +1,17 @@
+Name: Boyd Bergman
+Gender: F
+Country: Russia
+Acceptable_country: Mongolia, Malaysia, Singapore, Mexico
+Age: 20
+Acceptable_age_range: 18-25
+Likes: Geocaching, Skydiving, Baton twirling, Drawing, Hooping
+Dislikes: Australian rules football, Electronics, Astrology, Air sports
+
+Books: 
+Paper Towns - John Green
+My Sister's Keeper - Jodi Picoult
+About a Boy - Nick Hornby
+The Amityville Horror - Jay Anson
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Shining - Stephen King
+Three Poems - Hannah Sullivan

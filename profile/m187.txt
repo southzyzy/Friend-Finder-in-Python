@@ -1,0 +1,16 @@
+Name: Roger Stamm
+Gender: F
+Country: Indonesia
+Acceptable_country: China, Mexico, United Kingdom, Korea
+Age: 26
+Acceptable_age_range: 20-25
+Likes: Drama, Handball, Animal fancy, High-power rocketry, Auto racing, Drawing
+Dislikes: Model aircraft, Aircraft spotting, Learning, Embroidery, Bowling
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+The Cat in the Hat - Roald Dahl
+Let It Snow - John Green
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Life-Changing Magic of Tidying - Marie Kondo
+The BFG - Roald Dahl

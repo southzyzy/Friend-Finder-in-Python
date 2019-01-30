@@ -1,0 +1,17 @@
+Name: Shannon Harshaw
+Gender: M
+Country: Belgium
+Acceptable_country: Japan, Indonesia, Korea
+Age: 18
+Acceptable_age_range: 17-23
+Likes: Dance, Skydiving, Embroidery, Learning
+Dislikes: High-power rocketry, Archery, Badminton, Horseback riding, Microscopy
+
+Books: 
+The Very Hungry Caterpillar - Eric Carle
+Swimming Anatomy - Ian McLeod
+Seven Brief Lessons on Physics - Carlo Rovelli
+About a Boy - Nick Hornby
+Fantastic Beasts and Where to Find Them - J.K Rowling
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Dead Zone - Stephen King

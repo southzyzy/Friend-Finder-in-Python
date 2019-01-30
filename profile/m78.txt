@@ -1,0 +1,16 @@
+Name: Marcos Pullins
+Gender: M
+Country: Japan
+Acceptable_country: Japan, Mongolia, Thailand
+Age: 18
+Acceptable_age_range: 19-24
+Likes: High-power rocketry, Do it yourself, Association football, Crossword puzzles, Surfing
+Dislikes: Archery, Surfing, Association football, Fishkeeping, Laser tag, Do it yourself
+
+Books: 
+The Brain That Changes Itself - Norman Doidge
+Rock Climbing Anchors - Craig Luebben
+Change of Heart - Jodi Picoult
+The Shining - Stephen King
+The Dead Zone - Stephen King
+Prisoners of Geography - Tim Marshall

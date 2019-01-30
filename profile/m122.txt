@@ -1,0 +1,16 @@
+Name: Nathanael Guilford
+Gender: F
+Country: Indonesia
+Acceptable_country: Russia, Mexico, Philippines
+Age: 19
+Acceptable_age_range: 20-25
+Likes: Billiards, Sun bathing, Kart racing, American football, Bird watching, Astronomy
+Dislikes: Kart racing, Bowling, Billiards, Hiking, Knife throwing
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+The Night Before Christmas - Holly Hobbie
+Let It Snow - John Green
+Paper Towns - John Green
+The Two Towers - J. R. R. Tolkien
+Three Poems - Hannah Sullivan

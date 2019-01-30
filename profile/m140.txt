@@ -1,0 +1,17 @@
+Name: Charmain Kirkpatrick
+Gender: F
+Country: United States of America
+Acceptable_country: Thailand, Japan, Mongolia
+Age: 22
+Acceptable_age_range: 20-26
+Likes: Australian rules football, Embroidery, Crossword puzzles, Microscopy, Skydiving
+Dislikes: Snowboarding, Aircraft spotting, Bus spotting, Skiing
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+Let It Snow - John Green
+Prodigal Son - Danielle Steel
+The Very Hungry Caterpillar - Eric Carle
+The Amityville Horror - Jay Anson
+The Life-Changing Magic of Tidying - Marie Kondo
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett

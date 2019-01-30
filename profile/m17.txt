@@ -1,0 +1,17 @@
+Name: Stephan Mccausland
+Gender: M
+Country: Japan
+Acceptable_country: United States of America, United Kingdom, Malaysia, Indonesia
+Age: 27
+Acceptable_age_range: 17-25
+Likes: Model aircraft, Meditation, Auto racing, Archery
+Dislikes: Archery, Surfing, Hiking, Laser tag, Crossword puzzles, Kart racing
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+The Elements - Nick Mann
+The Rocky Road to Romance - Janet Evanovich
+Modern Architecture - Kenneth Frampton
+Hop on Pop - Dr.Seuss
+My Sister's Keeper - Jodi Picoult
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss

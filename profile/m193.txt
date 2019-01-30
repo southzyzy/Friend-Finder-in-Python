@@ -1,0 +1,16 @@
+Name: Sang Galarza
+Gender: F
+Country: Singapore
+Acceptable_country: United Kingdom, Korea, Thailand
+Age: 19
+Acceptable_age_range: 17-26
+Likes: Slacklining, Stone skipping, Billiards, Skimboarding
+Dislikes: Archery, Hiking, Air sports, Crossword puzzles, Horseback riding, Learning
+
+Books: 
+The Elements - Nick Mann
+The Very Hungry Caterpillar - Eric Carle
+The Two Towers - J. R. R. Tolkien
+My Sister's Keeper - Jodi Picoult
+The Fault in Our Stars - John Green
+The Horror in the Museum - H. P. Lovecraft

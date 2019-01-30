@@ -1,0 +1,17 @@
+Name: Danette Morehead
+Gender: F
+Country: Russia
+Acceptable_country: Singapore, Mexico, Philippines, Belgium
+Age: 22
+Acceptable_age_range: 17-26
+Likes: Cryptography, Model aircraft, Bird watching, Digital arts, Astronomy, Drawing, Bus spotting
+Dislikes: American football, High-power rocketry, Do it yourself, Association football, Astrology
+
+Books: 
+The Elements - Nick Mann
+Swimming Anatomy - Ian McLeod
+About a Boy - Nick Hornby
+The Shining - Stephen King
+The Fault in Our Stars - John Green
+The Dead Zone - Stephen King
+Three Poems - Hannah Sullivan

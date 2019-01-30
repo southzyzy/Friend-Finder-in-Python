@@ -1,0 +1,15 @@
+Name: Altha Viger
+Gender: F
+Country: Indonesia
+Acceptable_country: Philippines, Singapore, Thailand, Indonesia
+Age: 27
+Acceptable_age_range: 19-24
+Likes: Embroidery, Dance, Amateur astronomy, Learning, Animal fancy, Birdwatching
+Dislikes: High-power rocketry, Snowboarding, Surfing, Laser tag
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Hop on Pop - Dr.Seuss
+The Life-Changing Magic of Tidying - Marie Kondo
+The Romance of the Three Kingdoms - Luo Guanzhong

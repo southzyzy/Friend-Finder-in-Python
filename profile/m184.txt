@@ -1,0 +1,17 @@
+Name: Verline Depaolo
+Gender: M
+Country: Mexico
+Acceptable_country: United Kingdom, Mexico, Korea
+Age: 27
+Acceptable_age_range: 18-26
+Likes: Fishkeeping, Meditation, Skiing, Marching band, Astrology
+Dislikes: Skydiving, Baton twirling, Association football, Digital arts, Hiking
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+The BFG - Roald Dahl
+The Very Hungry Caterpillar - Eric Carle
+Swimming Anatomy - Ian McLeod
+About a Boy - Nick Hornby
+The Award - Danielle Steel
+The Hobbit - J. R. R. Tolkien

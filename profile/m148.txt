@@ -1,0 +1,16 @@
+Name: Usha Kocher
+Gender: F
+Country: Japan
+Acceptable_country: Thailand, Belgium, Japan, United Kingdom
+Age: 25
+Acceptable_age_range: 20-24
+Likes: Fishkeeping, Dance, Drawing, Microscopy
+Dislikes: Fishkeeping, Aircraft spotting, Embroidery
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+Modern Architecture - Kenneth Frampton
+My Sister's Keeper - Jodi Picoult
+Computer Networking: A Top-Down Approach - James Kurose
+IT - Stephen King
+The Hobbit - J. R. R. Tolkien

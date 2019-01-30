@@ -1,0 +1,16 @@
+Name: Judson Baughman
+Gender: M
+Country: Philippines
+Acceptable_country: Thailand, Russia, Korea, Mongolia
+Age: 26
+Acceptable_age_range: 17-26
+Likes: Dance, Surfing, Cryptography, Astrology
+Dislikes: High-power rocketry, Knife throwing, Kabaddi, Association football, Bowling
+
+Books: 
+The Righteous Mind - Jonathan Haidt
+Charlie and the Chocolate Factory - Roald Dahl
+Quantum Computing For Babies - Chris Ferrie
+The Amityville Horror - Jay Anson
+The Life-Changing Magic of Tidying - Marie Kondo
+The Award - Danielle Steel

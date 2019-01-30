@@ -1,0 +1,17 @@
+Name: Earlie Jefferis
+Gender: F
+Country: Malaysia
+Acceptable_country: Korea, Mongolia, Philippines, Japan
+Age: 22
+Acceptable_age_range: 20-25
+Likes: Crossword puzzles, Badminton, Amateur astronomy, Hooping, Snowboarding, Do it yourself, Drawing
+Dislikes: Aircraft spotting, Microscopy, Bus spotting, Badminton
+
+Books: 
+About a Boy - Nick Hornby
+The Amityville Horror - Jay Anson
+Beowulf - J. R. R. Tolkien
+The Life-Changing Magic of Tidying - Marie Kondo
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+Animal Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

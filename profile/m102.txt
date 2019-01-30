@@ -1,0 +1,15 @@
+Name: Emery Castro
+Gender: M
+Country: Philippines
+Acceptable_country: Mongolia, Malaysia, China, Belgium
+Age: 24
+Acceptable_age_range: 21-26
+Likes: High-power rocketry, Bird watching, Badminton, Cryptography
+Dislikes: High-power rocketry, Drama, Laser tag, Horseback riding
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+The Elements of Computing Systems - Noam Nisan
+The Fault in Our Stars - John Green
+Matilda - Roald Dahl
+Prodigal Son - Danielle Steel

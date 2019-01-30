@@ -1,0 +1,16 @@
+Name: Rolando Mogensen
+Gender: M
+Country: Philippines
+Acceptable_country: Japan, Belgium, United States of America, Philippines
+Age: 25
+Acceptable_age_range: 20-23
+Likes: Kabaddi, Laser tag, Kart racing, Amateur astronomy, Animal fancy, Electronics
+Dislikes: Meditation, Laser tag, Marching band, Horseback riding
+
+Books: 
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Prodigal Son - Danielle Steel
+The Rocky Road to Romance - Janet Evanovich
+The Amityville Horror - Jay Anson
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Fellowship of the Ring - J. R. R. Tolkien

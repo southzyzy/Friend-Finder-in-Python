@@ -1,0 +1,17 @@
+Name: Sherril Clauss
+Gender: F
+Country: United States of America
+Acceptable_country: Indonesia, Philippines, China, Japan
+Age: 18
+Acceptable_age_range: 17-24
+Likes: Gardening, Fishkeeping, Badminton, Learning, Baton twirling, Astronomy
+Dislikes: Australian rules football, Microscopy, Drama, Model aircraft, Skiing, Handball, Marching band
+
+Books: 
+The Very Hungry Caterpillar - Eric Carle
+Hop on Pop - Dr.Seuss
+The Life-Changing Magic of Tidying - Marie Kondo
+The Horror in the Museum - H. P. Lovecraft
+Rock Climbing Anchors - Craig Luebben
+Prisoners of Geography - Tim Marshall
+The Hobbit - J. R. R. Tolkien

@@ -1,0 +1,16 @@
+Name: Kelley Fenton
+Gender: F
+Country: Japan
+Acceptable_country: Russia, United Kingdom, Thailand, Malaysia
+Age: 20
+Acceptable_age_range: 19-26
+Likes: Drama, Archery, Astronomy, Astrology
+Dislikes: Dance, High-power rocketry, Surfing, Bus spotting, Bowling
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+The Rocky Road to Romance - Janet Evanovich
+Paper Towns - John Green
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Shining - Stephen King
+Prisoners of Geography - Tim Marshall

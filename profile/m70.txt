@@ -1,0 +1,17 @@
+Name: Enoch Artist
+Gender: F
+Country: China
+Acceptable_country: Thailand, Malaysia, United Kingdom, Japan
+Age: 22
+Acceptable_age_range: 17-26
+Likes: Gardening, High-power rocketry, Handball, Slacklining, Baton twirling, Bus spotting
+Dislikes: Dance, Archery, Digital arts, Fishkeeping, Crossword puzzles
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+The Brain That Changes Itself - Norman Doidge
+Computer Networking: A Top-Down Approach - James Kurose
+The BFG - Roald Dahl
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Elements of Computing Systems - Noam Nisan
+The Horror in the Museum - H. P. Lovecraft

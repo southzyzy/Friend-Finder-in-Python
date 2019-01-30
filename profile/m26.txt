@@ -1,0 +1,16 @@
+Name: Shawnee Ludlow
+Gender: M
+Country: United Kingdom
+Acceptable_country: Mongolia, United States of America, Philippines
+Age: 18
+Acceptable_age_range: 21-23
+Likes: Dance, Drama, Meditation, Association football, Skimboarding
+Dislikes: Fishkeeping, Badminton, Amateur astronomy, Learning, Bowling, Astronomy, Drawing
+
+Books: 
+Let It Snow - John Green
+The Very Hungry Caterpillar - Eric Carle
+The Fault in Our Stars - John Green
+Rock Climbing Anchors - Craig Luebben
+The Award - Danielle Steel
+IT - Stephen King

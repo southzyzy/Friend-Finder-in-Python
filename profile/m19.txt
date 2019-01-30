@@ -1,0 +1,17 @@
+Name: Ivey Parodi
+Gender: F
+Country: Mexico
+Acceptable_country: Mongolia, Mexico, Indonesia
+Age: 25
+Acceptable_age_range: 17-25
+Likes: American football, Archery, Aircraft spotting, Hooping
+Dislikes: Dance, Skydiving, Amateur astronomy, Cryptography
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+Hop on Pop - Dr.Seuss
+My Sister's Keeper - Jodi Picoult
+Computer Networking: A Top-Down Approach - James Kurose
+Beowulf - J. R. R. Tolkien
+The Life-Changing Magic of Tidying - Marie Kondo
+Fantastic Beasts and Where to Find Them - J.K Rowling

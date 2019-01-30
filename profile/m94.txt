@@ -1,0 +1,17 @@
+Name: Olin Beaudin
+Gender: F
+Country: Japan
+Acceptable_country: Korea, Thailand, Japan, Singapore
+Age: 18
+Acceptable_age_range: 20-26
+Likes: Archery, Hiking, Microscopy, Skiing, American football, Do it yourself, Birdwatching
+Dislikes: Drama, Digital arts, Astronomy, Gardening
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+The Righteous Mind - Jonathan Haidt
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Matilda - Roald Dahl
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+Three Poems - Hannah Sullivan
+The Fellowship of the Ring - J. R. R. Tolkien

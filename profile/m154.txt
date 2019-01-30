@@ -1,0 +1,17 @@
+Name: Merlin Stolle
+Gender: F
+Country: Russia
+Acceptable_country: Mongolia, China, Japan
+Age: 27
+Acceptable_age_range: 20-26
+Likes: Cryptography, Air sports, Dance, Aircraft spotting, Learning, Auto racing, Airsoft
+Dislikes: Digital arts, Knife throwing, Bus spotting, Air sports
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+Matilda - Roald Dahl
+Paper Towns - John Green
+The Night Before Christmas - Holly Hobbie
+The Righteous Mind - Jonathan Haidt
+Computer Networking: A Top-Down Approach - James Kurose
+The Horror in the Museum - H. P. Lovecraft

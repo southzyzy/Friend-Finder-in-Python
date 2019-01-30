@@ -1,0 +1,17 @@
+Name: Delena Mansur
+Gender: F
+Country: Philippines
+Acceptable_country: United Kingdom, Mongolia, Korea, Singapore
+Age: 24
+Acceptable_age_range: 19-26
+Likes: Archery, Fishkeeping, Crossword puzzles, Geocaching, Knife throwing, Sun bathing
+Dislikes: Handball, Australian rules football, Billiards, Amateur astronomy
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+Let It Snow - John Green
+Modern Architecture - Kenneth Frampton
+Paper Towns - John Green
+The Night Before Christmas - Holly Hobbie
+Change of Heart - Jodi Picoult
+Swimming Anatomy - Ian McLeod

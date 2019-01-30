@@ -1,0 +1,17 @@
+Name: Charolette Mosqueda
+Gender: M
+Country: Indonesia
+Acceptable_country: Korea, Malaysia, Russia
+Age: 23
+Acceptable_age_range: 18-25
+Likes: Geocaching, Model aircraft, Skimboarding, Animal fancy, High-power rocketry, Snowboarding, Digital arts
+Dislikes: Skydiving, Billiards, Hooping, Embroidery, Skiing
+
+Books: 
+The Brain That Changes Itself - Norman Doidge
+The Righteous Mind - Jonathan Haidt
+The Very Hungry Caterpillar - Eric Carle
+IT - Stephen King
+Fantastic Beasts and Where to Find Them - J.K Rowling
+The BFG - Roald Dahl
+Three Poems - Hannah Sullivan

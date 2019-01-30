@@ -1,0 +1,16 @@
+Name: Maryetta Basye
+Gender: M
+Country: Mexico
+Acceptable_country: China, Malaysia, United States of America, Thailand
+Age: 24
+Acceptable_age_range: 19-24
+Likes: Fishkeeping, Baton twirling, Airsoft, Embroidery
+Dislikes: Fishkeeping, Australian rules football, Badminton, Animal fancy, Sun bathing, Astronomy
+
+Books: 
+The Elements - Nick Mann
+Matilda - Roald Dahl
+The Amityville Horror - Jay Anson
+The Horror in the Museum - H. P. Lovecraft
+Animal Encyclopedia - National Geographic
+Three Poems - Hannah Sullivan

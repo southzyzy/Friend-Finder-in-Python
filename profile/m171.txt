@@ -1,0 +1,16 @@
+Name: Tyesha Dicus
+Gender: F
+Country: United Kingdom
+Acceptable_country: Malaysia, Japan, Mexico
+Age: 20
+Acceptable_age_range: 17-25
+Likes: Gardening, Geocaching, Kabaddi, Hooping, Animal fancy, Do it yourself
+Dislikes: Geocaching, Horseback riding, Embroidery, Animal fancy, Handball, Snowboarding, Auto racing
+
+Books: 
+Matilda - Roald Dahl
+The Very Hungry Caterpillar - Eric Carle
+The Night Before Christmas - Holly Hobbie
+Fantastic Beasts and Where to Find Them - J.K Rowling
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Shining - Stephen King

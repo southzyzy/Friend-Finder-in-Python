@@ -1,0 +1,17 @@
+Name: Elina Botsford
+Gender: M
+Country: Russia
+Acceptable_country: Mexico, Belgium, Singapore
+Age: 18
+Acceptable_age_range: 20-23
+Likes: Sun bathing, Billiards, Association football, Birdwatching
+Dislikes: American football, Australian rules football, Stone skipping, Laser tag
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+The Cat in the Hat - Roald Dahl
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Swimming Anatomy - Ian McLeod
+My Sister's Keeper - Jodi Picoult
+The Fault in Our Stars - John Green
+A Little History of Religion - Richard Holloway

@@ -1,0 +1,15 @@
+Name: Harriet Donaldson
+Gender: M
+Country: Malaysia
+Acceptable_country: United Kingdom, Japan, Russia
+Age: 27
+Acceptable_age_range: 20-24
+Likes: Geocaching, Slacklining, Kabaddi, Laser tag, Skiing
+Dislikes: Skydiving, Airsoft, Marching band, Animal fancy
+
+Books: 
+The Amityville Horror - Jay Anson
+Matilda - Roald Dahl
+The Dead Zone - Stephen King
+Rock Climbing Anchors - Craig Luebben
+Science Encyclopedia - National Geographic

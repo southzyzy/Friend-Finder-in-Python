@@ -1,0 +1,17 @@
+Name: Gabriele Gleason
+Gender: M
+Country: China
+Acceptable_country: United States of America, Belgium, United Kingdom
+Age: 21
+Acceptable_age_range: 19-23
+Likes: Hiking, Kabaddi, Skimboarding, Electronics, Do it yourself, Astrology
+Dislikes: Skiing, Geocaching, Kabaddi, Australian rules football, Knife throwing, Birdwatching
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+The Brain That Changes Itself - Norman Doidge
+The Cat in the Hat - Roald Dahl
+About a Boy - Nick Hornby
+Thinking Architecture - Peter Zumthor
+Rock Climbing Anchors - Craig Luebben
+Animal Encyclopedia - National Geographic

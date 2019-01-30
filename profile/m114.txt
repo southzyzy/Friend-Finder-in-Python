@@ -1,0 +1,17 @@
+Name: Antoine Loranger
+Gender: M
+Country: Malaysia
+Acceptable_country: Mongolia, Indonesia, Mexico, Belgium
+Age: 19
+Acceptable_age_range: 20-25
+Likes: Surfing, Australian rules football, Geocaching, Skydiving, Bowling, Do it yourself
+Dislikes: Dance, Model aircraft, Surfing, Amateur astronomy, Hiking
+
+Books: 
+The Elements - Nick Mann
+The Cat in the Hat - Roald Dahl
+Prodigal Son - Danielle Steel
+Matilda - Roald Dahl
+Swimming Anatomy - Ian McLeod
+My Sister's Keeper - Jodi Picoult
+The Very Hungry Caterpillar - Eric Carle

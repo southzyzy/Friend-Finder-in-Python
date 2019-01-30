@@ -1,0 +1,17 @@
+Name: Sherlene Bergen
+Gender: M
+Country: United States of America
+Acceptable_country: United Kingdom, China, Malaysia, Singapore
+Age: 24
+Acceptable_age_range: 20-26
+Likes: Do it yourself, Stone skipping, Badminton, Slacklining, Baton twirling
+Dislikes: Cryptography, Fishkeeping, Australian rules football, Kart racing, Embroidery, Handball
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+Beowulf - J. R. R. Tolkien
+Matilda - Roald Dahl
+Modern Architecture - Kenneth Frampton
+Swimming Anatomy - Ian McLeod
+A Little History of Religion - Richard Holloway
+Rock Climbing Anchors - Craig Luebben

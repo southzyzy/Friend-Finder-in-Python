@@ -1,0 +1,17 @@
+Name: Elina Botsford
+Gender: M
+Country: United States of America
+Acceptable_country: Mongolia, Belgium, Malaysia, Philippines
+Age: 23
+Acceptable_age_range: 21-24
+Likes: Stone skipping, Surfing, Meditation, Hiking
+Dislikes: Snowboarding, Auto racing, Microscopy, Bird watching, Knife throwing
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Prodigal Son - Danielle Steel
+Modern Architecture - Kenneth Frampton
+About a Boy - Nick Hornby
+A Little History of Religion - Richard Holloway
+Rock Climbing Anchors - Craig Luebben

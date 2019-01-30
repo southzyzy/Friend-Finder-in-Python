@@ -1,0 +1,17 @@
+Name: Tristan Pascal
+Gender: F
+Country: Korea
+Acceptable_country: China, Russia, United Kingdom
+Age: 20
+Acceptable_age_range: 20-25
+Likes: Sun bathing, Archery, Marching band, Snowboarding, Astrology
+Dislikes: Association football, Stone skipping, Embroidery, Animal fancy, Sun bathing, Bus spotting
+
+Books: 
+Let It Snow - John Green
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Modern Architecture - Kenneth Frampton
+The Two Towers - J. R. R. Tolkien
+IT - Stephen King
+The BFG - Roald Dahl
+Three Poems - Hannah Sullivan

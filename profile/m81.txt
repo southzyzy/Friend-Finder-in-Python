@@ -1,0 +1,17 @@
+Name: Adolfo Lockley
+Gender: M
+Country: Singapore
+Acceptable_country: United Kingdom, Mongolia, Indonesia, Malaysia
+Age: 21
+Acceptable_age_range: 20-23
+Likes: Crossword puzzles, Marching band, Drama, Kart racing, Amateur astronomy, Hooping, Drawing
+Dislikes: Snowboarding, Gardening, Archery
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+Paper Towns - John Green
+The Night Before Christmas - Holly Hobbie
+My Sister's Keeper - Jodi Picoult
+Computer Networking: A Top-Down Approach - James Kurose
+The Amityville Horror - Jay Anson
+Matilda - Roald Dahl

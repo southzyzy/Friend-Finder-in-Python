@@ -1,0 +1,17 @@
+Name: Jesenia Lakey
+Gender: M
+Country: Belgium
+Acceptable_country: China, Philippines, Singapore, Belgium
+Age: 25
+Acceptable_age_range: 18-24
+Likes: Gardening, Stone skipping, Kabaddi, Skimboarding, Astronomy, Marching band
+Dislikes: Sun bathing, American football, Billiards, Amateur astronomy, Laser tag
+
+Books: 
+The Righteous Mind - Jonathan Haidt
+Prodigal Son - Danielle Steel
+The Very Hungry Caterpillar - Eric Carle
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The BFG - Roald Dahl
+Prisoners of Geography - Tim Marshall
+The Hobbit - J. R. R. Tolkien

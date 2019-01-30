@@ -1,0 +1,17 @@
+Name: Donette Ozuna
+Gender: F
+Country: Indonesia
+Acceptable_country: Japan, United States of America, Korea, Malaysia
+Age: 24
+Acceptable_age_range: 17-24
+Likes: Meditation, Kabaddi, Hooping, Birdwatching, Knife throwing
+Dislikes: Model aircraft, Skimboarding, Drawing, Animal fancy
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+The Fellowship of the Ring - J. R. R. Tolkien
+About a Boy - Nick Hornby
+Thinking Architecture - Peter Zumthor
+The Award - Danielle Steel
+The Horror in the Museum - H. P. Lovecraft
+The Shining - Stephen King

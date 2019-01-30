@@ -1,0 +1,16 @@
+Name: Belinda Davalos
+Gender: M
+Country: Mongolia
+Acceptable_country: Russia, Philippines, Mongolia
+Age: 21
+Acceptable_age_range: 17-24
+Likes: Surfing, Slacklining, Kabaddi, Animal fancy, Gardening, Digital arts
+Dislikes: Digital arts, Stone skipping, Hooping, Bus spotting
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+The Two Towers - J. R. R. Tolkien
+My Sister's Keeper - Jodi Picoult
+The Fellowship of the Ring - J. R. R. Tolkien
+The Dead Zone - Stephen King
+Science Encyclopedia - National Geographic

@@ -1,0 +1,17 @@
+Name: Jeneva Mcchesney
+Gender: F
+Country: Malaysia
+Acceptable_country: Philippines, Mongolia, Singapore, Indonesia
+Age: 20
+Acceptable_age_range: 18-23
+Likes: Archery, Digital arts, Amateur astronomy, Bus spotting
+Dislikes: Archery, Cryptography, Dance, Skimboarding, Baton twirling, Electronics
+
+Books: 
+Modern Architecture - Kenneth Frampton
+Swimming Anatomy - Ian McLeod
+The Fault in Our Stars - John Green
+Beowulf - J. R. R. Tolkien
+The Dead Zone - Stephen King
+Paper Towns - John Green
+Prisoners of Geography - Tim Marshall

@@ -1,0 +1,17 @@
+Name: Kelly Venegas
+Gender: M
+Country: United Kingdom
+Acceptable_country: Malaysia, Korea, United States of America
+Age: 25
+Acceptable_age_range: 20-23
+Likes: Drama, Skydiving, Digital arts, Badminton, Bus spotting
+Dislikes: Kabaddi, Stone skipping, Airsoft, Marching band, Cryptography
+
+Books: 
+Let It Snow - John Green
+The Rocky Road to Romance - Janet Evanovich
+The Fault in Our Stars - John Green
+A Little History of Religion - Richard Holloway
+The Very Hungry Caterpillar - Eric Carle
+The Fellowship of the Ring - J. R. R. Tolkien
+Science Encyclopedia - National Geographic

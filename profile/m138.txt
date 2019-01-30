@@ -1,0 +1,17 @@
+Name: Damion Deyoe
+Gender: M
+Country: China
+Acceptable_country: Indonesia, China, Malaysia
+Age: 21
+Acceptable_age_range: 20-26
+Likes: Archery, Gardening, Dance, Kabaddi, Microscopy, Kart racing
+Dislikes: American football, Fishkeeping, Archery, Drawing, Marching band
+
+Books: 
+The Cat in the Hat - Roald Dahl
+The Rocky Road to Romance - Janet Evanovich
+Paper Towns - John Green
+My Sister's Keeper - Jodi Picoult
+Matilda - Roald Dahl
+The Shining - Stephen King
+The Hobbit - J. R. R. Tolkien

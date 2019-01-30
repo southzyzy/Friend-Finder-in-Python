@@ -1,0 +1,17 @@
+Name: Ricardo Archambault
+Gender: F
+Country: Japan
+Acceptable_country: Belgium, Japan, Russia, Philippines
+Age: 23
+Acceptable_age_range: 20-26
+Likes: Snowboarding, Meditation, Model aircraft
+Dislikes: Sun bathing, Australian rules football, Amateur astronomy, Slacklining
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+Let It Snow - John Green
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Award - Danielle Steel
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Shining - Stephen King
+Three Poems - Hannah Sullivan

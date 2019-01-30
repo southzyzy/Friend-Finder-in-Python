@@ -1,0 +1,17 @@
+Name: Earlean Every
+Gender: M
+Country: United Kingdom
+Acceptable_country: Thailand, Mexico, Japan
+Age: 23
+Acceptable_age_range: 19-24
+Likes: High-power rocketry, Laser tag, Meditation, Association football, Hiking
+Dislikes: Drama, Handball, Skimboarding
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+Modern Architecture - Kenneth Frampton
+My Sister's Keeper - Jodi Picoult
+Computer Networking: A Top-Down Approach - James Kurose
+The BFG - Roald Dahl
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Change of Heart - Jodi Picoult

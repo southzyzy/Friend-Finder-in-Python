@@ -1,0 +1,17 @@
+Name: Lucienne Luz
+Gender: M
+Country: United States of America
+Acceptable_country: China, Mongolia, Philippines, Korea
+Age: 26
+Acceptable_age_range: 17-24
+Likes: Surfing, Cryptography, Drama, Kart racing, Animal fancy, Electronics, Drawing
+Dislikes: American football, Fishkeeping, Do it yourself, Skiing
+
+Books: 
+The Night Before Christmas - Holly Hobbie
+Let It Snow - John Green
+Paper Towns - John Green
+The Two Towers - J. R. R. Tolkien
+The BFG - Roald Dahl
+Change of Heart - Jodi Picoult
+The Romance of the Three Kingdoms - Luo Guanzhong

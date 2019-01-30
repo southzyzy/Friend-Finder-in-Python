@@ -1,0 +1,17 @@
+Name: Marti Soltys
+Gender: M
+Country: Malaysia
+Acceptable_country: United States of America, United Kingdom, Russia, Indonesia
+Age: 25
+Acceptable_age_range: 21-26
+Likes: Cryptography, Billiards, Badminton, Skimboarding, Skiing, Baton twirling
+Dislikes: Baton twirling, Sun bathing, Auto racing, Learning, Bus spotting
+
+Books: 
+The Elements - Nick Mann
+Let It Snow - John Green
+Swimming Anatomy - Ian McLeod
+The Fault in Our Stars - John Green
+A Little History of Religion - Richard Holloway
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Fellowship of the Ring - J. R. R. Tolkien

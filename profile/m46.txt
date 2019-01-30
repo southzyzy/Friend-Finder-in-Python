@@ -1,0 +1,17 @@
+Name: Jamee Zavala
+Gender: M
+Country: Korea
+Acceptable_country: Singapore, United States of America, Mongolia
+Age: 20
+Acceptable_age_range: 17-25
+Likes: Fishkeeping, Archery, Auto racing, Astronomy, Model aircraft
+Dislikes: Archery, Knife throwing, Sun bathing, Bird watching, Electronics, Airsoft, Meditation
+
+Books: 
+The Cat in the Hat - Roald Dahl
+Let It Snow - John Green
+Charlie and the Chocolate Factory - Roald Dahl
+Computer Networking: A Top-Down Approach - James Kurose
+Rock Climbing Anchors - Craig Luebben
+Three Poems - Hannah Sullivan
+Animal Encyclopedia - National Geographic

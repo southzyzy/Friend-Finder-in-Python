@@ -1,0 +1,17 @@
+Name: Ed Bugbee
+Gender: F
+Country: Korea
+Acceptable_country: Thailand, Mongolia, Japan, United Kingdom
+Age: 24
+Acceptable_age_range: 17-24
+Likes: Sun bathing, Model aircraft, Surfing, Air sports, Archery
+Dislikes: Do it yourself, Sun bathing, Airsoft, Microscopy, Kart racing
+
+Books: 
+Let It Snow - John Green
+The Rocky Road to Romance - Janet Evanovich
+Hop on Pop - Dr.Seuss
+My Sister's Keeper - Jodi Picoult
+Seven Brief Lessons on Physics - Carlo Rovelli
+A Little History of Religion - Richard Holloway
+The Hobbit - J. R. R. Tolkien

@@ -1,0 +1,17 @@
+Name: Son Spanbauer
+Gender: M
+Country: United States of America
+Acceptable_country: Philippines, Russia, Korea
+Age: 20
+Acceptable_age_range: 19-26
+Likes: Electronics, Astronomy, Association football, Embroidery, Astrology
+Dislikes: High-power rocketry, Skydiving, Stone skipping, Drama, Learning
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+Cracking the Coding Interview - Gayle Laakmann
+Computer Networking: A Top-Down Approach - James Kurose
+The Fault in Our Stars - John Green
+Animal Encyclopedia - National Geographic
+Science Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

@@ -1,0 +1,17 @@
+Name: Ivy Amrhein
+Gender: M
+Country: China
+Acceptable_country: Japan, United States of America, Philippines
+Age: 23
+Acceptable_age_range: 21-24
+Likes: Fishkeeping, Bird watching, Auto racing, Kabaddi, Air sports
+Dislikes: Air sports, Billiards, Amateur astronomy, Marching band, Hooping
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Fault in Our Stars - John Green
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Fellowship of the Ring - J. R. R. Tolkien
+Science Encyclopedia - National Geographic

@@ -1,0 +1,16 @@
+Name: Lucille Greenidge
+Gender: M
+Country: Japan
+Acceptable_country: Korea, Russia, Japan
+Age: 23
+Acceptable_age_range: 21-23
+Likes: Handball, Sun bathing, Airsoft, Model aircraft, Badminton
+Dislikes: Dance, Embroidery, Bus spotting, Knife throwing
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+Modern Architecture - Kenneth Frampton
+The Very Hungry Caterpillar - Eric Carle
+Animal Encyclopedia - National Geographic
+The Dead Zone - Stephen King
+Prisoners of Geography - Tim Marshall

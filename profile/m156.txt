@@ -1,0 +1,17 @@
+Name: Matthew Mckern
+Gender: M
+Country: Korea
+Acceptable_country: Mongolia, United Kingdom, Russia
+Age: 23
+Acceptable_age_range: 21-26
+Likes: Meditation, Kart racing, Hooping
+Dislikes: Archery, Australian rules football, Snowboarding, Electronics, Airsoft, Marching band
+
+Books: 
+Charlie and the Chocolate Factory - Roald Dahl
+Paper Towns - John Green
+A Little History of Religion - Richard Holloway
+The Life-Changing Magic of Tidying - Marie Kondo
+Change of Heart - Jodi Picoult
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Dead Zone - Stephen King

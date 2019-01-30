@@ -1,0 +1,17 @@
+Name: Rickie Dungan
+Gender: M
+Country: Korea
+Acceptable_country: United States of America, Singapore, Korea
+Age: 26
+Acceptable_age_range: 19-26
+Likes: Model aircraft, Slacklining, Horseback riding, Bowling
+Dislikes: Skydiving, Digital arts, Learning, Birdwatching, Skiing
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+Charlie and the Chocolate Factory - Roald Dahl
+My Sister's Keeper - Jodi Picoult
+Computer Networking: A Top-Down Approach - James Kurose
+About a Boy - Nick Hornby
+The Fellowship of the Ring - J. R. R. Tolkien
+Prisoners of Geography - Tim Marshall

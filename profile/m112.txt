@@ -1,0 +1,16 @@
+Name: Danette Morehead
+Gender: M
+Country: Mongolia
+Acceptable_country: Belgium, Indonesia, Mongolia
+Age: 19
+Acceptable_age_range: 17-24
+Likes: Kabaddi, Model aircraft, Billiards, Marching band
+Dislikes: Surfing, Air sports, Geocaching, Drama, Hooping, Baton twirling, Astronomy
+
+Books: 
+The Righteous Mind - Jonathan Haidt
+Paper Towns - John Green
+The Amityville Horror - Jay Anson
+The Life-Changing Magic of Tidying - Marie Kondo
+The BFG - Roald Dahl
+Change of Heart - Jodi Picoult

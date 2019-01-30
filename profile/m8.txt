@@ -1,0 +1,17 @@
+Name: Harry Webber
+Gender: F
+Country: Mexico
+Acceptable_country: Korea, Mexico, Thailand, Japan
+Age: 27
+Acceptable_age_range: 20-26
+Likes: Sun bathing, Australian rules football, Drawing, Animal fancy
+Dislikes: Astronomy, Gardening, Embroidery, Crossword puzzles, Skiing
+
+Books: 
+The Brain That Changes Itself - Norman Doidge
+Quantum Computing For Babies - Chris Ferrie
+Swimming Anatomy - Ian McLeod
+Beowulf - J. R. R. Tolkien
+The Life-Changing Magic of Tidying - Marie Kondo
+The Award - Danielle Steel
+Animal Encyclopedia - National Geographic

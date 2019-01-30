@@ -1,0 +1,16 @@
+Name: Dean Rutherford
+Gender: M
+Country: Malaysia
+Acceptable_country: Malaysia, Korea, Indonesia
+Age: 19
+Acceptable_age_range: 19-26
+Likes: Sun bathing, American football, Crossword puzzles, Bus spotting, Bowling
+Dislikes: American football, Model aircraft, Drama, Horseback riding
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+Modern Architecture - Kenneth Frampton
+The Two Towers - J. R. R. Tolkien
+The BFG - Roald Dahl
+Animal Encyclopedia - National Geographic
+Science Encyclopedia - National Geographic

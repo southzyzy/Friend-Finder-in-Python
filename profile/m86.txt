@@ -1,0 +1,16 @@
+Name: Tommie Breunig
+Gender: M
+Country: China
+Acceptable_country: Singapore, Russia, Belgium, Mexico
+Age: 23
+Acceptable_age_range: 17-24
+Likes: Slacklining, Stone skipping, Badminton, Bird watching, Auto racing, Do it yourself, Bus spotting
+Dislikes: Bowling, Airsoft, Skiing, Badminton, Knife throwing
+
+Books: 
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Swimming Anatomy - Ian McLeod
+The Night Before Christmas - Holly Hobbie
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Amityville Horror - Jay Anson
+The Romance of the Three Kingdoms - Luo Guanzhong

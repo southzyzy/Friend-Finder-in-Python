@@ -1,0 +1,17 @@
+Name: Sarina Manigault
+Gender: M
+Country: Korea
+Acceptable_country: Korea, Belgium, Russia, Malaysia
+Age: 25
+Acceptable_age_range: 20-25
+Likes: Meditation, Kart racing, Laser tag, Bus spotting, Birdwatching
+Dislikes: Association football, Stone skipping, Laser tag, Drama, Skimboarding, Skiing
+
+Books: 
+The Elements - Nick Mann
+Cracking the Coding Interview - Gayle Laakmann
+Beowulf - J. R. R. Tolkien
+The Rocky Road to Romance - Janet Evanovich
+Hop on Pop - Dr.Seuss
+The Very Hungry Caterpillar - Eric Carle
+Fantastic Beasts and Where to Find Them - J.K Rowling

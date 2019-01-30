@@ -1,0 +1,16 @@
+Name: Jerrod Sugg
+Gender: M
+Country: United Kingdom
+Acceptable_country: Malaysia, Mexico, United States of America, United Kingdom
+Age: 22
+Acceptable_age_range: 17-23
+Likes: Australian rules football, Hooping, Skiing, Handball, Birdwatching, Horseback riding
+Dislikes: Stone skipping, Hooping, Crossword puzzles
+
+Books: 
+Charlie and the Chocolate Factory - Roald Dahl
+The Amityville Horror - Jay Anson
+A Little History of Religion - Richard Holloway
+Rock Climbing Anchors - Craig Luebben
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Romance of the Three Kingdoms - Luo Guanzhong

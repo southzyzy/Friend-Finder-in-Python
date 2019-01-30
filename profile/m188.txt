@@ -1,0 +1,17 @@
+Name: Erma Trybus
+Gender: M
+Country: Philippines
+Acceptable_country: Indonesia, China, United Kingdom, United States of America
+Age: 24
+Acceptable_age_range: 21-26
+Likes: Stone skipping, Billiards, Microscopy, Skimboarding, Horseback riding, Skiing
+Dislikes: Model aircraft, Surfing, Birdwatching, Astrology
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+The Cat in the Hat - Roald Dahl
+The Rocky Road to Romance - Janet Evanovich
+Paper Towns - John Green
+My Sister's Keeper - Jodi Picoult
+The Very Hungry Caterpillar - Eric Carle
+The Fellowship of the Ring - J. R. R. Tolkien

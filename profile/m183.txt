@@ -1,0 +1,16 @@
+Name: Delmer Abdulla
+Gender: F
+Country: Thailand
+Acceptable_country: Russia, United Kingdom, Malaysia
+Age: 25
+Acceptable_age_range: 18-25
+Likes: American football, Geocaching, Laser tag, Marching band, Hiking
+Dislikes: Handball, Kart racing, Gardening, Skiing
+
+Books: 
+Let It Snow - John Green
+Swimming Anatomy - Ian McLeod
+The Night Before Christmas - Holly Hobbie
+Seven Brief Lessons on Physics - Carlo Rovelli
+Three Poems - Hannah Sullivan
+Prisoners of Geography - Tim Marshall

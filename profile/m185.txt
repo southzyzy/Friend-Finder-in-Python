@@ -1,0 +1,15 @@
+Name: Kristyn Schrimsher
+Gender: F
+Country: Japan
+Acceptable_country: United Kingdom, Mexico, Indonesia, Japan
+Age: 24
+Acceptable_age_range: 17-25
+Likes: Dance, Crossword puzzles, Model aircraft, Horseback riding, Sun bathing, Snowboarding, Airsoft
+Dislikes: Sun bathing, Amateur astronomy, Crossword puzzles, Birdwatching
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+Hop on Pop - Dr.Seuss
+Let It Snow - John Green
+Rock Climbing Anchors - Craig Luebben
+IT - Stephen King

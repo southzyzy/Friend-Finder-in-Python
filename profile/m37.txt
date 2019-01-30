@@ -1,0 +1,17 @@
+Name: Boyd Bergman
+Gender: M
+Country: Korea
+Acceptable_country: Malaysia, Thailand, Russia, Belgium
+Age: 23
+Acceptable_age_range: 20-23
+Likes: Drama, Animal fancy, Astronomy, Bus spotting, Skiing
+Dislikes: Archery, Skimboarding, Marching band, Air sports
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+The Rocky Road to Romance - Janet Evanovich
+The Night Before Christmas - Holly Hobbie
+My Sister's Keeper - Jodi Picoult
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Shining - Stephen King
+The Dead Zone - Stephen King

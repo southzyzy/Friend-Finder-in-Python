@@ -1,0 +1,17 @@
+Name: Shanelle Okeefe
+Gender: M
+Country: Mexico
+Acceptable_country: Russia, Indonesia, United States of America, United Kingdom
+Age: 22
+Acceptable_age_range: 19-23
+Likes: Badminton, Amateur astronomy, Skiing, Sun bathing, Do it yourself, Astrology
+Dislikes: Stone skipping, Billiards, Gardening, Hiking
+
+Books: 
+The Very Hungry Caterpillar - Eric Carle
+Swimming Anatomy - Ian McLeod
+The Amityville Horror - Jay Anson
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Life-Changing Magic of Tidying - Marie Kondo
+Three Poems - Hannah Sullivan
+The Shining - Stephen King

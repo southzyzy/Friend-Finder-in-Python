@@ -1,0 +1,15 @@
+Name: Judy Murrieta
+Gender: M
+Country: Belgium
+Acceptable_country: Belgium, Philippines, United States of America, Malaysia
+Age: 27
+Acceptable_age_range: 19-25
+Likes: Archery, Association football, Dance, Animal fancy, Slacklining, Auto racing, Baton twirling
+Dislikes: Handball, Skydiving, Auto racing, Archery
+
+Books: 
+Seven Brief Lessons on Physics - Carlo Rovelli
+Hop on Pop - Dr.Seuss
+The Cat in the Hat - Roald Dahl
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+IT - Stephen King

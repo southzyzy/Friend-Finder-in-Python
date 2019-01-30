@@ -1,0 +1,17 @@
+Name: Antone Kubat
+Gender: M
+Country: Russia
+Acceptable_country: Thailand, United States of America, Singapore
+Age: 27
+Acceptable_age_range: 21-23
+Likes: Drama, Bird watching, Laser tag, High-power rocketry, Air sports
+Dislikes: Model aircraft, Kabaddi, Marching band, Hiking, Astrology
+
+Books: 
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+IT - Stephen King
+Rock Climbing Anchors - Craig Luebben
+The Award - Danielle Steel
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Horror in the Museum - H. P. Lovecraft
+The Fault in Our Stars - John Green

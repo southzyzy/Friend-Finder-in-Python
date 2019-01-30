@@ -1,0 +1,16 @@
+Name: Hershel Torrain
+Gender: F
+Country: United Kingdom
+Acceptable_country: Philippines, United States of America, Singapore, United Kingdom
+Age: 20
+Acceptable_age_range: 21-26
+Likes: Archery, Billiards, Skimboarding, Meditation, Airsoft, Drawing
+Dislikes: Association football, Laser tag, Badminton, Horseback riding, Digital arts, Birdwatching, Astrology
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+The Righteous Mind - Jonathan Haidt
+Charlie and the Chocolate Factory - Roald Dahl
+Hop on Pop - Dr.Seuss
+My Sister's Keeper - Jodi Picoult
+IT - Stephen King

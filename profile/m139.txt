@@ -1,0 +1,17 @@
+Name: Basilia Thrailkill
+Gender: M
+Country: Japan
+Acceptable_country: Singapore, Indonesia, Mexico, United States of America
+Age: 25
+Acceptable_age_range: 18-25
+Likes: Archery, Do it yourself, Skimboarding, Crossword puzzles, Badminton
+Dislikes: Association football, Laser tag, Skydiving, Learning, Knife throwing, Bus spotting
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+The Righteous Mind - Jonathan Haidt
+The Night Before Christmas - Holly Hobbie
+Quantum Computing For Babies - Chris Ferrie
+A Little History of Religion - Richard Holloway
+The Shining - Stephen King
+The Dead Zone - Stephen King

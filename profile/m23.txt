@@ -1,0 +1,17 @@
+Name: Jone Selvey
+Gender: F
+Country: Philippines
+Acceptable_country: Russia, Mongolia, Indonesia
+Age: 25
+Acceptable_age_range: 19-24
+Likes: Handball, Skimboarding, Airsoft, Laser tag, Crossword puzzles
+Dislikes: Archery, Model aircraft, Amateur astronomy, Digital arts, Baton twirling, Meditation
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+The Elements of Computing Systems - Noam Nisan
+Let It Snow - John Green
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Thinking Architecture - Peter Zumthor
+A Little History of Religion - Richard Holloway
+The Horror in the Museum - H. P. Lovecraft

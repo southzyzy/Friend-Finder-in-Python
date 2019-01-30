@@ -1,0 +1,16 @@
+Name: Thomasena Pottorff
+Gender: F
+Country: Russia
+Acceptable_country: Thailand, United Kingdom, Malaysia
+Age: 25
+Acceptable_age_range: 19-24
+Likes: Baton twirling, Association football, Drawing, Bus spotting, Knife throwing
+Dislikes: High-power rocketry, Bus spotting, Hiking
+
+Books: 
+The Cat in the Hat - Roald Dahl
+Let It Snow - John Green
+The Two Towers - J. R. R. Tolkien
+About a Boy - Nick Hornby
+Change of Heart - Jodi Picoult
+Prisoners of Geography - Tim Marshall

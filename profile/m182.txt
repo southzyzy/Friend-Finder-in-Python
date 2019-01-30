@@ -1,0 +1,17 @@
+Name: Jamey Polk
+Gender: M
+Country: Mongolia
+Acceptable_country: Russia, Korea, United States of America
+Age: 26
+Acceptable_age_range: 17-23
+Likes: High-power rocketry, Geocaching, Kabaddi, Bus spotting
+Dislikes: Skydiving, Meditation, Embroidery, Model aircraft
+
+Books: 
+Beowulf - J. R. R. Tolkien
+The Very Hungry Caterpillar - Eric Carle
+Swimming Anatomy - Ian McLeod
+The Rocky Road to Romance - Janet Evanovich
+Harry Potter and the Philosopher's Stone - J.K Rowling
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Three Poems - Hannah Sullivan

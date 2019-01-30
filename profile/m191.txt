@@ -1,0 +1,17 @@
+Name: Jenine Coltharp
+Gender: M
+Country: Singapore
+Acceptable_country: Korea, Malaysia, Thailand, Indonesia
+Age: 25
+Acceptable_age_range: 19-24
+Likes: Archery, Meditation, Surfing, Billiards
+Dislikes: Fishkeeping, Electronics, Surfing, Skimboarding
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+The Two Towers - J. R. R. Tolkien
+IT - Stephen King
+Thinking Architecture - Peter Zumthor
+The Award - Danielle Steel
+Three Poems - Hannah Sullivan
+Animal Encyclopedia - National Geographic

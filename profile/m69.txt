@@ -1,0 +1,16 @@
+Name: Caitlin Rockey
+Gender: F
+Country: Indonesia
+Acceptable_country: Mongolia, Russia, Korea, Indonesia
+Age: 19
+Acceptable_age_range: 20-26
+Likes: Model aircraft, Surfing, Association football, Air sports
+Dislikes: Dance, Meditation, Astronomy, Animal fancy
+
+Books: 
+The Righteous Mind - Jonathan Haidt
+The Rocky Road to Romance - Janet Evanovich
+Beowulf - J. R. R. Tolkien
+Three Poems - Hannah Sullivan
+The Dead Zone - Stephen King
+Science Encyclopedia - National Geographic

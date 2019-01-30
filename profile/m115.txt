@@ -1,0 +1,16 @@
+Name: Modesto Lafontant
+Gender: M
+Country: Singapore
+Acceptable_country: Korea, Thailand, Singapore
+Age: 18
+Acceptable_age_range: 18-25
+Likes: Archery, Digital arts, Kart racing, Association football, Cryptography
+Dislikes: Hiking, Australian rules football, Crossword puzzles, Skydiving, Skimboarding, Drawing
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+Let It Snow - John Green
+About a Boy - Nick Hornby
+The BFG - Roald Dahl
+Change of Heart - Jodi Picoult
+Science Encyclopedia - National Geographic

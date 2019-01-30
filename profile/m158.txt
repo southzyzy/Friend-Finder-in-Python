@@ -1,0 +1,17 @@
+Name: Manuela Matsuda
+Gender: F
+Country: Philippines
+Acceptable_country: Mongolia, Malaysia, Singapore, Philippines
+Age: 25
+Acceptable_age_range: 17-23
+Likes: Astronomy, Billiards, Animal fancy, High-power rocketry, Electronics, Airsoft
+Dislikes: Baton twirling, Billiards, Laser tag, Horseback riding, Stone skipping
+
+Books: 
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+The Rocky Road to Romance - Janet Evanovich
+Modern Architecture - Kenneth Frampton
+Seven Brief Lessons on Physics - Carlo Rovelli
+Fantastic Beasts and Where to Find Them - J.K Rowling
+The Life-Changing Magic of Tidying - Marie Kondo
+The Hobbit - J. R. R. Tolkien

@@ -1,0 +1,17 @@
+Name: Ryann Meraz
+Gender: F
+Country: Russia
+Acceptable_country: Korea, China, Mongolia, Thailand
+Age: 22
+Acceptable_age_range: 21-26
+Likes: Model aircraft, Stone skipping, Badminton, Association football
+Dislikes: American football, High-power rocketry, Badminton, Kart racing
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+Modern Architecture - Kenneth Frampton
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Shining - Stephen King
+Animal Encyclopedia - National Geographic
+The Fellowship of the Ring - J. R. R. Tolkien
+The Hobbit - J. R. R. Tolkien

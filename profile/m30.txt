@@ -1,0 +1,16 @@
+Name: Domingo Cannady
+Gender: F
+Country: Mexico
+Acceptable_country: Malaysia, Korea, China, Mongolia
+Age: 21
+Acceptable_age_range: 21-26
+Likes: Stone skipping, Do it yourself, Cryptography, Animal fancy
+Dislikes: Surfing, Stone skipping, Australian rules football, Learning, Bird watching, Astronomy
+
+Books: 
+The Righteous Mind - Jonathan Haidt
+The Rocky Road to Romance - Janet Evanovich
+Computer Networking: A Top-Down Approach - James Kurose
+IT - Stephen King
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Fellowship of the Ring - J. R. R. Tolkien

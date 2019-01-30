@@ -1,0 +1,17 @@
+Name: Sarita Dillman
+Gender: F
+Country: Malaysia
+Acceptable_country: Philippines, Mongolia, Japan, Belgium
+Age: 19
+Acceptable_age_range: 21-24
+Likes: Drama, Australian rules football, Aircraft spotting, Skiing, Baton twirling, Marching band, Bus spotting
+Dislikes: Geocaching, Snowboarding, Do it yourself, Skimboarding, Hooping
+
+Books: 
+The Elements - Nick Mann
+Cracking the Coding Interview - Gayle Laakmann
+The Cat in the Hat - Roald Dahl
+Let It Snow - John Green
+The Rocky Road to Romance - Janet Evanovich
+The Night Before Christmas - Holly Hobbie
+Harry Potter and the Philosopher's Stone - J.K Rowling

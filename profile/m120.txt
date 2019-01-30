@@ -1,0 +1,17 @@
+Name: Mahalia Wolken
+Gender: M
+Country: Japan
+Acceptable_country: Singapore, Japan, Indonesia
+Age: 23
+Acceptable_age_range: 17-26
+Likes: Geocaching, Bird watching, High-power rocketry, Learning, Archery
+Dislikes: Dance, Laser tag, Stone skipping, Association football
+
+Books: 
+Let It Snow - John Green
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+The Very Hungry Caterpillar - Eric Carle
+Seven Brief Lessons on Physics - Carlo Rovelli
+IT - Stephen King
+The Amityville Horror - Jay Anson
+Rock Climbing Anchors - Craig Luebben

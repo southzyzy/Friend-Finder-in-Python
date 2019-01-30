@@ -1,0 +1,15 @@
+Name: Brandee Rosenbaum
+Gender: F
+Country: Indonesia
+Acceptable_country: Mexico, Mongolia, Singapore
+Age: 20
+Acceptable_age_range: 18-25
+Likes: Fishkeeping, Electronics, Baton twirling, Association football, Meditation
+Dislikes: Fishkeeping, Bowling, Skimboarding, Embroidery, Knife throwing
+
+Books: 
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Change of Heart - Jodi Picoult
+The Fault in Our Stars - John Green
+Science Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

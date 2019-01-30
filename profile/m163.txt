@@ -1,0 +1,16 @@
+Name: Anisha Hayton
+Gender: M
+Country: Belgium
+Acceptable_country: Singapore, Thailand, United States of America
+Age: 21
+Acceptable_age_range: 19-26
+Likes: Slacklining, Stone skipping, Embroidery, Skiing, High-power rocketry, Birdwatching
+Dislikes: Stone skipping, Gardening, Bowling
+
+Books: 
+My Sister's Keeper - Jodi Picoult
+IT - Stephen King
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Shining - Stephen King
+The Dead Zone - Stephen King
+Prisoners of Geography - Tim Marshall

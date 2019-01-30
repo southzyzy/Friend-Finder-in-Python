@@ -1,0 +1,17 @@
+Name: Iluminada Hegg
+Gender: M
+Country: Korea
+Acceptable_country: Korea, Thailand, Belgium, China
+Age: 25
+Acceptable_age_range: 17-25
+Likes: Hiking, Stone skipping, Amateur astronomy, Embroidery, Bird watching, Bus spotting
+Dislikes: High-power rocketry, American football, Auto racing, Snowboarding
+
+Books: 
+Charlie and the Chocolate Factory - Roald Dahl
+Prodigal Son - Danielle Steel
+Hop on Pop - Dr.Seuss
+The Award - Danielle Steel
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Fellowship of the Ring - J. R. R. Tolkien
+Prisoners of Geography - Tim Marshall

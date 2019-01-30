@@ -1,0 +1,17 @@
+Name: Courtney Repp
+Gender: F
+Country: Mongolia
+Acceptable_country: Belgium, Japan, Indonesia, Mexico
+Age: 18
+Acceptable_age_range: 18-24
+Likes: Archery, Dance, Kart racing, Aircraft spotting, Animal fancy, Auto racing
+Dislikes: Slacklining, Cryptography, Model aircraft, Amateur astronomy, Baton twirling, Marching band
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+The Cat in the Hat - Roald Dahl
+Prodigal Son - Danielle Steel
+Matilda - Roald Dahl
+Computer Networking: A Top-Down Approach - James Kurose
+About a Boy - Nick Hornby
+The Award - Danielle Steel

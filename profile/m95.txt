@@ -1,0 +1,17 @@
+Name: Lucien Lynes
+Gender: F
+Country: Japan
+Acceptable_country: United Kingdom, Thailand, Japan
+Age: 22
+Acceptable_age_range: 19-25
+Likes: Model aircraft, Australian rules football, Do it yourself, Birdwatching, Astrology
+Dislikes: Gardening, Digital arts, Skimboarding, Auto racing, Crossword puzzles
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+The Cat in the Hat - Roald Dahl
+Modern Architecture - Kenneth Frampton
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Fault in Our Stars - John Green
+Change of Heart - Jodi Picoult
+The Shining - Stephen King

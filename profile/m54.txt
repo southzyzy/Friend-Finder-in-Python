@@ -1,0 +1,17 @@
+Name: Everett Bennetts
+Gender: F
+Country: Singapore
+Acceptable_country: Thailand, Philippines, Belgium, Indonesia
+Age: 18
+Acceptable_age_range: 17-24
+Likes: Kabaddi, Laser tag, Drama, Learning, Bowling, Handball, Do it yourself
+Dislikes: Stone skipping, Laser tag, Skimboarding, Handball, Digital arts, Drawing
+
+Books: 
+Prodigal Son - Danielle Steel
+The Rocky Road to Romance - Janet Evanovich
+Hop on Pop - Dr.Seuss
+My Sister's Keeper - Jodi Picoult
+Beowulf - J. R. R. Tolkien
+The BFG - Roald Dahl
+Change of Heart - Jodi Picoult

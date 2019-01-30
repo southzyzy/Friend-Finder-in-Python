@@ -1,0 +1,15 @@
+Name: Julius Woldt
+Gender: M
+Country: Russia
+Acceptable_country: Korea, Mongolia, Malaysia, Russia
+Age: 27
+Acceptable_age_range: 21-24
+Likes: High-power rocketry, Fishkeeping, Stone skipping, Australian rules football, American football, Snowboarding
+Dislikes: High-power rocketry, Skydiving, Amateur astronomy, Australian rules football
+
+Books: 
+A Little History of Religion - Richard Holloway
+Swimming Anatomy - Ian McLeod
+Animal Encyclopedia - National Geographic
+The Dead Zone - Stephen King
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss

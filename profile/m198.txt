@@ -1,0 +1,17 @@
+Name: Curt Bongiorno
+Gender: F
+Country: Japan
+Acceptable_country: United Kingdom, Mongolia, Indonesia, Thailand
+Age: 21
+Acceptable_age_range: 17-25
+Likes: Surfing, Air sports, Dance, Bowling, Kart racing, Animal fancy, Baton twirling
+Dislikes: Fishkeeping, Baton twirling, Badminton
+
+Books: 
+The Righteous Mind - Jonathan Haidt
+Computer Networking: A Top-Down Approach - James Kurose
+Thinking Architecture - Peter Zumthor
+Harry Potter and the Philosopher's Stone - J.K Rowling
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Three Poems - Hannah Sullivan
+Animal Encyclopedia - National Geographic

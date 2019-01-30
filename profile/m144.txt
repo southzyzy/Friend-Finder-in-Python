@@ -1,0 +1,17 @@
+Name: Winfred Zufelt
+Gender: F
+Country: Malaysia
+Acceptable_country: United States of America, Belgium, Korea
+Age: 18
+Acceptable_age_range: 20-24
+Likes: Kabaddi, Association football, Hiking, Bus spotting
+Dislikes: Archery, Astronomy, Association football, Animal fancy
+
+Books: 
+The Elements - Nick Mann
+Matilda - Roald Dahl
+Seven Brief Lessons on Physics - Carlo Rovelli
+The BFG - Roald Dahl
+Change of Heart - Jodi Picoult
+The Shining - Stephen King
+The Horror in the Museum - H. P. Lovecraft

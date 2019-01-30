@@ -1,0 +1,17 @@
+Name: Angelo Gist
+Gender: M
+Country: Mongolia
+Acceptable_country: Singapore, Japan, Korea
+Age: 25
+Acceptable_age_range: 21-23
+Likes: Slacklining, Bus spotting, Hiking, Cryptography
+Dislikes: Geocaching, Archery, Aircraft spotting, Slacklining, Cryptography
+
+Books: 
+The Elements - Nick Mann
+The Righteous Mind - Jonathan Haidt
+Charlie and the Chocolate Factory - Roald Dahl
+The Rocky Road to Romance - Janet Evanovich
+The Two Towers - J. R. R. Tolkien
+Seven Brief Lessons on Physics - Carlo Rovelli
+A Little History of Religion - Richard Holloway

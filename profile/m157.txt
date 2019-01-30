@@ -1,0 +1,16 @@
+Name: Josh Bowes
+Gender: F
+Country: Japan
+Acceptable_country: China, Malaysia, Indonesia, Belgium
+Age: 26
+Acceptable_age_range: 17-24
+Likes: Cryptography, Model aircraft, Horseback riding, Knife throwing, Meditation, Astronomy
+Dislikes: Dance, Fishkeeping, Billiards, Association football
+
+Books: 
+Let It Snow - John Green
+Hop on Pop - Dr.Seuss
+Computer Networking: A Top-Down Approach - James Kurose
+Rock Climbing Anchors - Craig Luebben
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Change of Heart - Jodi Picoult

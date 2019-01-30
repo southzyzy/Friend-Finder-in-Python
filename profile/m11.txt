@@ -1,0 +1,16 @@
+Name: Judson Baughman
+Gender: M
+Country: United Kingdom
+Acceptable_country: Singapore, Philippines, Korea, Indonesia
+Age: 24
+Acceptable_age_range: 20-23
+Likes: Drama, Snowboarding, Kart racing, Slacklining, Hiking
+Dislikes: Association football, Cryptography, Embroidery, High-power rocketry, Auto racing, Drawing
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+The Brain That Changes Itself - Norman Doidge
+The Cat in the Hat - Roald Dahl
+Paper Towns - John Green
+Beowulf - J. R. R. Tolkien
+Hop on Pop - Dr.Seuss

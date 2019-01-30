@@ -1,0 +1,17 @@
+Name: Olin Beaudin
+Gender: M
+Country: Indonesia
+Acceptable_country: Mongolia, Philippines, United Kingdom
+Age: 18
+Acceptable_age_range: 19-26
+Likes: Skydiving, Stone skipping, Kabaddi, Learning, Animal fancy
+Dislikes: Dance, Sun bathing, Slacklining, Bus spotting
+
+Books: 
+The Elements - Nick Mann
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+The Rocky Road to Romance - Janet Evanovich
+The Amityville Horror - Jay Anson
+The Life-Changing Magic of Tidying - Marie Kondo
+Animal Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

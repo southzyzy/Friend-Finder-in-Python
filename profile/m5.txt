@@ -1,0 +1,17 @@
+Name: Mahalia Wolken
+Gender: M
+Country: Malaysia
+Acceptable_country: Mexico, Mongolia, Indonesia
+Age: 19
+Acceptable_age_range: 18-25
+Likes: Surfing, Slacklining, Geocaching, Meditation, Do it yourself, Auto racing
+Dislikes: American football, High-power rocketry, Auto racing, Association football, Skydiving
+
+Books: 
+The Cat in the Hat - Roald Dahl
+Charlie and the Chocolate Factory - Roald Dahl
+The Two Towers - J. R. R. Tolkien
+My Sister's Keeper - Jodi Picoult
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Fellowship of the Ring - J. R. R. Tolkien
+The Shining - Stephen King

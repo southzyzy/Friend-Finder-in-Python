@@ -1,0 +1,17 @@
+Name: Adalberto Evans
+Gender: M
+Country: Mexico
+Acceptable_country: Malaysia, China, Belgium, Mexico
+Age: 18
+Acceptable_age_range: 21-24
+Likes: Archery, Air sports, Geocaching, Model aircraft, Embroidery, Do it yourself, Birdwatching
+Dislikes: Meditation, Air sports, Skimboarding, Skiing
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+Computer Networking: A Top-Down Approach - James Kurose
+IT - Stephen King
+A Little History of Religion - Richard Holloway
+Rock Climbing Anchors - Craig Luebben
+The Dead Zone - Stephen King
+The Hobbit - J. R. R. Tolkien

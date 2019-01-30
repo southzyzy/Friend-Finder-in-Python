@@ -1,0 +1,16 @@
+Name: Eldridge Prato
+Gender: F
+Country: Korea
+Acceptable_country: Malaysia, Indonesia, United States of America, China
+Age: 20
+Acceptable_age_range: 18-26
+Likes: Archery, Do it yourself, Learning
+Dislikes: Slacklining, Fishkeeping, Australian rules football, Sun bathing, Gardening, Drawing
+
+Books: 
+Let It Snow - John Green
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+The Very Hungry Caterpillar - Eric Carle
+The Amityville Horror - Jay Anson
+Harry Potter and the Philosopher's Stone - J.K Rowling
+Prisoners of Geography - Tim Marshall

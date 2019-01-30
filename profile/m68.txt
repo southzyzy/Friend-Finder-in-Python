@@ -1,0 +1,17 @@
+Name: Cleveland Melle
+Gender: F
+Country: Philippines
+Acceptable_country: Indonesia, Korea, Russia, Mexico
+Age: 26
+Acceptable_age_range: 20-26
+Likes: High-power rocketry, Amateur astronomy, Surfing, Slacklining, Handball
+Dislikes: Fishkeeping, Badminton, Astronomy, Surfing, Animal fancy
+
+Books: 
+The Brain That Changes Itself - Norman Doidge
+Prodigal Son - Danielle Steel
+My Sister's Keeper - Jodi Picoult
+Change of Heart - Jodi Picoult
+Three Poems - Hannah Sullivan
+The Dead Zone - Stephen King
+The Hobbit - J. R. R. Tolkien

@@ -1,0 +1,17 @@
+Name: Jamee Zavala
+Gender: F
+Country: Indonesia
+Acceptable_country: Singapore, Philippines, Malaysia, Mexico
+Age: 19
+Acceptable_age_range: 20-23
+Likes: Australian rules football, Microscopy, Bus spotting
+Dislikes: High-power rocketry, Fishkeeping, Airsoft, Amateur astronomy, Dance
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+The Amityville Horror - Jay Anson
+Quantum Computing For Babies - Chris Ferrie
+Swimming Anatomy - Ian McLeod
+The Fault in Our Stars - John Green
+Thinking Architecture - Peter Zumthor
+The Fellowship of the Ring - J. R. R. Tolkien

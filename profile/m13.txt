@@ -1,0 +1,17 @@
+Name: Issac Arms
+Gender: M
+Country: Thailand
+Acceptable_country: Philippines, Korea, United Kingdom, China
+Age: 22
+Acceptable_age_range: 18-23
+Likes: Fishkeeping, Skimboarding, Learning, Astrology
+Dislikes: Baton twirling, Electronics, Embroidery, Knife throwing
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+A Little History of Religion - Richard Holloway
+The Righteous Mind - Jonathan Haidt
+The Amityville Horror - Jay Anson
+Beowulf - J. R. R. Tolkien
+The BFG - Roald Dahl
+The Dead Zone - Stephen King

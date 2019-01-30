@@ -1,0 +1,16 @@
+Name: Rico Prestwood
+Gender: F
+Country: Mexico
+Acceptable_country: China, Malaysia, Belgium, Korea
+Age: 26
+Acceptable_age_range: 19-25
+Likes: Snowboarding, Stone skipping, Hooping, Knife throwing
+Dislikes: Digital arts, Kart racing, Stone skipping, Surfing, Air sports
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+Hop on Pop - Dr.Seuss
+My Sister's Keeper - Jodi Picoult
+IT - Stephen King
+The Romance of the Three Kingdoms - Luo Guanzhong
+About a Boy - Nick Hornby

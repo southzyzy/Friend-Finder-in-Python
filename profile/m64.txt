@@ -1,0 +1,17 @@
+Name: Lyndia Weatherhead
+Gender: F
+Country: United States of America
+Acceptable_country: Singapore, Belgium, Japan, Malaysia
+Age: 22
+Acceptable_age_range: 18-24
+Likes: Handball, Bowling, Stone skipping, Surfing, Skiing
+Dislikes: Embroidery, Slacklining, Hooping, Microscopy
+
+Books: 
+The Amityville Horror - Jay Anson
+Charlie and the Chocolate Factory - Roald Dahl
+The Rocky Road to Romance - Janet Evanovich
+Swimming Anatomy - Ian McLeod
+Computer Networking: A Top-Down Approach - James Kurose
+Thinking Architecture - Peter Zumthor
+The Romance of the Three Kingdoms - Luo Guanzhong

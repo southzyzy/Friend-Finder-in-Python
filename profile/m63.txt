@@ -1,0 +1,17 @@
+Name: Jerrod Sugg
+Gender: F
+Country: China
+Acceptable_country: Russia, United States of America, Singapore
+Age: 27
+Acceptable_age_range: 20-24
+Likes: Association football, Hooping, Embroidery, American football, Electronics, Do it yourself, Bus spotting
+Dislikes: Digital arts, Archery, Stone skipping, Kart racing, Hooping
+
+Books: 
+Let It Snow - John Green
+Fantastic Beasts and Where to Find Them - J.K Rowling
+The Amityville Horror - Jay Anson
+The BFG - Roald Dahl
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Horror in the Museum - H. P. Lovecraft

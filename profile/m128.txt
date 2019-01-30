@@ -1,0 +1,16 @@
+Name: Issac Arms
+Gender: F
+Country: China
+Acceptable_country: China, United States of America, Thailand, Russia
+Age: 27
+Acceptable_age_range: 20-26
+Likes: Digital arts, Horseback riding, Learning, Astrology
+Dislikes: Laser tag, Billiards, Association football, Surfing, Knife throwing
+
+Books: 
+The Cat in the Hat - Roald Dahl
+Swimming Anatomy - Ian McLeod
+The Fault in Our Stars - John Green
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Horror in the Museum - H. P. Lovecraft
+The Hobbit - J. R. R. Tolkien

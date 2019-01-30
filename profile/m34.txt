@@ -1,0 +1,17 @@
+Name: Natisha Baumer
+Gender: F
+Country: Mongolia
+Acceptable_country: Russia, Indonesia, United States of America, Japan
+Age: 27
+Acceptable_age_range: 17-24
+Likes: Dance, Hiking, Embroidery, Animal fancy
+Dislikes: Australian rules football, Stone skipping, American football, Amateur astronomy, Bowling, Sun bathing
+
+Books: 
+The Elements - Nick Mann
+The Cat in the Hat - Roald Dahl
+The Rocky Road to Romance - Janet Evanovich
+The Night Before Christmas - Holly Hobbie
+About a Boy - Nick Hornby
+The Life-Changing Magic of Tidying - Marie Kondo
+Change of Heart - Jodi Picoult

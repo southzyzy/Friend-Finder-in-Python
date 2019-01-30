@@ -1,0 +1,16 @@
+Name: Ilana Brand
+Gender: M
+Country: Mexico
+Acceptable_country: Indonesia, Japan, Singapore, Thailand
+Age: 18
+Acceptable_age_range: 17-26
+Likes: Kabaddi, Kart racing, Bus spotting, Learning
+Dislikes: Do it yourself, Fishkeeping, Astronomy, Kabaddi
+
+Books: 
+Prodigal Son - Danielle Steel
+The Rocky Road to Romance - Janet Evanovich
+Rock Climbing Anchors - Craig Luebben
+The BFG - Roald Dahl
+The Horror in the Museum - H. P. Lovecraft
+The Dead Zone - Stephen King

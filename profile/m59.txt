@@ -1,0 +1,17 @@
+Name: Judson Baughman
+Gender: M
+Country: Korea
+Acceptable_country: Korea, Japan, Mongolia
+Age: 19
+Acceptable_age_range: 21-26
+Likes: Association football, Amateur astronomy, Learning, Skiing
+Dislikes: Skydiving, Skimboarding, Embroidery, Animal fancy, Digital arts, Airsoft, Electronics
+
+Books: 
+The Two Towers - J. R. R. Tolkien
+IT - Stephen King
+The Amityville Horror - Jay Anson
+Beowulf - J. R. R. Tolkien
+Harry Potter and the Philosopher's Stone - J.K Rowling
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+Science Encyclopedia - National Geographic

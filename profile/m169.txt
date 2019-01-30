@@ -1,0 +1,17 @@
+Name: Josh Bowes
+Gender: M
+Country: Mexico
+Acceptable_country: Indonesia, Singapore, United Kingdom, Mexico
+Age: 27
+Acceptable_age_range: 19-24
+Likes: Snowboarding, Billiards, Hooping, Aircraft spotting
+Dislikes: Skydiving, Australian rules football, Aircraft spotting, Airsoft, Bowling
+
+Books: 
+Matilda - Roald Dahl
+Paper Towns - John Green
+My Sister's Keeper - Jodi Picoult
+The Fault in Our Stars - John Green
+A Little History of Religion - Richard Holloway
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Prisoners of Geography - Tim Marshall

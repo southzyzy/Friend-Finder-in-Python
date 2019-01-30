@@ -1,0 +1,17 @@
+Name: Dona Savedra
+Gender: M
+Country: Philippines
+Acceptable_country: Philippines, Japan, United States of America, Mexico
+Age: 21
+Acceptable_age_range: 17-23
+Likes: Do it yourself, Hooping, Bus spotting, Knife throwing
+Dislikes: Fishkeeping, Baton twirling
+
+Books: 
+The Brain That Changes Itself - Norman Doidge
+My Sister's Keeper - Jodi Picoult
+The Fault in Our Stars - John Green
+Thinking Architecture - Peter Zumthor
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Shining - Stephen King
+IT - Stephen King

@@ -1,0 +1,17 @@
+Name: Verline Depaolo
+Gender: F
+Country: China
+Acceptable_country: Korea, United States of America, China, Mexico
+Age: 24
+Acceptable_age_range: 19-23
+Likes: Surfing, Gardening, Laser tag, Microscopy, High-power rocketry, Bird watching, Bus spotting
+Dislikes: Air sports, Laser tag, Model aircraft, Amateur astronomy, Sun bathing, Airsoft, Drawing
+
+Books: 
+The Elements - Nick Mann
+Quantum Computing For Babies - Chris Ferrie
+Let It Snow - John Green
+The Very Hungry Caterpillar - Eric Carle
+Hop on Pop - Dr.Seuss
+Rock Climbing Anchors - Craig Luebben
+Three Poems - Hannah Sullivan

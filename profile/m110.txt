@@ -1,0 +1,17 @@
+Name: Fallon Dash
+Gender: F
+Country: Belgium
+Acceptable_country: Singapore, Philippines, United States of America
+Age: 22
+Acceptable_age_range: 17-24
+Likes: Archery, Gardening, Skydiving, Aircraft spotting, Amateur astronomy, Sun bathing
+Dislikes: Skydiving, Electronics, Microscopy, Archery
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+Fantastic Beasts and Where to Find Them - J.K Rowling
+My Sister's Keeper - Jodi Picoult
+Computer Networking: A Top-Down Approach - James Kurose
+The Very Hungry Caterpillar - Eric Carle
+The Life-Changing Magic of Tidying - Marie Kondo
+The Award - Danielle Steel

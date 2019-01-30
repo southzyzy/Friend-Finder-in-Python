@@ -1,0 +1,17 @@
+Name: Warner Fleishman
+Gender: F
+Country: Japan
+Acceptable_country: Indonesia, Singapore, United States of America, Thailand
+Age: 19
+Acceptable_age_range: 19-26
+Likes: Archery, Gardening, Skimboarding, Knife throwing, Marching band, Astrology
+Dislikes: Kabaddi, Do it yourself, Horseback riding, Microscopy, Astrology
+
+Books: 
+The Cat in the Hat - Roald Dahl
+Beowulf - J. R. R. Tolkien
+The Very Hungry Caterpillar - Eric Carle
+The Night Before Christmas - Holly Hobbie
+IT - Stephen King
+Matilda - Roald Dahl
+The Fellowship of the Ring - J. R. R. Tolkien

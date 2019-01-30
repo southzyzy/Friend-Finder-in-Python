@@ -1,0 +1,17 @@
+Name: Emery Castro
+Gender: M
+Country: Singapore
+Acceptable_country: China, Korea, Mongolia
+Age: 18
+Acceptable_age_range: 21-23
+Likes: Hiking, Geocaching, Model aircraft, Hooping, Bowling, Marching band, Birdwatching
+Dislikes: Sun bathing, Digital arts, Billiards, Amateur astronomy, Hiking
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+Let It Snow - John Green
+Matilda - Roald Dahl
+Modern Architecture - Kenneth Frampton
+The Night Before Christmas - Holly Hobbie
+The Amityville Horror - Jay Anson
+The Award - Danielle Steel

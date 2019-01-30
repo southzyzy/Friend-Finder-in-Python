@@ -1,0 +1,16 @@
+Name: Cordie Ines
+Gender: M
+Country: Korea
+Acceptable_country: Philippines, China, United States of America, Russia
+Age: 18
+Acceptable_age_range: 18-24
+Likes: Air sports, Billiards, Microscopy, High-power rocketry, Meditation, Digital arts
+Dislikes: Gardening, Australian rules football, Billiards, Skydiving, Animal fancy, Electronics, Birdwatching
+
+Books: 
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Thinking Architecture - Peter Zumthor
+Beowulf - J. R. R. Tolkien
+The Life-Changing Magic of Tidying - Marie Kondo
+Change of Heart - Jodi Picoult

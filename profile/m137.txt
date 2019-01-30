@@ -1,0 +1,17 @@
+Name: Asley Merten
+Gender: F
+Country: Singapore
+Acceptable_country: United States of America, Russia, Belgium, Korea
+Age: 20
+Acceptable_age_range: 18-26
+Likes: Kart racing, Skydiving, Aircraft spotting, Learning, Animal fancy, Do it yourself, Astrology
+Dislikes: Geocaching, Crossword puzzles, Skydiving, Kart racing, Horseback riding, Auto racing, Meditation
+
+Books: 
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Fantastic Beasts and Where to Find Them - J.K Rowling
+IT - Stephen King
+Prisoners of Geography - Tim Marshall
+The Fellowship of the Ring - J. R. R. Tolkien
+The Shining - Stephen King
+Science Encyclopedia - National Geographic

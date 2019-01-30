@@ -1,0 +1,16 @@
+Name: Thomasena Pottorff
+Gender: F
+Country: Mexico
+Acceptable_country: United States of America, Mexico, Malaysia
+Age: 26
+Acceptable_age_range: 19-25
+Likes: Cryptography, Aircraft spotting, Kart racing, Learning, Snowboarding, Auto racing, Drawing
+Dislikes: Sun bathing, Bird watching, Airsoft, Hooping, Archery
+
+Books: 
+The Brain That Changes Itself - Norman Doidge
+The Amityville Horror - Jay Anson
+The BFG - Roald Dahl
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Shining - Stephen King
+The Hobbit - J. R. R. Tolkien

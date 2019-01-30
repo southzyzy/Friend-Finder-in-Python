@@ -1,0 +1,16 @@
+Name: Julienne Ketcham
+Gender: F
+Country: Mongolia
+Acceptable_country: Mexico, China, United Kingdom
+Age: 21
+Acceptable_age_range: 20-25
+Likes: Auto racing, Aircraft spotting, Marching band, Crossword puzzles
+Dislikes: Dance, Meditation, Aircraft spotting, Crossword puzzles, Astrology
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+Paper Towns - John Green
+The Fault in Our Stars - John Green
+The Fellowship of the Ring - J. R. R. Tolkien
+IT - Stephen King
+Hop on Pop - Dr.Seuss

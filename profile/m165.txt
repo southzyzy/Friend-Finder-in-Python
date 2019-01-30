@@ -1,0 +1,17 @@
+Name: Danilo Atterbury
+Gender: M
+Country: Belgium
+Acceptable_country: United States of America, Thailand, Belgium, United Kingdom
+Age: 25
+Acceptable_age_range: 21-26
+Likes: Slacklining, Badminton, Amateur astronomy, Air sports
+Dislikes: Sun bathing, Skydiving, Meditation, Marching band, Crossword puzzles
+
+Books: 
+Let It Snow - John Green
+The Rocky Road to Romance - Janet Evanovich
+About a Boy - Nick Hornby
+Thinking Architecture - Peter Zumthor
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Shining - Stephen King
+The Horror in the Museum - H. P. Lovecraft

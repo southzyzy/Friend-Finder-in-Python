@@ -1,0 +1,16 @@
+Name: Anthony Guarnieri
+Gender: M
+Country: Russia
+Acceptable_country: Singapore, Malaysia, Mexico
+Age: 25
+Acceptable_age_range: 21-25
+Likes: Fishkeeping, Snowboarding, Laser tag, Hooping
+Dislikes: Sun bathing, Slacklining, Hooping
+
+Books: 
+The Award - Danielle Steel
+The Rocky Road to Romance - Janet Evanovich
+Beowulf - J. R. R. Tolkien
+The Life-Changing Magic of Tidying - Marie Kondo
+The BFG - Roald Dahl
+The Fellowship of the Ring - J. R. R. Tolkien

@@ -1,0 +1,17 @@
+Name: Adrian Natividad
+Gender: M
+Country: United States of America
+Acceptable_country: United Kingdom, Mexico, Singapore
+Age: 25
+Acceptable_age_range: 20-25
+Likes: Kabaddi, Laser tag, Model aircraft, Badminton, High-power rocketry, Bird watching
+Dislikes: American football, Kabaddi, Microscopy
+
+Books: 
+My Sister's Keeper - Jodi Picoult
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Fault in Our Stars - John Green
+The Life-Changing Magic of Tidying - Marie Kondo
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Dead Zone - Stephen King
+The Hobbit - J. R. R. Tolkien

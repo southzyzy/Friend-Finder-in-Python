@@ -1,0 +1,17 @@
+Name: Rico Prestwood
+Gender: M
+Country: Belgium
+Acceptable_country: Philippines, Japan, United Kingdom, China
+Age: 27
+Acceptable_age_range: 20-23
+Likes: Sun bathing, High-power rocketry, Marching band, Microscopy, Archery
+Dislikes: American football, Billiards, Amateur astronomy, Cryptography, Air sports
+
+Books: 
+The Very Hungry Caterpillar - Eric Carle
+Hop on Pop - Dr.Seuss
+My Sister's Keeper - Jodi Picoult
+The Award - Danielle Steel
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Shining - Stephen King

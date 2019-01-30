@@ -1,0 +1,17 @@
+Name: Aaron Fulp
+Gender: F
+Country: Belgium
+Acceptable_country: Mexico, United Kingdom, Indonesia, Mongolia
+Age: 20
+Acceptable_age_range: 17-26
+Likes: Badminton, Astronomy, Hiking, Bowling
+Dislikes: Cryptography, Air sports, Bowling, Bird watching, Digital arts, Auto racing
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Modern Architecture - Kenneth Frampton
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Award - Danielle Steel
+Animal Encyclopedia - National Geographic
+The Dead Zone - Stephen King

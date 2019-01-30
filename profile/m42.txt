@@ -1,0 +1,16 @@
+Name: Basil Sedgwick
+Gender: M
+Country: Philippines
+Acceptable_country: Japan, Malaysia, Singapore
+Age: 25
+Acceptable_age_range: 17-25
+Likes: Fishkeeping, Crossword puzzles, Dance, Skimboarding, Bird watching, Auto racing, Do it yourself
+Dislikes: Model aircraft, Do it yourself, Gardening, Microscopy
+
+Books: 
+Matilda - Roald Dahl
+IT - Stephen King
+A Little History of Religion - Richard Holloway
+The Life-Changing Magic of Tidying - Marie Kondo
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+Three Poems - Hannah Sullivan

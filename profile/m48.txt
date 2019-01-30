@@ -1,0 +1,17 @@
+Name: Millie Cupples
+Gender: M
+Country: Singapore
+Acceptable_country: United Kingdom, Mongolia, Mexico
+Age: 21
+Acceptable_age_range: 17-23
+Likes: Fishkeeping, Archery, Aircraft spotting, Skimboarding, Kabaddi
+Dislikes: Sun bathing, Laser tag, Marching band, Birdwatching
+
+Books: 
+The Elements - Nick Mann
+The Cat in the Hat - Roald Dahl
+Beowulf - J. R. R. Tolkien
+Hop on Pop - Dr.Seuss
+A Little History of Religion - Richard Holloway
+Harry Potter and the Philosopher's Stone - J.K Rowling
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss

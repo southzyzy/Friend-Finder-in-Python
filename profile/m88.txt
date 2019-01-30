@@ -1,0 +1,17 @@
+Name: Morris Pleas
+Gender: M
+Country: Japan
+Acceptable_country: Indonesia, United Kingdom, Singapore, Russia
+Age: 22
+Acceptable_age_range: 20-26
+Likes: Fishkeeping, Meditation, Digital arts, Air sports
+Dislikes: Geocaching, Skimboarding, Stone skipping, Amateur astronomy, Skiing
+
+Books: 
+The Very Hungry Caterpillar - Eric Carle
+Paper Towns - John Green
+The Two Towers - J. R. R. Tolkien
+Matilda - Roald Dahl
+Rock Climbing Anchors - Craig Luebben
+The BFG - Roald Dahl
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett

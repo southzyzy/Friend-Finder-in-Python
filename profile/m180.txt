@@ -1,0 +1,17 @@
+Name: German Highland
+Gender: F
+Country: Japan
+Acceptable_country: Indonesia, Korea, Russia, Thailand
+Age: 22
+Acceptable_age_range: 19-26
+Likes: Archery, Embroidery, Kabaddi, Aircraft spotting, Skimboarding, Learning, Auto racing
+Dislikes: High-power rocketry, Skydiving, Meditation, Airsoft, Drawing
+
+Books: 
+Modern Architecture - Kenneth Frampton
+Computer Networking: A Top-Down Approach - James Kurose
+The Amityville Horror - Jay Anson
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Shining - Stephen King
+The Horror in the Museum - H. P. Lovecraft
+Science Encyclopedia - National Geographic

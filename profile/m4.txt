@@ -1,0 +1,17 @@
+Name: Marcos Pullins
+Gender: M
+Country: Thailand
+Acceptable_country: United Kingdom, Japan, Singapore, Thailand
+Age: 27
+Acceptable_age_range: 21-24
+Likes: Slacklining, Drama, Skydiving, Embroidery, Bowling, Electronics, Drawing
+Dislikes: Australian rules football, Digital arts, Skimboarding, Embroidery
+
+Books: 
+The Cat in the Hat - Roald Dahl
+Charlie and the Chocolate Factory - Roald Dahl
+The Two Towers - J. R. R. Tolkien
+The Amityville Horror - Jay Anson
+The Fellowship of the Ring - J. R. R. Tolkien
+The Dead Zone - Stephen King
+Science Encyclopedia - National Geographic

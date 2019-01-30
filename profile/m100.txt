@@ -1,0 +1,16 @@
+Name: Kevin Nakashima
+Gender: F
+Country: Belgium
+Acceptable_country: Japan, United States of America, Philippines
+Age: 23
+Acceptable_age_range: 18-26
+Likes: Surfing, Slacklining, Microscopy, Cryptography
+Dislikes: High-power rocketry, Slacklining, Kart racing, Skimboarding, Microscopy
+
+Books: 
+The Elements - Nick Mann
+The Brain That Changes Itself - Norman Doidge
+The Amityville Horror - Jay Anson
+The Horror in the Museum - H. P. Lovecraft
+Animal Encyclopedia - National Geographic
+Prisoners of Geography - Tim Marshall

@@ -1,0 +1,16 @@
+Name: Vannesa Maupin
+Gender: M
+Country: Russia
+Acceptable_country: United Kingdom, Japan, Malaysia, Mongolia
+Age: 22
+Acceptable_age_range: 17-25
+Likes: Geocaching, Handball, Digital arts, Hooping, Learning
+Dislikes: Kabaddi, Knife throwing, Billiards, Marching band, Skiing
+
+Books: 
+The Elements - Nick Mann
+The Life-Changing Magic of Tidying - Marie Kondo
+The Award - Danielle Steel
+Change of Heart - Jodi Picoult
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Dead Zone - Stephen King

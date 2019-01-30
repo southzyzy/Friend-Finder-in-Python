@@ -1,0 +1,17 @@
+Name: Clinton Gustafson
+Gender: F
+Country: Mongolia
+Acceptable_country: Thailand, Russia, Japan
+Age: 19
+Acceptable_age_range: 17-25
+Likes: Kabaddi, Embroidery, Bowling, American football, Digital arts, Astrology
+Dislikes: Hooping, Model aircraft, Stone skipping, Drawing, Knife throwing
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+Matilda - Roald Dahl
+Computer Networking: A Top-Down Approach - James Kurose
+The BFG - Roald Dahl
+The Romance of the Three Kingdoms - Luo Guanzhong
+Science Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

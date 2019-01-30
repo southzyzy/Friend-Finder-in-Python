@@ -1,0 +1,17 @@
+Name: Mallie Schrecengost
+Gender: M
+Country: Thailand
+Acceptable_country: Philippines, Japan, Indonesia, Russia
+Age: 19
+Acceptable_age_range: 20-25
+Likes: Model aircraft, Kabaddi, Drawing, Bowling
+Dislikes: Skydiving, Auto racing, Badminton, Drawing, Bus spotting
+
+Books: 
+The Brain That Changes Itself - Norman Doidge
+The Very Hungry Caterpillar - Eric Carle
+My Sister's Keeper - Jodi Picoult
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Award - Danielle Steel
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Shining - Stephen King

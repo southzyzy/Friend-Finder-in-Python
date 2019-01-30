@@ -1,0 +1,17 @@
+Name: Kip Whittenberg
+Gender: F
+Country: Korea
+Acceptable_country: China, Russia, Korea, Mexico
+Age: 22
+Acceptable_age_range: 17-26
+Likes: Microscopy, Badminton, Learning, Snowboarding, Baton twirling, Bus spotting
+Dislikes: Air sports, Kabaddi, Microscopy, High-power rocketry, Handball, Drawing
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+Hop on Pop - Dr.Seuss
+About a Boy - Nick Hornby
+Prisoners of Geography - Tim Marshall
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Fault in Our Stars - John Green
+Science Encyclopedia - National Geographic

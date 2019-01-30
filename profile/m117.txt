@@ -1,0 +1,17 @@
+Name: Terrence Hansen
+Gender: M
+Country: Mexico
+Acceptable_country: Mexico, Korea, Japan, Indonesia
+Age: 22
+Acceptable_age_range: 20-26
+Likes: Fishkeeping, Badminton, Crossword puzzles, Bus spotting, Marching band
+Dislikes: Cryptography, Stone skipping, Drama, Skimboarding, Hooping, Skiing, Sun bathing
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+Prodigal Son - Danielle Steel
+Hop on Pop - Dr.Seuss
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Life-Changing Magic of Tidying - Marie Kondo
+Three Poems - Hannah Sullivan
+Prisoners of Geography - Tim Marshall

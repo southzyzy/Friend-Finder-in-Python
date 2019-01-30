@@ -1,0 +1,17 @@
+Name: Celena Leyva
+Gender: M
+Country: Philippines
+Acceptable_country: United Kingdom, Belgium, Mexico, Russia
+Age: 20
+Acceptable_age_range: 19-26
+Likes: Kart racing, Skimboarding, Horseback riding, Marching band
+Dislikes: Fishkeeping, Archery, Marching band, Model aircraft
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Charlie and the Chocolate Factory - Roald Dahl
+The Rocky Road to Romance - Janet Evanovich
+Paper Towns - John Green
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Dead Zone - Stephen King

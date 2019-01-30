@@ -1,0 +1,15 @@
+Name: Nora Everette
+Gender: F
+Country: Philippines
+Acceptable_country: Korea, Indonesia, United States of America, United Kingdom
+Age: 21
+Acceptable_age_range: 17-23
+Likes: Australian rules football, Model aircraft, Badminton, Sun bathing, Snowboarding, Electronics, Astrology
+Dislikes: Archery, Auto racing, Slacklining, Bus spotting, Model aircraft
+
+Books: 
+Fantastic Beasts and Where to Find Them - J.K Rowling
+The Elements of Computing Systems - Noam Nisan
+The Dead Zone - Stephen King
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Rocky Road to Romance - Janet Evanovich

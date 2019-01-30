@@ -1,0 +1,17 @@
+Name: Rolando Mogensen
+Gender: F
+Country: Philippines
+Acceptable_country: Philippines, United States of America, Mexico, Thailand
+Age: 27
+Acceptable_age_range: 21-25
+Likes: Skydiving, Stone skipping, Gardening, Crossword puzzles, Model aircraft
+Dislikes: Handball, Skydiving, Drawing, Crossword puzzles, Horseback riding
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Fault in Our Stars - John Green
+The Amityville Horror - Jay Anson
+The BFG - Roald Dahl
+The Fellowship of the Ring - J. R. R. Tolkien
+The Shining - Stephen King

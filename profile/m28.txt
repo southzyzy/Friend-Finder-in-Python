@@ -1,0 +1,15 @@
+Name: Neville Steenberg
+Gender: F
+Country: Korea
+Acceptable_country: Indonesia, Mongolia, Japan
+Age: 20
+Acceptable_age_range: 20-23
+Likes: Association football, Stone skipping, Aircraft spotting, Bowling, Snowboarding, Bird watching
+Dislikes: Handball, Auto racing, Association football, Air sports
+
+Books: 
+The Very Hungry Caterpillar - Eric Carle
+A Little History of Religion - Richard Holloway
+Charlie and the Chocolate Factory - Roald Dahl
+Prisoners of Geography - Tim Marshall
+About a Boy - Nick Hornby

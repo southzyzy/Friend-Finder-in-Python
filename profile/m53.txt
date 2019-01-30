@@ -1,0 +1,16 @@
+Name: Tyesha Dicus
+Gender: M
+Country: Singapore
+Acceptable_country: Belgium, China, Philippines, Mongolia
+Age: 23
+Acceptable_age_range: 19-23
+Likes: Kabaddi, Microscopy, Skydiving, Bowling, High-power rocketry, Snowboarding, Bus spotting
+Dislikes: Hiking, Embroidery, Skiing, High-power rocketry, Bus spotting, Astrology
+
+Books: 
+Thinking Architecture - Peter Zumthor
+The Righteous Mind - Jonathan Haidt
+The Night Before Christmas - Holly Hobbie
+IT - Stephen King
+The Amityville Horror - Jay Anson
+Animal Encyclopedia - National Geographic

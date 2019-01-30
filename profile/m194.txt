@@ -1,0 +1,17 @@
+Name: Stacie Kearney
+Gender: M
+Country: Philippines
+Acceptable_country: Russia, Mongolia, United States of America
+Age: 26
+Acceptable_age_range: 19-26
+Likes: Association football, Stone skipping, Kabaddi, Crossword puzzles, Kart racing, Embroidery
+Dislikes: Kart racing, Snowboarding, Billiards, Drawing, Skiing
+
+Books: 
+The Cat in the Hat - Roald Dahl
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Swimming Anatomy - Ian McLeod
+The Amityville Horror - Jay Anson
+Matilda - Roald Dahl
+The BFG - Roald Dahl
+Three Poems - Hannah Sullivan

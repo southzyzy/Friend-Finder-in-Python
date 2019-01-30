@@ -1,0 +1,17 @@
+Name: Freddie Carithers
+Gender: M
+Country: Mexico
+Acceptable_country: Korea, China, Indonesia, Belgium
+Age: 26
+Acceptable_age_range: 20-25
+Likes: Baton twirling, Billiards, Cryptography, Birdwatching
+Dislikes: Stone skipping, Model aircraft, Badminton, Skimboarding, Handball, Airsoft, Drawing
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+The Night Before Christmas - Holly Hobbie
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Fault in Our Stars - John Green
+Thinking Architecture - Peter Zumthor
+The Horror in the Museum - H. P. Lovecraft
+The Dead Zone - Stephen King

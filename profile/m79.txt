@@ -1,0 +1,17 @@
+Name: Charmain Kirkpatrick
+Gender: M
+Country: Indonesia
+Acceptable_country: Philippines, Russia, United Kingdom, Malaysia
+Age: 27
+Acceptable_age_range: 17-23
+Likes: Cryptography, Model aircraft, Billiards, Australian rules football, Aircraft spotting, Skiing, Astrology
+Dislikes: Gardening, Aircraft spotting, Dance, Microscopy, Badminton, Sun bathing
+
+Books: 
+The Two Towers - J. R. R. Tolkien
+The Rocky Road to Romance - Janet Evanovich
+The Night Before Christmas - Holly Hobbie
+Rock Climbing Anchors - Craig Luebben
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Horror in the Museum - H. P. Lovecraft
+Animal Encyclopedia - National Geographic

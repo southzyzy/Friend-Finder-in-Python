@@ -1,0 +1,16 @@
+Name: Rocky Pedraza
+Gender: M
+Country: China
+Acceptable_country: China, Indonesia, Philippines
+Age: 25
+Acceptable_age_range: 17-24
+Likes: Handball, Aircraft spotting, Astronomy, Drawing, Birdwatching
+Dislikes: Meditation, Billiards, Birdwatching, Knife throwing
+
+Books: 
+The Brain That Changes Itself - Norman Doidge
+Paper Towns - John Green
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Romance of the Three Kingdoms - Luo Guanzhong
+Animal Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

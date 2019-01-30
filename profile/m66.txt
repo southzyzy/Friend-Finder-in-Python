@@ -1,0 +1,17 @@
+Name: Maryanne Beltran
+Gender: M
+Country: United Kingdom
+Acceptable_country: Thailand, Mexico, China, Belgium
+Age: 27
+Acceptable_age_range: 18-24
+Likes: Archery, Kart racing, Billiards, Marching band, Badminton
+Dislikes: Australian rules football, Fishkeeping, Bowling, Laser tag, Skydiving, Skiing, Bird watching
+
+Books: 
+Prodigal Son - Danielle Steel
+The Rocky Road to Romance - Janet Evanovich
+Paper Towns - John Green
+The Very Hungry Caterpillar - Eric Carle
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Fellowship of the Ring - J. R. R. Tolkien
+The Shining - Stephen King

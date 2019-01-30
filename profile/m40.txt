@@ -1,0 +1,17 @@
+Name: Lyn Sahr
+Gender: M
+Country: Malaysia
+Acceptable_country: Philippines, United States of America, United Kingdom
+Age: 20
+Acceptable_age_range: 21-25
+Likes: Slacklining, Air sports, Billiards, Laser tag, Skydiving, Badminton, Bus spotting
+Dislikes: Baton twirling, Aircraft spotting, Stone skipping, Cryptography
+
+Books: 
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+The Two Towers - J. R. R. Tolkien
+My Sister's Keeper - Jodi Picoult
+Seven Brief Lessons on Physics - Carlo Rovelli
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Change of Heart - Jodi Picoult
+The Dead Zone - Stephen King

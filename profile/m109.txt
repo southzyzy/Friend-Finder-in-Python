@@ -1,0 +1,14 @@
+Name: Giuseppina Deveau
+Gender: F
+Country: Mexico
+Acceptable_country: Indonesia, Belgium, Mongolia, Korea
+Age: 24
+Acceptable_age_range: 18-23
+Likes: Drama, Baton twirling, Laser tag, Embroidery, Microscopy
+Dislikes: Digital arts, Animal fancy, Horseback riding, Skiing
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+Beowulf - J. R. R. Tolkien
+The Two Towers - J. R. R. Tolkien
+Let It Snow - John Green

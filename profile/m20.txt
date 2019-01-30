@@ -1,0 +1,17 @@
+Name: Ariel Matheney
+Gender: F
+Country: Mexico
+Acceptable_country: Russia, United States of America, Mexico, Japan
+Age: 25
+Acceptable_age_range: 18-25
+Likes: American football, Auto racing, Aircraft spotting, Skimboarding, Knife throwing
+Dislikes: Dance, Skydiving, Kart racing, Skimboarding, Animal fancy
+
+Books: 
+The Righteous Mind - Jonathan Haidt
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Modern Architecture - Kenneth Frampton
+Paper Towns - John Green
+Thinking Architecture - Peter Zumthor
+Rock Climbing Anchors - Craig Luebben
+Hop on Pop - Dr.Seuss

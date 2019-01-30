@@ -1,0 +1,16 @@
+Name: Vicki Rymer
+Gender: F
+Country: Russia
+Acceptable_country: Japan, Malaysia, Belgium
+Age: 21
+Acceptable_age_range: 17-24
+Likes: Archery, Cryptography, Handball, Skimboarding, American football, Do it yourself, Marching band
+Dislikes: Australian rules football, Auto racing, Hiking, Animal fancy
+
+Books: 
+The Brain That Changes Itself - Norman Doidge
+Hop on Pop - Dr.Seuss
+Thinking Architecture - Peter Zumthor
+The BFG - Roald Dahl
+The Horror in the Museum - H. P. Lovecraft
+The Hobbit - J. R. R. Tolkien

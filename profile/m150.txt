@@ -1,0 +1,17 @@
+Name: Camellia Fenster
+Gender: M
+Country: Mongolia
+Acceptable_country: China, Mexico, Philippines, Thailand
+Age: 22
+Acceptable_age_range: 17-23
+Likes: Archery, Baton twirling, Airsoft, Hiking
+Dislikes: High-power rocketry, Baton twirling, Surfing
+
+Books: 
+Fantastic Beasts and Where to Find Them - J.K Rowling
+The Two Towers - J. R. R. Tolkien
+The Amityville Horror - Jay Anson
+The BFG - Roald Dahl
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Animal Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

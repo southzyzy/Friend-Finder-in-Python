@@ -1,0 +1,16 @@
+Name: Diann Vangieson
+Gender: F
+Country: Thailand
+Acceptable_country: Philippines, China, Malaysia, United Kingdom
+Age: 23
+Acceptable_age_range: 18-24
+Likes: Air sports, Stone skipping, Microscopy, Model aircraft, Bowling, Electronics, Baton twirling
+Dislikes: Archery, Astronomy, Crossword puzzles, Learning
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+The Elements - Nick Mann
+Let It Snow - John Green
+The Brain That Changes Itself - Norman Doidge
+Seven Brief Lessons on Physics - Carlo Rovelli
+IT - Stephen King

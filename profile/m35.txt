@@ -1,0 +1,17 @@
+Name: Allie Tolleson
+Gender: M
+Country: Belgium
+Acceptable_country: Philippines, United Kingdom, Japan
+Age: 25
+Acceptable_age_range: 21-24
+Likes: Archery, Association football, Billiards, Skydiving, Embroidery, American football, Electronics
+Dislikes: Geocaching, Australian rules football, Aircraft spotting, Slacklining, Skiing
+
+Books: 
+Beowulf - J. R. R. Tolkien
+Thinking Architecture - Peter Zumthor
+Prodigal Son - Danielle Steel
+About a Boy - Nick Hornby
+The Amityville Horror - Jay Anson
+A Little History of Religion - Richard Holloway
+The Shining - Stephen King

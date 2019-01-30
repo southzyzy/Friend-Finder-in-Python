@@ -1,0 +1,17 @@
+Name: Leroy Hooten
+Gender: F
+Country: Indonesia
+Acceptable_country: China, Belgium, United Kingdom
+Age: 18
+Acceptable_age_range: 18-23
+Likes: Slacklining, Stone skipping, Skimboarding, Embroidery
+Dislikes: Stone skipping, Drama, Amateur astronomy, Knife throwing, Do it yourself, Marching band
+
+Books: 
+Matilda - Roald Dahl
+Swimming Anatomy - Ian McLeod
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Very Hungry Caterpillar - Eric Carle
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Shining - Stephen King
+The Horror in the Museum - H. P. Lovecraft

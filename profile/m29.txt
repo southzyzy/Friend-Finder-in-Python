@@ -1,0 +1,17 @@
+Name: Hector Elia
+Gender: M
+Country: Mongolia
+Acceptable_country: China, Japan, Mongolia, Korea
+Age: 19
+Acceptable_age_range: 18-26
+Likes: Cryptography, Air sports, Laser tag, Microscopy, Skiing, Meditation, Auto racing
+Dislikes: Drama, Snowboarding, Billiards, Badminton, Skiing
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+The Cat in the Hat - Roald Dahl
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Life-Changing Magic of Tidying - Marie Kondo
+The BFG - Roald Dahl
+Animal Encyclopedia - National Geographic
+The Dead Zone - Stephen King

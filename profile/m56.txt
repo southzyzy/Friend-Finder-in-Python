@@ -1,0 +1,16 @@
+Name: Antone Kubat
+Gender: F
+Country: Russia
+Acceptable_country: Singapore, Korea, United Kingdom
+Age: 24
+Acceptable_age_range: 21-24
+Likes: Electronics, Kart racing, Digital arts, Bus spotting, Skiing
+Dislikes: Geocaching, Bird watching, Gardening
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+Charlie and the Chocolate Factory - Roald Dahl
+Prodigal Son - Danielle Steel
+The Rocky Road to Romance - Janet Evanovich
+Change of Heart - Jodi Picoult
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett

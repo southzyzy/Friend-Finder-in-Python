@@ -1,0 +1,17 @@
+Name: Florene Vanbuskirk
+Gender: M
+Country: Thailand
+Acceptable_country: Philippines, United Kingdom, China
+Age: 25
+Acceptable_age_range: 17-24
+Likes: Slacklining, Cryptography, Crossword puzzles, Model aircraft, Badminton, High-power rocketry, Airsoft
+Dislikes: Bird watching, Amateur astronomy, Drawing, Snowboarding
+
+Books: 
+The Elements - Nick Mann
+Charlie and the Chocolate Factory - Roald Dahl
+The Amityville Horror - Jay Anson
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Horror in the Museum - H. P. Lovecraft
+The Dead Zone - Stephen King
+The Fellowship of the Ring - J. R. R. Tolkien

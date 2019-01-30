@@ -1,0 +1,17 @@
+Name: Sherril Clauss
+Gender: M
+Country: Belgium
+Acceptable_country: Russia, Korea, Philippines
+Age: 19
+Acceptable_age_range: 19-26
+Likes: Archery, Drama, Skimboarding, Skiing, Bird watching, Electronics, Marching band
+Dislikes: Laser tag, Microscopy, Aircraft spotting, Crossword puzzles, Auto racing, Meditation
+
+Books: 
+Cracking the Coding Interview - Gayle Laakmann
+Quantum Computing For Babies - Chris Ferrie
+Fantastic Beasts and Where to Find Them - J.K Rowling
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Romance of the Three Kingdoms - Luo Guanzhong
+Three Poems - Hannah Sullivan

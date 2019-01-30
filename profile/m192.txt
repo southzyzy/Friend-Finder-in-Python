@@ -1,0 +1,16 @@
+Name: Ariel Matheney
+Gender: M
+Country: China
+Acceptable_country: Philippines, Russia, United Kingdom
+Age: 27
+Acceptable_age_range: 18-26
+Likes: Sun bathing, Drama, Baton twirling, Hooping
+Dislikes: Surfing, Drama, Skydiving, Snowboarding, Bird watching, Bus spotting, Astrology
+
+Books: 
+The Elements - Nick Mann
+The Righteous Mind - Jonathan Haidt
+Charlie and the Chocolate Factory - Roald Dahl
+IT - Stephen King
+The Amityville Horror - Jay Anson
+Science Encyclopedia - National Geographic

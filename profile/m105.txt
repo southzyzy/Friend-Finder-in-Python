@@ -1,0 +1,17 @@
+Name: Cruz Stgeorge
+Gender: M
+Country: Malaysia
+Acceptable_country: Russia, Thailand, Belgium
+Age: 18
+Acceptable_age_range: 19-25
+Likes: Sun bathing, Badminton, Skimboarding, Embroidery
+Dislikes: Gardening, Dance, Kabaddi, Crossword puzzles, Drama, Australian rules football
+
+Books: 
+Quantum Computing For Babies - Chris Ferrie
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Modern Architecture - Kenneth Frampton
+IT - Stephen King
+Thinking Architecture - Peter Zumthor
+Rock Climbing Anchors - Craig Luebben
+The Fault in Our Stars - John Green

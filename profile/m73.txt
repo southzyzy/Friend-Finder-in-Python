@@ -1,0 +1,16 @@
+Name: Fallon Dash
+Gender: F
+Country: Thailand
+Acceptable_country: Indonesia, Belgium, Malaysia, United Kingdom
+Age: 26
+Acceptable_age_range: 17-23
+Likes: Archery, Crossword puzzles, Badminton, Aircraft spotting, Snowboarding, Bird watching
+Dislikes: Dance, Archery, Slacklining, Cryptography
+
+Books: 
+Let It Snow - John Green
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+The Night Before Christmas - Holly Hobbie
+About a Boy - Nick Hornby
+A Little History of Religion - Richard Holloway
+The BFG - Roald Dahl

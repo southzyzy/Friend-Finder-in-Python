@@ -1,0 +1,15 @@
+Name: Ferne Pauline
+Gender: F
+Country: Belgium
+Acceptable_country: United Kingdom, Korea, Thailand
+Age: 20
+Acceptable_age_range: 20-26
+Likes: Geocaching, Billiards, Crossword puzzles, Model aircraft, Embroidery, Do it yourself
+Dislikes: Hiking, American football, Learning, Sun bathing, Bird watching, Drawing, Birdwatching
+
+Books: 
+The Rocky Road to Romance - Janet Evanovich
+Modern Architecture - Kenneth Frampton
+Computer Networking: A Top-Down Approach - James Kurose
+Charlie and the Chocolate Factory - Roald Dahl
+Prodigal Son - Danielle Steel

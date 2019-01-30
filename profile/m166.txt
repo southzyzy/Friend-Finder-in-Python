@@ -1,0 +1,16 @@
+Name: Melodie Retzlaff
+Gender: M
+Country: Mexico
+Acceptable_country: Thailand, Malaysia, United Kingdom, Mongolia
+Age: 20
+Acceptable_age_range: 17-23
+Likes: Dance, American football, Kart racing, Embroidery, Handball, Birdwatching
+Dislikes: Archery, Gardening, Bus spotting, Skiing
+
+Books: 
+The Elements of Computing Systems - Noam Nisan
+The Cat in the Hat - Roald Dahl
+Matilda - Roald Dahl
+Modern Architecture - Kenneth Frampton
+The Night Before Christmas - Holly Hobbie
+Rock Climbing Anchors - Craig Luebben
