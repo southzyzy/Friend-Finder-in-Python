@@ -17,7 +17,7 @@ def main():
     main_df = function1()
 
     # Getting student B information
-    student_B_name = "Michael Jackson"
+    student_B_name = "Son Spanbauer"
     student_B_info = sb.STUDENT_B(main_df, student_B_name).student_B_info
 
     """ This part serves function 2 """
@@ -25,7 +25,7 @@ def main():
 
     """ This part serves function 3 """
     f3_matches = f3.LIKES_DISLIKES(student_B_info, f3.CONVERT_TO_LIST(f2_matches).temp_list).f3_df
-    print f3_matches[["Name","Gender","Rank"]]
+    print f3_matches[["Name","Rank"]]
 
 
 if __name__ == '__main__':

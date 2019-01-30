@@ -64,3 +64,4 @@ class LIKES_DISLIKES:
             i["Rank"] += countDislikes.get(i["Name"])
 
         self.f3_df = pd.DataFrame.from_dict(temp_list, orient='columns')
+        self.f3_df = self.f3_df.sort_values(by=["Rank"], ascending=False)

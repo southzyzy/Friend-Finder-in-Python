@@ -8,6 +8,7 @@ files = [file for file in os.listdir(PROFILES) if file.endswith(".txt")]  # list
 
 def formattingData(df):
     # replace F to Female
+    # print df.Gender.str.contains("F")
     df["Gender"] = df.Gender.str.replace("F", "Female")
     df["Acceptable_country"] = df.Acceptable_country.str.replace(", ", ",")  # remove the white space after ,
     df["Likes"] = df.Likes.str.replace(", ", ",")  # remove white spaces after ,
