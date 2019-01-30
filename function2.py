@@ -6,4 +6,4 @@ class COUNTRY_MATCH:
         condition = df['Country'].isin(student_B_country) & (df['Name'] != name) & (df['Gender'] != student_B_gender)
 
         self.countries_matches = df.loc[condition]
-        self.countries_matches["Rank"] +=1
+        self.countries_matches["Rank"] +=1.0

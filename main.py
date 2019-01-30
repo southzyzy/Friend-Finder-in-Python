@@ -24,7 +24,7 @@ def main():
     f2_matches = f2.COUNTRY_MATCH(main_df, student_B_name, student_B_info).countries_matches
 
     """ This part serves function 3 """
-    similarities_df = f3.LIKES_DISLIKES(student_B_info, f3.CONVERT_TO_LIST(f2_matches).temp_list)
+    f3_matches = f3.LIKES_DISLIKES(student_B_info, f3.CONVERT_TO_LIST(f2_matches).temp_list)
 
 
 if __name__ == '__main__':

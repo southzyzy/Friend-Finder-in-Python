@@ -47,4 +47,5 @@ class PROFILES_DF:
     def __init__(self, data, headers):
         self.profilesDF = pd.DataFrame(data, columns=headers)  # create the dataframe
         self.profilesDF = formattingData(self.profilesDF)  # format and make data nicer
-        self.profilesDF["Rank"] = 0  # create a column Rank to rank the matches
+        self.profilesDF["Rank"] = 0.0  # create a column Rank to rank the matches
+        self.profilesDF["Rank"].astype(float)

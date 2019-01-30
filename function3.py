@@ -1,9 +1,9 @@
 import pandas as pd
 
 
-def countMatch(temp_list, lst, term):
+def countMatch(temp_list, B_lst, term):
     # get the likes or dislikes list
-    similarities_list = lst[term].values[0].split(",")
+    similarities_list = B_lst[term].values[0].split(",")
 
     count = 0
     d = {}
@@ -12,14 +12,24 @@ def countMatch(temp_list, lst, term):
         for val in similarities_list:
             for a in i[term].split(","):
                 if val in a:
-                    count += 1
+                    count += 1.0
+
+            if term == "Likes":
+                for _ in i["Dislikes"].split(","):
+                    if val in _:
+                        count-=0.5
+            else:
+                for _ in i["Likes"].split(","):
+                    if val in _:
+                        count-=0.5
+
+
         d[i["Name"]] = count
         count = 0  # reset count to 0
     return d
 
 # def countNotMatch(temp_list, lst, term):
-#
-#
+
 
 
 class CONVERT_TO_LIST:
@@ -50,7 +60,6 @@ class LIKES_DISLIKES:
         for i in temp_list:
             i["Rank"] += countLikes.get(i["Name"])
             i["Rank"] += countDislikes.get(i["Name"])
-
         print pd.DataFrame.from_dict(temp_list)
 
 
