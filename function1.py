@@ -7,7 +7,8 @@ files = [file for file in os.listdir(PROFILES) if file.endswith(".txt")]  # list
 
 
 def formattingData(df):
-    df["Gender"] = df.Gender.str.replace("F", "Female")  # replace F to Female
+    # replace F to Female
+    df["Gender"] = df.Gender.str.replace("F", "Female")
     df["Acceptable_country"] = df.Acceptable_country.str.replace(", ", ",")  # remove the white space after ,
     df["Likes"] = df.Likes.str.replace(", ", ",")  # remove white spaces after ,
     df["Dislikes"] = df.Dislikes.str.replace(", ", ",")  # remove white spaces after ,
@@ -48,4 +49,3 @@ class PROFILES_DF:
         self.profilesDF = pd.DataFrame(data, columns=headers)  # create the dataframe
         self.profilesDF = formattingData(self.profilesDF)  # format and make data nicer
         self.profilesDF["Rank"] = 0.0  # create a column Rank to rank the matches
-        self.profilesDF["Rank"].astype(float)

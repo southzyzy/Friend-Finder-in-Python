@@ -17,19 +17,15 @@ def countMatch(temp_list, B_lst, term):
             if term == "Likes":
                 for _ in i["Dislikes"].split(","):
                     if val in _:
-                        count-=0.5
+                        count -= 0.5
             else:
                 for _ in i["Likes"].split(","):
                     if val in _:
-                        count-=0.5
-
+                        count -= 0.5
 
         d[i["Name"]] = count
         count = 0  # reset count to 0
     return d
-
-# def countNotMatch(temp_list, lst, term):
-
 
 
 class CONVERT_TO_LIST:
@@ -38,9 +34,15 @@ class CONVERT_TO_LIST:
         self.temp_list = list(f2_matches.apply(
             lambda x: {
                 "Name": x['Name'],
+                "Gender": x["Gender"],
+                "Country": x["Country"],
+                "Acceptable_country": x["Acceptable_country"],
+                "Age": x["Age"],
+                "Acceptable_age_range": x["Acceptable_age_range"],
                 "Likes": x['Likes'],
+                "Books": x["Books"],
                 "Dislikes": x['Dislikes'],
-                "Rank": x['Rank'],
+                "Rank": x['Rank']
             }, axis=1))
 
 
@@ -53,18 +55,12 @@ class LIKES_DISLIKES:
             3. if student B like smth and matched dislike same as the B_like == -0.5
             4. if student B dislike smth and matched like same as the B_dislike == -0.5
          """
+
         countLikes = countMatch(temp_list, student_B_info, "Likes")
         countDislikes = countMatch(temp_list, student_B_info, "Dislikes")
-
 
         for i in temp_list:
             i["Rank"] += countLikes.get(i["Name"])
             i["Rank"] += countDislikes.get(i["Name"])
-        print pd.DataFrame.from_dict(temp_list)
 
-
-
-
-
-
-
+        self.f3_df = pd.DataFrame.from_dict(temp_list, orient='columns')
