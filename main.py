@@ -1,4 +1,4 @@
-import warnings
+import warnings, time
 import function1 as f1
 import function2 as f2
 import function3 as f3
@@ -13,11 +13,11 @@ def function1():
 
 
 def main():
-    # Function 1
+    """ This part serves function 1 """
     main_df = function1()
 
-    # Getting student B information
-    student_B_name = "Son Spanbauer"
+    """ Getting student B information """
+    student_B_name = "Tyesha Dicus"
     student_B_info = sb.STUDENT_B(main_df, student_B_name).student_B_info
 
     """ This part serves function 2 """
@@ -30,4 +30,6 @@ def main():
 
 if __name__ == '__main__':
     warnings.filterwarnings('ignore')
+    start_time = time.time()
     main()
+    print("\n--- Program Runtime: ---\n %s seconds " % (time.time() - start_time))
