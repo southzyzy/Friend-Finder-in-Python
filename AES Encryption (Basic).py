@@ -3,121 +3,91 @@ from passlib.hash import sha256_crypt
 import hashlib
 import os, sys
 
-hashed_pass_phrase_list = []
 
 def encryption_aes():
-    #Prompt the user to enter a passphrase 
-    pass_phrase = raw_input("Please enter a passphrase to encrypt the user profiles: ")
+    # Prompt the user to enter a passphrase
+    # pass_phrase = raw_input("Please enter a passphrase to encrypt the user profiles: ")
+    pass_phrase = "ICT1002"
 
-    #Hash the passphrase with salts 
+    # Hash the passphrase with salts
     hashed_pass_phrase = sha256_crypt.encrypt(pass_phrase)
 
-    hashed_pass_phrase_list.append(hashed_pass_phrase)
-
-    #Using the SHA-256 Hash Algorithm to pad a 32-byte passphrase
+    # Using the SHA-256 Hash Algorithm to pad a 32-byte passphrase
     original_pass_phrase_padded = hashlib.sha256(pass_phrase).digest()
 
-    #The path where the dating profiles are stored
-    profile_path = "C:\Users\Ryan\Desktop\Test"
+    # The path where the dating profiles are stored
+    CURENT_DIR = os.path.dirname(__file__)  # specify current directory
 
-    #The directory in which the dating profile are stored 
-    profile_directory = os.listdir(profile_path)
- 
-    #Initialization vector
+    # The directory in which the dating profile are stored
+    profile_directory = os.path.join(CURENT_DIR, "keys/")
+    files = [file for file in os.listdir(profile_directory) if file.endswith(".txt")]
+
+    # Initialization vector
     IV = 16 * '\x00'
 
-    #Set the Block mode of AES 
+    # Set the Block mode of AES
     mode = AES.MODE_CFB
     encryptor = AES.new(original_pass_phrase_padded, mode, IV=IV)
 
-    #Encrypt all the user profile files 
-    for file in profile_directory:
-        if file.endswith(".txt"):
-            
-            #Input the file to be encrypted 
-            input_file = open(file, "rb")
+    # Encrypt all the user profile files
+    for file in files:
+        # Input the file to be encrypted
+        filename = profile_directory + file
+        input_file = open(filename, "rb")
 
-            data_to_be_encrypted = input_file.read()
+        data_to_be_encrypted = input_file.read()
 
-            #Encrypt the contents of the file
-            ciphertext = encryptor.encrypt(data_to_be_encrypted)
+        input_file.close()
 
-            #Write encrypted contents to a new file
-            encrypted_file_name = file + ".bin"
-            
-            encrypted_output_file = open(encrypted_file_name, "wb")
+        # Encrypt the contents of the file
+        ciphertext = encryptor.encrypt(data_to_be_encrypted)
 
-            encrypted_output_file.write(ciphertext)
+        # Write encrypted contents to a new file
+        encrypted_file_name = filename + ".bin"
+
+        encrypted_output_file = open(encrypted_file_name, "wb")
+
+        encrypted_output_file.write(hashed_pass_phrase + "::" + ciphertext)
+
+        # remove the original file
+        os.remove(filename)
 
 
 def decryption_aes():
-    #Prompt the user to enter a passphrase 
-    pass_phrase = raw_input("Please enter a passphrase to decrypt the user profiles: ")
+    # Prompt the user to enter a passphrase
+    # pass_phrase = raw_input("Please enter a passphrase to decrypt the user profiles: ")
+    pass_phrase = "ICT1002"
 
-    #Scenario 1: The user entered the correct passphrase 
-    if sha256_crypt.verify(pass_phrase, hashed_pass_phrase_list[0]) == True:
+    # The path where the dating profiles are stored
+    CURENT_DIR = os.path.dirname(__file__)  # specify current directory
 
-        #Using the SHA-256 Hash Algorithm to pad a 32-byte passphrase
-        hashed_pass_phrase = hashlib.sha256(pass_phrase).digest()
+    # The directory in which the dating profile are stored
+    profile_directory = os.path.join(CURENT_DIR, "keys/")
+    files = [file for file in os.listdir(profile_directory) if file.endswith(".bin")]
 
-        #Initialization vector
-        IV = 16 * '\x00'
+    for file in files:
+        filename = profile_directory + file
+        input_file = open(filename, "rb")
+        file_contents = input_file.read()
+        input_file.close()
 
-        #Set the Block mode of AES
-        mode = AES.MODE_CFB
-        decryptor = AES.new(hashed_pass_phrase, mode, IV=IV)
+        hashed_pass_phrase = file_contents.split("::")[0]
+        cipherText = file_contents.split("::")[1]
 
-        #The path where the dating profiles are stored
-        profile_path = "C:\Users\Ryan\Desktop\Test"
+        if sha256_crypt.verify(pass_phrase, hashed_pass_phrase) == True:
+            # Using the SHA-256 Hash Algorithm to pad a 32-byte passphrase
+            hashed_pass_phrase = hashlib.sha256(pass_phrase).digest()
 
-        #The directory in which the dating profile are stored 
-        profile_directory = os.listdir(profile_path)
+            # Initialization vector
+            IV = 16 * '\x00'
 
-        #Decrypt all of the encrypted profiles and display them 
-        for file in profile_directory:
-            if file.endswith(".bin"):
-                
-                input_file = open(file, "rb")
+            # Set the Block mode of AES
+            mode = AES.MODE_CFB
+            decryptor = AES.new(hashed_pass_phrase, mode, IV=IV)
 
-                cipher_text = input_file.read()
+            plain = decryptor.decrypt(cipherText)
+            print plain
 
-                plain = decryptor.decrypt(cipher_text)
-
-                print plain
-                
-    #Scenario 2: The user entered an incorrect passphrase 
-    else:
-        print "Incorrect passphrase entered."
-
-
-encryption_aes()
-decryption_aes()
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-        
-
-
-
-
-
-
-
-
-
-
-
-
+        else:
+            print "Incorrect passphrase entered."
+            sys.exit(0)
