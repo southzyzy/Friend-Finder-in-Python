@@ -1,6 +1,6 @@
 import sys
 import requests
-import AES_Encryption
+import AES
 
 
 class G_BOOKS():

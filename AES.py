@@ -3,11 +3,14 @@ from passlib.hash import sha256_crypt
 import hashlib
 import os, sys
 
+# The path where the dating profiles are stored
+CURENT_DIR = os.path.dirname(__file__)  # specify current directory
+profile_directory = os.path.join(CURENT_DIR, "keys/")
+
 
 def encrypt():
     # Prompt the user to enter a passphrase
-    # pass_phrase = raw_input("Please enter a passphrase to encrypt the user profiles: ")
-    pass_phrase = "ICT1002"
+    pass_phrase = raw_input("Please enter a passphrase to encrypt the user profiles: ")
 
     # Hash the passphrase with salts
     hashed_pass_phrase = sha256_crypt.encrypt(pass_phrase)
@@ -15,19 +18,15 @@ def encrypt():
     # Using the SHA-256 Hash Algorithm to pad a 32-byte passphrase
     original_pass_phrase_padded = hashlib.sha256(pass_phrase).digest()
 
-    # The path where the dating profiles are stored
-    CURENT_DIR = os.path.dirname(__file__)  # specify current directory
-
-    # The directory in which the dating profile are stored
-    profile_directory = os.path.join(CURENT_DIR, "keys/")
-    files = [file for file in os.listdir(profile_directory) if file.endswith(".txt")]
-
     # Initialization vector
     IV = 16 * '\x00'
 
     # Set the Block mode of AES
     mode = AES.MODE_CFB
     encryptor = AES.new(original_pass_phrase_padded, mode, IV=IV)
+
+    # The directory in which the dating profile are stored
+    files = [file for file in os.listdir(profile_directory) if file.endswith(".txt")]
 
     # Encrypt all the user profile files
     for file in files:
@@ -55,14 +54,9 @@ def encrypt():
 
 def decrypt():
     # Prompt the user to enter a passphrase
-    # pass_phrase = raw_input("Please enter a passphrase to decrypt the user profiles: ")
-    pass_phrase = "ICT1002"
-
-    # The path where the dating profiles are stored
-    CURENT_DIR = os.path.dirname(__file__)  # specify current directory
+    pass_phrase = raw_input("Please enter a passphrase to decrypt the user profiles: ")
 
     # The directory in which the dating profile are stored
-    profile_directory = os.path.join(CURENT_DIR, "keys/")
     files = [file for file in os.listdir(profile_directory) if file.endswith(".bin")]
 
     for file in files:
@@ -91,3 +85,7 @@ def decrypt():
         else:
             print "Incorrect passphrase entered."
             sys.exit(0)
+
+
+if __name__ == '__main__':
+    encrypt()
