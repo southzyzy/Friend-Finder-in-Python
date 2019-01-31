@@ -4,7 +4,7 @@ import hashlib
 import os, sys
 
 
-def encryption_aes():
+def encrypt():
     # Prompt the user to enter a passphrase
     # pass_phrase = raw_input("Please enter a passphrase to encrypt the user profiles: ")
     pass_phrase = "ICT1002"
@@ -53,7 +53,7 @@ def encryption_aes():
         os.remove(filename)
 
 
-def decryption_aes():
+def decrypt():
     # Prompt the user to enter a passphrase
     # pass_phrase = raw_input("Please enter a passphrase to decrypt the user profiles: ")
     pass_phrase = "ICT1002"
@@ -86,7 +86,7 @@ def decryption_aes():
             decryptor = AES.new(hashed_pass_phrase, mode, IV=IV)
 
             plain = decryptor.decrypt(cipherText)
-            print plain
+            return plain
 
         else:
             print "Incorrect passphrase entered."
