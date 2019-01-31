@@ -4,7 +4,7 @@ import AES
 
 
 class G_BOOKS():
-    googleapikey = sys.argv[1]
+    googleapikey = AES.decrypt()
 
     def search(self, value):
         parms = {"q": value, 'key': self.googleapikey}

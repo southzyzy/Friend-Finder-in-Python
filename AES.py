@@ -54,7 +54,7 @@ def encrypt():
 
 def decrypt():
     # Prompt the user to enter a passphrase
-    pass_phrase = raw_input("Please enter a passphrase to decrypt the user profiles: ")
+    pass_phrase = raw_input("Please enter a passphrase to decrypt the api-key: ")
 
     # The directory in which the dating profile are stored
     files = [file for file in os.listdir(profile_directory) if file.endswith(".bin")]
@@ -88,4 +88,5 @@ def decrypt():
 
 
 if __name__ == '__main__':
-    encrypt()
+    # encrypt()
+    decrypt()
