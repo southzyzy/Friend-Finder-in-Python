@@ -24,8 +24,12 @@ def main():
     f2_matches = f2.COUNTRY_MATCH(main_df, student_B_name, student_B_info).countries_matches
 
     """ This part serves function 3 """
-    f3_matches = f3.LIKES_DISLIKES(student_B_info, f3.CONVERT_TO_LIST(f2_matches).temp_list).f3_df
-    # print f3_matches[["Name","Rank"]]
+    f3_matches = f3.LIKES_DISLIKES(f2_matches)
+    f3_matches_lst = f3_matches.convert2List()
+    countLikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Likes")
+    countDislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes")
+    end = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
+    print end
 
 
 if __name__ == '__main__':
