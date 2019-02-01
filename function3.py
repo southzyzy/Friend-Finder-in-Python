@@ -2,14 +2,9 @@ import pandas as pd
 
 
 class LIKES_DISLIKES(object):
-
-    def __init__(self, f2_matchs):
-        self.f2_matches = f2_matchs
-
-
-    def convert2List(self):
+    def __init__(self, f2_matches):
         # convert df object to a list
-        temp_list = list(self.f2_matches.apply(
+        self.temp_list = list(f2_matches.apply(
             lambda x: {
                 "Name": x['Name'],
                 "Gender": x["Gender"],
@@ -22,8 +17,6 @@ class LIKES_DISLIKES(object):
                 "Dislikes": x['Dislikes'],
                 "Rank": x['Rank']
             }, axis=1))
-        return temp_list
-
 
     def countMatch(self, temp_list, B_lst, term):
         """
@@ -57,7 +50,6 @@ class LIKES_DISLIKES(object):
             d[i["Name"]] = count
             count = 0  # reset count to 0
         return d
-
 
     def matches(self, countLikes, countDislikes, temp_list):
         for i in temp_list:

@@ -4,10 +4,9 @@ import re
 
 def formattingData(df):
     # Check Gender column
-    if df.Gender.str.contains("F").any():
-        df["Gender"] = df.Gender.str.replace("F", "Female")
-    if df.Gender.str.contains("M").any():
-        df["Gender"] = df.Gender.str.replace("M", "Male")
+
+    df["Gender"] = df.Gender.str.replace("Female", "F")
+    df["Gender"] = df.Gender.str.replace("Male", "M")
 
     df["Acceptable_country"] = df.Acceptable_country.str.replace(", ", ",")  # remove the white space after ,
     df["Likes"] = df.Likes.str.replace(", ", ",")  # remove white spaces after ,
