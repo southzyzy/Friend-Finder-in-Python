@@ -41,11 +41,3 @@ class AESCipher(object):
     @staticmethod
     def _unpad(s):
         return s[:-ord(s[len(s) - 1:])]
-#
-# if __name__ == '__main__':
-#     aes = AESCipher("ICT1002")
-#     cipherText = aes.encrypt("Jaden")
-#     print cipherText
-#
-#     plainText = aes.decrypt("ICT1002", cipherText)
-#     print plainText

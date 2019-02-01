@@ -1,6 +1,6 @@
 import requests
 import AESCipher
-import os
+import os, sys
 
 # The path where the dating profiles are stored
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
@@ -8,9 +8,9 @@ profile_directory = os.path.join(CURENT_DIR, "keys/")
 
 
 class G_BOOKS():
-    def __init__(self, obj, cipherText):
-        aes = obj.AESCipher("ICT1002")
-        self.googleapikey = aes.decrypt("ICT1002", cipherText)
+    def __init__(self, obj, cipherText, key):
+        aes = obj.AESCipher(key)
+        self.googleapikey = aes.decrypt(key, cipherText)
 
     def search(self, value):
         parms = {"q": value, 'key': self.googleapikey}
@@ -39,5 +39,5 @@ if __name__ == "__main__":
         enc = input_file.read()
         input_file.close()
 
-        bk = G_BOOKS(aes, enc)
+        bk = G_BOOKS(aes, enc, sys.argv[1])
         bk.search("Christian reflections")

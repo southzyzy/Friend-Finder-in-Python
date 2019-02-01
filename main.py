@@ -24,10 +24,10 @@ def main():
     f2_matches = f2.COUNTRY_MATCH(main_df, student_B_name, student_B_info).countries_matches
 
     """ This part serves function 3 """
-    f3_matches = f3.LIKES_DISLIKES(f2_matches)
-    f3_matches_lst = f3_matches.convert2List()
-    countLikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Likes")
-    countDislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes")
+    f3_matches = f3.LIKES_DISLIKES(f2_matches) # calling the class LIKES_DISLIKES
+    f3_matches_lst = f3_matches.convert2List() #converting dataframe to list
+    countLikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Likes") # count the no. of likes
+    countDislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes") # count the no. of dislikes
     end = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
     print end
 
