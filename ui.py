@@ -2,7 +2,6 @@ from pyfiglet import Figlet
 import cowsay
 import warnings, time, os
 import function1 as f1
-import function1 as f1
 import function2 as f2
 import function3 as f3
 import student_B as sb
@@ -27,6 +26,9 @@ def display_ui():
 
 
 def main():
+    profiles_list = f1.FUNCTION_1(profiles=PROFILES, files=files)
+    profiles_df = profiles_list.profilesDF(profiles_list.HEADERS, profiles_list.DATA)
+
     acceptable_inputs = ["1", "2", "3", "4", "5", "6", "7"]
     display_ui()
 
