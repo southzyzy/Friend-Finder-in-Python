@@ -40,4 +40,4 @@ if __name__ == "__main__":
         input_file.close()
 
         bk = G_BOOKS(aes, enc, sys.argv[1])
-        bk.search("Christian reflections")
+        bk.search("Bared to You")
