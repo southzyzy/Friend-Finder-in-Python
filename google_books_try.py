@@ -17,6 +17,7 @@ class G_BOOKS():
         r = requests.get(url="https://www.googleapis.com/books/v1/volumes", params=parms)
         print r.url
         rj = r.json()
+
         print rj["totalItems"]
         for i in rj["items"]:
             try:
