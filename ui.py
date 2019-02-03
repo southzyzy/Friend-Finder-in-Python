@@ -12,10 +12,6 @@ files = [file for file in os.listdir(PROFILES) if file.endswith(".txt")]  # list
 
 
 def display_ui():
-    ui_banner = Figlet(font="graffiti")
-    print ui_banner.renderText("Welcome To 1002_Tinder")
-    cowsay.cow("Wanna Get Hitch? Use 1002_Tinder!")
-
     print "1. List all the names, gender and age from all the profiles."
     print "2. List all the matched students of one given student B based on country."
     print "3. List the top 3 best matched students who share the most similar likes or dislikes for one given student B."
@@ -26,6 +22,12 @@ def display_ui():
 
 
 def main():
+    #Display Banner
+    ui_banner = Figlet(font="graffiti")
+    print ui_banner.renderText("Welcome To 1002_Tinder")
+    cowsay.cow("Wanna Get Hitch? Use 1002_Tinder!")
+
+    
     profiles_list = f1.FUNCTION_1(profiles=PROFILES, files=files)
     profiles_df = profiles_list.profilesDF(profiles_list.HEADERS, profiles_list.DATA)
 
