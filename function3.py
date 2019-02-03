@@ -26,7 +26,6 @@ class LIKES_DISLIKES(object):
             3. if student B like smth and matched dislike same as the B_like == -0.5
             4. if student B dislike smth and matched like same as the B_dislike == -0.5
          """
-
         similarities_list = B_lst[term].values[0].split(",")
 
         count = 0
@@ -49,6 +48,7 @@ class LIKES_DISLIKES(object):
 
             d[i["Name"]] = count
             count = 0  # reset count to 0
+
         return d
 
     def matches(self, countLikes, countDislikes, temp_list):

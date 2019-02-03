@@ -6,12 +6,15 @@ import student_B as sb
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
 PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
-files = [file for file in os.listdir(PROFILES) if file.endswith(".txt")]  # list out all the filename in profiles folder
+API_KEY = os.path.join(CURENT_DIR, "keys/")
+pro_files = [file for file in os.listdir(PROFILES) if
+             file.endswith(".txt")]  # list out all the profiles in profiles folder
+key_files = [file for file in os.listdir(API_KEY) if file.endswith(".bin")]  # list out the api-keys in keys folder
 
 
 def main():
     """ This part serves function 1 """
-    profiles_list = f1.FUNCTION_1(profiles=PROFILES, files=files)
+    profiles_list = f1.FUNCTION_1(profiles=PROFILES, files=pro_files)
     profiles_df = profiles_list.profilesDF(profiles_list.HEADERS, profiles_list.DATA)
 
     """ Getting student B information """
@@ -22,14 +25,15 @@ def main():
     f2_df = f2.COUNTRY_MATCH(profiles_df, student_B_name, student_B_info).countries_matches
 
     """ This part serves function 3 """
-    f3_matches = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKESel
+    f3_matches = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
+
     f3_matches_lst = f3_matches.temp_list  # converting dataframe to list
 
     countLikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Likes")  # count the no. of likes
     countDislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes")  # count the no. of dislikes
 
     f3_df = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
-    print f3_df.head(n=5)[["Name","Gender","Rank"]]
+    print f3_df.head(n=5)[["Name", "Gender", "Rank"]]
 
 
 if __name__ == '__main__':
