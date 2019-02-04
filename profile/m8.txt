@@ -1,17 +1,17 @@
-Name: Harry Webber
-Gender: F
-Country: Mexico
-Acceptable_country: Korea, Mexico, Thailand, Japan
-Age: 27
-Acceptable_age_range: 20-26
-Likes: Sun bathing, Australian rules football, Drawing, Animal fancy
-Dislikes: Astronomy, Gardening, Embroidery, Crossword puzzles, Skiing
+Name: Alberto Fullam
+Gender: M
+Country: Singapore
+Acceptable_country: Russia, United Kingdom, Thailand
+Age: 24
+Acceptable_age_range: 20-23
+Likes: Archery, Surfing, Hiking, Stone skipping, Kabaddi, Microscopy, Crossword puzzles, Drawing, Bus spotting
+Dislikes: Archery, Cryptography, Hiking, Fishkeeping, Crossword puzzles, Amateur astronomy, American football, Snowboarding
 
 Books: 
-The Brain That Changes Itself - Norman Doidge
-Quantum Computing For Babies - Chris Ferrie
-Swimming Anatomy - Ian McLeod
-Beowulf - J. R. R. Tolkien
-The Life-Changing Magic of Tidying - Marie Kondo
-The Award - Danielle Steel
-Animal Encyclopedia - National Geographic
+The Elements - Nick Mann
+Paper Towns - John Green
+My Sister's Keeper - Jodi Picoult
+Seven Brief Lessons on Physics - Carlo Rovelli
+Computer Networking: A Top-Down Approach - James Kurose
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Horror in the Museum - H. P. Lovecraft

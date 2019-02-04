@@ -1,17 +1,16 @@
-Name: Sarita Dillman
+Name: Madelaine Blackburn
 Gender: F
-Country: Malaysia
-Acceptable_country: Philippines, Mongolia, Japan, Belgium
-Age: 19
-Acceptable_age_range: 21-24
-Likes: Drama, Australian rules football, Aircraft spotting, Skiing, Baton twirling, Marching band, Bus spotting
-Dislikes: Geocaching, Snowboarding, Do it yourself, Skimboarding, Hooping
+Country: Thailand
+Acceptable_country: Korea, Mexico, Russia
+Age: 22
+Acceptable_age_range: 17-24
+Likes: Astronomy, Billiards, Laser tag, Microscopy, Marching band, Sun bathing, Aircraft spotting, American football, Do it yourself, Drawing, Astrology
+Dislikes: Billiards, Geocaching, Kabaddi, Drama, Amateur astronomy, Embroidery, Snowboarding, Drawing, Bus spotting
 
 Books: 
-The Elements - Nick Mann
-Cracking the Coding Interview - Gayle Laakmann
-The Cat in the Hat - Roald Dahl
-Let It Snow - John Green
-The Rocky Road to Romance - Janet Evanovich
-The Night Before Christmas - Holly Hobbie
-Harry Potter and the Philosopher's Stone - J.K Rowling
+Prodigal Son - Danielle Steel
+Modern Architecture - Kenneth Frampton
+My Sister's Keeper - Jodi Picoult
+Rock Climbing Anchors - Craig Luebben
+The BFG - Roald Dahl
+The Horror in the Museum - H. P. Lovecraft

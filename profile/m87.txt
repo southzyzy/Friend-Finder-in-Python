@@ -1,17 +1,17 @@
-Name: Gabriele Gleason
-Gender: M
+Name: Harry Webber
+Gender: F
 Country: China
-Acceptable_country: United States of America, Belgium, United Kingdom
+Acceptable_country: United States of America, Mexico, United Kingdom, Japan
 Age: 21
-Acceptable_age_range: 19-23
-Likes: Hiking, Kabaddi, Skimboarding, Electronics, Do it yourself, Astrology
-Dislikes: Skiing, Geocaching, Kabaddi, Australian rules football, Knife throwing, Birdwatching
+Acceptable_age_range: 18-26
+Likes: Archery, Geocaching, Fishkeeping, Model aircraft, Sun bathing, Snowboarding, Airsoft, Marching band
+Dislikes: Archery, Slacklining, Dance, Stone skipping, Billiards, Handball, Meditation, Bus spotting
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-The Brain That Changes Itself - Norman Doidge
-The Cat in the Hat - Roald Dahl
-About a Boy - Nick Hornby
-Thinking Architecture - Peter Zumthor
-Rock Climbing Anchors - Craig Luebben
-Animal Encyclopedia - National Geographic
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+The Very Hungry Caterpillar - Eric Carle
+The Night Before Christmas - Holly Hobbie
+Seven Brief Lessons on Physics - Carlo Rovelli
+Computer Networking: A Top-Down Approach - James Kurose
+The Fault in Our Stars - John Green
+Prisoners of Geography - Tim Marshall

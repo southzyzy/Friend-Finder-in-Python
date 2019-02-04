@@ -1,14 +1,16 @@
-Name: Giuseppina Deveau
-Gender: F
-Country: Mexico
-Acceptable_country: Indonesia, Belgium, Mongolia, Korea
-Age: 24
-Acceptable_age_range: 18-23
-Likes: Drama, Baton twirling, Laser tag, Embroidery, Microscopy
-Dislikes: Digital arts, Animal fancy, Horseback riding, Skiing
+Name: Erin Buchmann
+Gender: M
+Country: Belgium
+Acceptable_country: Mongolia, Russia, Belgium
+Age: 19
+Acceptable_age_range: 17-26
+Likes: Gardening, Air sports, Animal fancy, Badminton, Kart racing, Hooping, Learning, Skiing, Handball, Meditation, Astronomy
+Dislikes: Archery, Learning, Crossword puzzles, Skydiving, Microscopy, Embroidery, Skiing, Handball
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-Beowulf - J. R. R. Tolkien
-The Two Towers - J. R. R. Tolkien
-Let It Snow - John Green
+Prodigal Son - Danielle Steel
+The Night Before Christmas - Holly Hobbie
+About a Boy - Nick Hornby
+The BFG - Roald Dahl
+Change of Heart - Jodi Picoult
+The Fault in Our Stars - John Green

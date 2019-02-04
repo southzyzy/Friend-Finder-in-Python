@@ -1,17 +1,17 @@
-Name: Zachary Villavicencio
-Gender: F
-Country: Singapore
-Acceptable_country: Malaysia, United Kingdom, United States of America
-Age: 24
+Name: Jennifer Wixom
+Gender: M
+Country: United States of America
+Acceptable_country: Indonesia, Singapore, Japan, Korea
+Age: 27
 Acceptable_age_range: 19-26
-Likes: Cryptography, Aircraft spotting, Fishkeeping, Kart racing, Amateur astronomy, Skimboarding, Astronomy
-Dislikes: Cryptography, Billiards, Microscopy, Amateur astronomy, Bird watching, Digital arts
+Likes: Surfing, Gardening, Fishkeeping, Kabaddi, Hooping, Embroidery, Knife throwing, Handball, Bowling, Airsoft, Animal fancy
+Dislikes: Archery, Surfing, Drama, Skydiving, Amateur astronomy, Horseback riding, Learning, Skimboarding, Baton twirling
 
 Books: 
-Fantastic Beasts and Where to Find Them - J.K Rowling
-Hop on Pop - Dr.Seuss
-Computer Networking: A Top-Down Approach - James Kurose
-A Little History of Religion - Richard Holloway
-The Life-Changing Magic of Tidying - Marie Kondo
+The Elements - Nick Mann
+The Elements of Computing Systems - Noam Nisan
+Charlie and the Chocolate Factory - Roald Dahl
+Swimming Anatomy - Ian McLeod
+Beowulf - J. R. R. Tolkien
 The Award - Danielle Steel
 The Romance of the Three Kingdoms - Luo Guanzhong

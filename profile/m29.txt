@@ -1,17 +1,17 @@
-Name: Hector Elia
+Name: Steffanie Shoemaker
 Gender: M
-Country: Mongolia
-Acceptable_country: China, Japan, Mongolia, Korea
-Age: 19
-Acceptable_age_range: 18-26
-Likes: Cryptography, Air sports, Laser tag, Microscopy, Skiing, Meditation, Auto racing
-Dislikes: Drama, Snowboarding, Billiards, Badminton, Skiing
+Country: Malaysia
+Acceptable_country: Singapore, United Kingdom, Russia
+Age: 23
+Acceptable_age_range: 20-23
+Likes: Surfing, Fishkeeping, Billiards, Laser tag, Australian rules football, Horseback riding, Skiing, Snowboarding, Do it yourself
+Dislikes: Archery, Cryptography, Crossword puzzles, Learning, Skiing, Bird watching, Meditation
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-The Cat in the Hat - Roald Dahl
-Seven Brief Lessons on Physics - Carlo Rovelli
-The Life-Changing Magic of Tidying - Marie Kondo
-The BFG - Roald Dahl
-Animal Encyclopedia - National Geographic
-The Dead Zone - Stephen King
+The Elements - Nick Mann
+Modern Architecture - Kenneth Frampton
+My Sister's Keeper - Jodi Picoult
+Rock Climbing Anchors - Craig Luebben
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Shining - Stephen King

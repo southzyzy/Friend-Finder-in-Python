@@ -1,16 +1,17 @@
-Name: Fallon Dash
-Gender: F
-Country: Thailand
-Acceptable_country: Indonesia, Belgium, Malaysia, United Kingdom
-Age: 26
-Acceptable_age_range: 17-23
-Likes: Archery, Crossword puzzles, Badminton, Aircraft spotting, Snowboarding, Bird watching
-Dislikes: Dance, Archery, Slacklining, Cryptography
+Name: Aaron Fulp
+Gender: M
+Country: Singapore
+Acceptable_country: Russia, United States of America, Philippines, Belgium
+Age: 21
+Acceptable_age_range: 19-24
+Likes: Archery, Slacklining, Air sports, Geocaching, Billiards, Australian rules football, Skimboarding, Embroidery, Bowling, American football, Digital arts, Bus spotting
+Dislikes: Surfing, Slacklining, Hiking, Geocaching, Laser tag, Model aircraft, Aircraft spotting, Skiing, Snowboarding
 
 Books: 
-Let It Snow - John Green
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-The Night Before Christmas - Holly Hobbie
-About a Boy - Nick Hornby
-A Little History of Religion - Richard Holloway
-The BFG - Roald Dahl
+Modern Architecture - Kenneth Frampton
+My Sister's Keeper - Jodi Picoult
+IT - Stephen King
+Beowulf - J. R. R. Tolkien
+The Life-Changing Magic of Tidying - Marie Kondo
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Shining - Stephen King

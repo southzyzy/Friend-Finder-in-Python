@@ -1,16 +1,16 @@
-Name: Thomasena Pottorff
+Name: Ryann Meraz
 Gender: F
-Country: Russia
-Acceptable_country: Thailand, United Kingdom, Malaysia
-Age: 25
-Acceptable_age_range: 19-24
-Likes: Baton twirling, Association football, Drawing, Bus spotting, Knife throwing
-Dislikes: High-power rocketry, Bus spotting, Hiking
+Country: Korea
+Acceptable_country: Indonesia, Philippines, Singapore
+Age: 19
+Acceptable_age_range: 21-23
+Likes: Archery, Slacklining, Kabaddi, Badminton, Drama, Australian rules football, Aircraft spotting, Knife throwing, Birdwatching, Animal fancy
+Dislikes: Skydiving, Auto racing, Baton twirling, Sun bathing, Handball, Meditation, Astronomy, Marching band
 
 Books: 
-The Cat in the Hat - Roald Dahl
-Let It Snow - John Green
-The Two Towers - J. R. R. Tolkien
-About a Boy - Nick Hornby
-Change of Heart - Jodi Picoult
-Prisoners of Geography - Tim Marshall
+Quantum Computing For Babies - Chris Ferrie
+Charlie and the Chocolate Factory - Roald Dahl
+Prodigal Son - Danielle Steel
+The Life-Changing Magic of Tidying - Marie Kondo
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Science Encyclopedia - National Geographic

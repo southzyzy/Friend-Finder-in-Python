@@ -1,16 +1,17 @@
-Name: Tyesha Dicus
+Name: Julienne Ketcham
 Gender: F
-Country: United Kingdom
-Acceptable_country: Malaysia, Japan, Mexico
-Age: 20
-Acceptable_age_range: 17-25
-Likes: Gardening, Geocaching, Kabaddi, Hooping, Animal fancy, Do it yourself
-Dislikes: Geocaching, Horseback riding, Embroidery, Animal fancy, Handball, Snowboarding, Auto racing
+Country: Malaysia
+Acceptable_country: Mongolia, Russia, Philippines, Singapore
+Age: 23
+Acceptable_age_range: 18-25
+Likes: Air sports, Dance, Amateur astronomy, Learning, Handball, Digital arts, Astronomy, Drawing
+Dislikes: Do it yourself, Billiards, Model aircraft, Snowboarding, Auto racing, Astronomy, Astrology
 
 Books: 
-Matilda - Roald Dahl
-The Very Hungry Caterpillar - Eric Carle
-The Night Before Christmas - Holly Hobbie
-Fantastic Beasts and Where to Find Them - J.K Rowling
-The Romance of the Three Kingdoms - Luo Guanzhong
-The Shining - Stephen King
+The Elements of Computing Systems - Noam Nisan
+The Cat in the Hat - Roald Dahl
+Swimming Anatomy - Ian McLeod
+Computer Networking: A Top-Down Approach - James Kurose
+The Amityville Horror - Jay Anson
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Three Poems - Hannah Sullivan

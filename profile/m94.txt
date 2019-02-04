@@ -1,17 +1,17 @@
-Name: Olin Beaudin
-Gender: F
-Country: Japan
-Acceptable_country: Korea, Thailand, Japan, Singapore
-Age: 18
-Acceptable_age_range: 20-26
-Likes: Archery, Hiking, Microscopy, Skiing, American football, Do it yourself, Birdwatching
-Dislikes: Drama, Digital arts, Astronomy, Gardening
+Name: Brant Rios
+Gender: M
+Country: China
+Acceptable_country: Mexico, China, Korea, Singapore
+Age: 24
+Acceptable_age_range: 21-26
+Likes: Archery, Surfing, Gardening, Dance, Laser tag, Kart racing, Animal fancy, Marching band
+Dislikes: Slacklining, Marching band, Skimboarding, Learning, Skiing, Sun bathing, Auto racing, Electronics
 
 Books: 
-Cracking the Coding Interview - Gayle Laakmann
-The Righteous Mind - Jonathan Haidt
+The Elements - Nick Mann
 Harry Potter and the Prisoner of Azkaban - J.K Rowling
 Matilda - Roald Dahl
-Off the Leash: The Secret Life of Dogs - Rupert Fawcett
-Three Poems - Hannah Sullivan
-The Fellowship of the Ring - J. R. R. Tolkien
+The Night Before Christmas - Holly Hobbie
+Computer Networking: A Top-Down Approach - James Kurose
+Beowulf - J. R. R. Tolkien
+The Hobbit - J. R. R. Tolkien

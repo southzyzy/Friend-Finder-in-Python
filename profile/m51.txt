@@ -1,16 +1,17 @@
-Name: Judson Baughman
+Name: Jamey Polk
 Gender: M
-Country: Philippines
-Acceptable_country: Thailand, Russia, Korea, Mongolia
-Age: 26
-Acceptable_age_range: 17-26
-Likes: Dance, Surfing, Cryptography, Astrology
-Dislikes: High-power rocketry, Knife throwing, Kabaddi, Association football, Bowling
+Country: Mexico
+Acceptable_country: United Kingdom, Belgium, Thailand, Russia
+Age: 21
+Acceptable_age_range: 19-25
+Likes: Hiking, Billiards, Drama, Aircraft spotting, Animal fancy, Sun bathing, Bus spotting
+Dislikes: Geocaching, Stone skipping, Skydiving, Learning, Bird watching, Digital arts, Do it yourself
 
 Books: 
+Thinking Architecture - Peter Zumthor
 The Righteous Mind - Jonathan Haidt
 Charlie and the Chocolate Factory - Roald Dahl
-Quantum Computing For Babies - Chris Ferrie
+The Two Towers - J. R. R. Tolkien
+The Fault in Our Stars - John Green
 The Amityville Horror - Jay Anson
-The Life-Changing Magic of Tidying - Marie Kondo
-The Award - Danielle Steel
+Science Encyclopedia - National Geographic

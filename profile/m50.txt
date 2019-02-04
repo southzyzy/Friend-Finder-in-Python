@@ -1,17 +1,17 @@
-Name: Sherril Clauss
+Name: Omer Butkovich
 Gender: M
-Country: Belgium
-Acceptable_country: Russia, Korea, Philippines
-Age: 19
-Acceptable_age_range: 19-26
-Likes: Archery, Drama, Skimboarding, Skiing, Bird watching, Electronics, Marching band
-Dislikes: Laser tag, Microscopy, Aircraft spotting, Crossword puzzles, Auto racing, Meditation
+Country: Korea
+Acceptable_country: Russia, China, Japan, Korea
+Age: 24
+Acceptable_age_range: 20-24
+Likes: Association football, Hiking, Cryptography, Fishkeeping, Laser tag, Kart racing, Skimboarding, Embroidery, Bowling, High-power rocketry
+Dislikes: Archery, Cryptography, Billiards, Sun bathing, Model aircraft, Hooping, American football, Bird watching, Baton twirling
 
 Books: 
-Cracking the Coding Interview - Gayle Laakmann
+The Brain That Changes Itself - Norman Doidge
 Quantum Computing For Babies - Chris Ferrie
-Fantastic Beasts and Where to Find Them - J.K Rowling
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-Off the Leash: The Secret Life of Dogs - Rupert Fawcett
-The Romance of the Three Kingdoms - Luo Guanzhong
-Three Poems - Hannah Sullivan
+The Rocky Road to Romance - Janet Evanovich
+Seven Brief Lessons on Physics - Carlo Rovelli
+IT - Stephen King
+The Life-Changing Magic of Tidying - Marie Kondo
+Change of Heart - Jodi Picoult

@@ -1,15 +1,17 @@
-Name: Gregorio Colucci
+Name: Mitchell Krum
 Gender: M
-Country: Malaysia
-Acceptable_country: Philippines, United Kingdom, Mexico
-Age: 22
-Acceptable_age_range: 17-23
-Likes: Meditation, Airsoft, Skimboarding, Air sports
-Dislikes: Laser tag, Bird watching, Stone skipping, Airsoft, Association football
+Country: United States of America
+Acceptable_country: Singapore, Belgium, Philippines, United States of America
+Age: 20
+Acceptable_age_range: 17-26
+Likes: Bowling, Fishkeeping, Skiing, Crossword puzzles, Drawing, Dance, Knife throwing, Electronics, Baton twirling, Bus spotting
+Dislikes: Slacklining, Air sports, Skiing, Badminton, Animal fancy, Sun bathing, Meditation, Birdwatching
 
 Books: 
+The Cat in the Hat - Roald Dahl
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
 Matilda - Roald Dahl
-Beowulf - J. R. R. Tolkien
-Let It Snow - John Green
-The Life-Changing Magic of Tidying - Marie Kondo
 Computer Networking: A Top-Down Approach - James Kurose
+The Very Hungry Caterpillar - Eric Carle
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Fellowship of the Ring - J. R. R. Tolkien

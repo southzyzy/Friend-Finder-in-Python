@@ -1,17 +1,17 @@
-Name: Everett Bennetts
-Gender: F
-Country: Singapore
-Acceptable_country: Thailand, Philippines, Belgium, Indonesia
-Age: 18
-Acceptable_age_range: 17-24
-Likes: Kabaddi, Laser tag, Drama, Learning, Bowling, Handball, Do it yourself
-Dislikes: Stone skipping, Laser tag, Skimboarding, Handball, Digital arts, Drawing
+Name: Erma Trybus
+Gender: M
+Country: Russia
+Acceptable_country: Singapore, Philippines, Thailand
+Age: 27
+Acceptable_age_range: 17-23
+Likes: Surfing, Air sports, Australian rules football, Skydiving, Hooping, Bowling, American football, Drawing
+Dislikes: Archery, Gardening, Australian rules football, Dance, Microscopy, Model aircraft, Auto racing, Bus spotting
 
 Books: 
-Prodigal Son - Danielle Steel
-The Rocky Road to Romance - Janet Evanovich
-Hop on Pop - Dr.Seuss
+The Righteous Mind - Jonathan Haidt
+A Little History of Religion - Richard Holloway
+Modern Architecture - Kenneth Frampton
 My Sister's Keeper - Jodi Picoult
+Seven Brief Lessons on Physics - Carlo Rovelli
 Beowulf - J. R. R. Tolkien
-The BFG - Roald Dahl
-Change of Heart - Jodi Picoult
+The Romance of the Three Kingdoms - Luo Guanzhong

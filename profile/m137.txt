@@ -1,17 +1,17 @@
-Name: Asley Merten
+Name: Fe Batt
 Gender: F
-Country: Singapore
-Acceptable_country: United States of America, Russia, Belgium, Korea
-Age: 20
-Acceptable_age_range: 18-26
-Likes: Kart racing, Skydiving, Aircraft spotting, Learning, Animal fancy, Do it yourself, Astrology
-Dislikes: Geocaching, Crossword puzzles, Skydiving, Kart racing, Horseback riding, Auto racing, Meditation
+Country: Malaysia
+Acceptable_country: Korea, Singapore, Belgium, Mongolia
+Age: 26
+Acceptable_age_range: 17-26
+Likes: Archery, Stone skipping, Billiards, Microscopy, Model aircraft, Learning, Astrology
+Dislikes: Archery, Billiards, Microscopy, High-power rocketry, Aircraft spotting, Sun bathing, Do it yourself
 
 Books: 
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-Fantastic Beasts and Where to Find Them - J.K Rowling
-IT - Stephen King
-Prisoners of Geography - Tim Marshall
-The Fellowship of the Ring - J. R. R. Tolkien
-The Shining - Stephen King
-Science Encyclopedia - National Geographic
+Let It Snow - John Green
+Modern Architecture - Kenneth Frampton
+Swimming Anatomy - Ian McLeod
+The Night Before Christmas - Holly Hobbie
+My Sister's Keeper - Jodi Picoult
+The Fault in Our Stars - John Green
+Change of Heart - Jodi Picoult

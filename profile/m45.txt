@@ -1,17 +1,17 @@
-Name: Shanelle Okeefe
+Name: Jerrell Trinkle
 Gender: M
-Country: Mexico
-Acceptable_country: Russia, Indonesia, United States of America, United Kingdom
-Age: 22
-Acceptable_age_range: 19-23
-Likes: Badminton, Amateur astronomy, Skiing, Sun bathing, Do it yourself, Astrology
-Dislikes: Stone skipping, Billiards, Gardening, Hiking
+Country: United Kingdom
+Acceptable_country: United Kingdom, Japan, Thailand, Belgium
+Age: 20
+Acceptable_age_range: 19-24
+Likes: Surfing, Hiking, Air sports, Australian rules football, High-power rocketry, Bowling, Sun bathing, Snowboarding, Digital arts
+Dislikes: American football, Auto racing, Amateur astronomy, Electronics, Bus spotting
 
 Books: 
-The Very Hungry Caterpillar - Eric Carle
+The Righteous Mind - Jonathan Haidt
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Charlie and the Chocolate Factory - Roald Dahl
 Swimming Anatomy - Ian McLeod
-The Amityville Horror - Jay Anson
-Harry Potter and the Philosopher's Stone - J.K Rowling
-The Life-Changing Magic of Tidying - Marie Kondo
+A Little History of Religion - Richard Holloway
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
 Three Poems - Hannah Sullivan
-The Shining - Stephen King

@@ -1,17 +1,17 @@
-Name: Ed Bugbee
+Name: Marti Soltys
 Gender: F
-Country: Korea
-Acceptable_country: Thailand, Mongolia, Japan, United Kingdom
-Age: 24
-Acceptable_age_range: 17-24
-Likes: Sun bathing, Model aircraft, Surfing, Air sports, Archery
-Dislikes: Do it yourself, Sun bathing, Airsoft, Microscopy, Kart racing
+Country: Malaysia
+Acceptable_country: United Kingdom, Russia, Korea
+Age: 19
+Acceptable_age_range: 21-24
+Likes: Association football, Dance, Knife throwing, Laser tag, Skimboarding, Animal fancy, High-power rocketry, Snowboarding, Do it yourself
+Dislikes: Skiing, Billiards, Crossword puzzles, Drama, Animal fancy, Airsoft
 
 Books: 
-Let It Snow - John Green
-The Rocky Road to Romance - Janet Evanovich
-Hop on Pop - Dr.Seuss
+The Elements - Nick Mann
+The Brain That Changes Itself - Norman Doidge
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Swimming Anatomy - Ian McLeod
 My Sister's Keeper - Jodi Picoult
-Seven Brief Lessons on Physics - Carlo Rovelli
-A Little History of Religion - Richard Holloway
-The Hobbit - J. R. R. Tolkien
+About a Boy - Nick Hornby
+Prisoners of Geography - Tim Marshall

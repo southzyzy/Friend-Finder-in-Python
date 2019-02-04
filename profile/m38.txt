@@ -1,17 +1,16 @@
-Name: Erick Garay
+Name: Major Devivo
 Gender: M
-Country: Korea
-Acceptable_country: Russia, Singapore, Belgium, Malaysia
-Age: 23
-Acceptable_age_range: 19-24
-Likes: Hiking, Animal fancy, Australian rules football, Hooping, Skiing, Birdwatching
-Dislikes: Baton twirling, Do it yourself, Skimboarding, Air sports
+Country: Philippines
+Acceptable_country: China, United States of America, Malaysia
+Age: 21
+Acceptable_age_range: 20-25
+Likes: Archery, Geocaching, Bowling, Drama, Skiing, Sun bathing, Birdwatching
+Dislikes: Archery, Slacklining, Dance, Billiards, Laser tag, Bowling, Baton twirling, Astronomy, Electronics
 
 Books: 
 Cracking the Coding Interview - Gayle Laakmann
-The Elements - Nick Mann
-Thinking Architecture - Peter Zumthor
-Beowulf - J. R. R. Tolkien
-The BFG - Roald Dahl
-The Shining - Stephen King
+Quantum Computing For Babies - Chris Ferrie
+IT - Stephen King
+Rock Climbing Anchors - Craig Luebben
+The Horror in the Museum - H. P. Lovecraft
 Science Encyclopedia - National Geographic

@@ -1,15 +1,16 @@
-Name: Neville Steenberg
-Gender: F
-Country: Korea
-Acceptable_country: Indonesia, Mongolia, Japan
-Age: 20
-Acceptable_age_range: 20-23
-Likes: Association football, Stone skipping, Aircraft spotting, Bowling, Snowboarding, Bird watching
-Dislikes: Handball, Auto racing, Association football, Air sports
+Name: Hildegard Garlitz
+Gender: M
+Country: Belgium
+Acceptable_country: Philippines, United States of America, Indonesia
+Age: 21
+Acceptable_age_range: 17-26
+Likes: Archery, Surfing, High-power rocketry, Air sports, Crossword puzzles, Marching band, Model aircraft, Embroidery, American football, Meditation, Drawing
+Dislikes: Slacklining, Association football, Hiking, Air sports, Skimboarding, Bowling, Snowboarding, Bird watching
 
 Books: 
-The Very Hungry Caterpillar - Eric Carle
-A Little History of Religion - Richard Holloway
-Charlie and the Chocolate Factory - Roald Dahl
-Prisoners of Geography - Tim Marshall
-About a Boy - Nick Hornby
+Hop on Pop - Dr.Seuss
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Fault in Our Stars - John Green
+The Life-Changing Magic of Tidying - Marie Kondo
+Three Poems - Hannah Sullivan
+Science Encyclopedia - National Geographic

@@ -1,17 +1,16 @@
-Name: Kelly Venegas
-Gender: M
-Country: United Kingdom
-Acceptable_country: Malaysia, Korea, United States of America
-Age: 25
+Name: Major Devivo
+Gender: F
+Country: Singapore
+Acceptable_country: Singapore, China, United Kingdom, Korea
+Age: 21
 Acceptable_age_range: 20-23
-Likes: Drama, Skydiving, Digital arts, Badminton, Bus spotting
-Dislikes: Kabaddi, Stone skipping, Airsoft, Marching band, Cryptography
+Likes: Surfing, Crossword puzzles, Drama, Hooping, Embroidery, Electronics, Drawing, Bus spotting, Astrology
+Dislikes: Laser tag, Australian rules football, Aircraft spotting, Skiing, American football, Digital arts
 
 Books: 
-Let It Snow - John Green
 The Rocky Road to Romance - Janet Evanovich
-The Fault in Our Stars - John Green
-A Little History of Religion - Richard Holloway
-The Very Hungry Caterpillar - Eric Carle
-The Fellowship of the Ring - J. R. R. Tolkien
+The Night Before Christmas - Holly Hobbie
+Computer Networking: A Top-Down Approach - James Kurose
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Award - Danielle Steel
 Science Encyclopedia - National Geographic

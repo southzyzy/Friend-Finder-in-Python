@@ -1,17 +1,15 @@
-Name: Sherril Clauss
+Name: Delena Mansur
 Gender: F
-Country: United States of America
-Acceptable_country: Indonesia, Philippines, China, Japan
-Age: 18
-Acceptable_age_range: 17-24
-Likes: Gardening, Fishkeeping, Badminton, Learning, Baton twirling, Astronomy
-Dislikes: Australian rules football, Microscopy, Drama, Model aircraft, Skiing, Handball, Marching band
+Country: United Kingdom
+Acceptable_country: Mongolia, Russia, Malaysia, United Kingdom
+Age: 26
+Acceptable_age_range: 20-25
+Likes: Amateur astronomy, Aircraft spotting, Dance, Fishkeeping, Kart racing, Skimboarding, American football, Snowboarding, Marching band
+Dislikes: Bird watching, Birdwatching, Horseback riding, Cryptography, Bowling
 
 Books: 
-The Very Hungry Caterpillar - Eric Carle
-Hop on Pop - Dr.Seuss
-The Life-Changing Magic of Tidying - Marie Kondo
-The Horror in the Museum - H. P. Lovecraft
-Rock Climbing Anchors - Craig Luebben
-Prisoners of Geography - Tim Marshall
-The Hobbit - J. R. R. Tolkien
+The Amityville Horror - Jay Anson
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Swimming Anatomy - Ian McLeod
+Animal Encyclopedia - National Geographic
+Prodigal Son - Danielle Steel

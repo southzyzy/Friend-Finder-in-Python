@@ -1,17 +1,16 @@
-Name: Dona Savedra
+Name: Neville Steenberg
 Gender: M
-Country: Philippines
-Acceptable_country: Philippines, Japan, United States of America, Mexico
+Country: Malaysia
+Acceptable_country: Mexico, Indonesia, Thailand
 Age: 21
-Acceptable_age_range: 17-23
-Likes: Do it yourself, Hooping, Bus spotting, Knife throwing
-Dislikes: Fishkeeping, Baton twirling
+Acceptable_age_range: 20-23
+Likes: Gardening, Australian rules football, Geocaching, Laser tag, Microscopy, Model aircraft, Horseback riding, Learning, Knife throwing, Baton twirling
+Dislikes: Slacklining, Cryptography, Association football, Model aircraft, Snowboarding, Astronomy, Drawing
 
 Books: 
-The Brain That Changes Itself - Norman Doidge
-My Sister's Keeper - Jodi Picoult
-The Fault in Our Stars - John Green
-Thinking Architecture - Peter Zumthor
-Off the Leash: The Secret Life of Dogs - Rupert Fawcett
-The Shining - Stephen King
-IT - Stephen King
+Cracking the Coding Interview - Gayle Laakmann
+Quantum Computing For Babies - Chris Ferrie
+The Righteous Mind - Jonathan Haidt
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Animal Encyclopedia - National Geographic
+Science Encyclopedia - National Geographic

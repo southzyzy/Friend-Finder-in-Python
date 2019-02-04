@@ -1,17 +1,16 @@
-Name: Antoine Loranger
+Name: Antonette Blood
 Gender: M
-Country: Malaysia
-Acceptable_country: Mongolia, Indonesia, Mexico, Belgium
-Age: 19
-Acceptable_age_range: 20-25
-Likes: Surfing, Australian rules football, Geocaching, Skydiving, Bowling, Do it yourself
-Dislikes: Dance, Model aircraft, Surfing, Amateur astronomy, Hiking
+Country: Belgium
+Acceptable_country: Belgium, Mongolia, Thailand, Singapore
+Age: 21
+Acceptable_age_range: 21-26
+Likes: Archery, Microscopy, Model aircraft, Amateur astronomy, Hooping, Skimboarding, Baton twirling, Astronomy
+Dislikes: Dance, Laser tag, Crossword puzzles, Badminton, Hooping, Learning, Skiing, Drawing
 
 Books: 
-The Elements - Nick Mann
-The Cat in the Hat - Roald Dahl
-Prodigal Son - Danielle Steel
+The Brain That Changes Itself - Norman Doidge
 Matilda - Roald Dahl
+Modern Architecture - Kenneth Frampton
 Swimming Anatomy - Ian McLeod
-My Sister's Keeper - Jodi Picoult
-The Very Hungry Caterpillar - Eric Carle
+Beowulf - J. R. R. Tolkien
+Rock Climbing Anchors - Craig Luebben

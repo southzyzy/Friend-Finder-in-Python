@@ -1,16 +1,17 @@
-Name: Anisha Hayton
-Gender: M
-Country: Belgium
-Acceptable_country: Singapore, Thailand, United States of America
-Age: 21
-Acceptable_age_range: 19-26
-Likes: Slacklining, Stone skipping, Embroidery, Skiing, High-power rocketry, Birdwatching
-Dislikes: Stone skipping, Gardening, Bowling
+Name: Shanel Guilbert
+Gender: F
+Country: United States of America
+Acceptable_country: Malaysia, Indonesia, Mexico
+Age: 26
+Acceptable_age_range: 21-26
+Likes: Stone skipping, Drama, Australian rules football, Aircraft spotting, Learning, Bowling, Bird watching
+Dislikes: Surfing, Slacklining, Microscopy, High-power rocketry, Crossword puzzles, Snowboarding, Sun bathing, Gardening, Electronics
 
 Books: 
-My Sister's Keeper - Jodi Picoult
-IT - Stephen King
-Harry Potter and the Philosopher's Stone - J.K Rowling
+The Elements of Computing Systems - Noam Nisan
+Prodigal Son - Danielle Steel
+The Fault in Our Stars - John Green
+Beowulf - J. R. R. Tolkien
+The Romance of the Three Kingdoms - Luo Guanzhong
 The Shining - Stephen King
-The Dead Zone - Stephen King
-Prisoners of Geography - Tim Marshall
+Three Poems - Hannah Sullivan

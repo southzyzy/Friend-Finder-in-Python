@@ -1,17 +1,17 @@
-Name: Ricardo Archambault
-Gender: F
-Country: Japan
-Acceptable_country: Belgium, Japan, Russia, Philippines
-Age: 23
-Acceptable_age_range: 20-26
-Likes: Snowboarding, Meditation, Model aircraft
-Dislikes: Sun bathing, Australian rules football, Amateur astronomy, Slacklining
+Name: Leonardo Badura
+Gender: M
+Country: Korea
+Acceptable_country: Philippines, Belgium, Korea, United States of America
+Age: 25
+Acceptable_age_range: 21-24
+Likes: Kabaddi, Microscopy, Baton twirling, Handball, High-power rocketry, Auto racing, Airsoft, Electronics
+Dislikes: Gardening, Air sports, Geocaching, Badminton, Model aircraft, Kart racing, Embroidery, Bird watching
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-Let It Snow - John Green
-Harry Potter and the Philosopher's Stone - J.K Rowling
-The Award - Danielle Steel
-Off the Leash: The Secret Life of Dogs - Rupert Fawcett
-The Shining - Stephen King
+A Little History of Religion - Richard Holloway
+The Rocky Road to Romance - Janet Evanovich
+Hop on Pop - Dr.Seuss
+My Sister's Keeper - Jodi Picoult
+The Amityville Horror - Jay Anson
+The Very Hungry Caterpillar - Eric Carle
 Three Poems - Hannah Sullivan

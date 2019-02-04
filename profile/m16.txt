@@ -1,17 +1,17 @@
-Name: Elina Botsford
+Name: Emery Castro
 Gender: M
-Country: Russia
-Acceptable_country: Mexico, Belgium, Singapore
-Age: 18
-Acceptable_age_range: 20-23
-Likes: Sun bathing, Billiards, Association football, Birdwatching
-Dislikes: American football, Australian rules football, Stone skipping, Laser tag
+Country: Philippines
+Acceptable_country: United Kingdom, Philippines, Indonesia, China
+Age: 25
+Acceptable_age_range: 18-23
+Likes: Archery, Surfing, Stone skipping, Microscopy, Skydiving, Learning, Baton twirling, Electronics, Astrology
+Dislikes: Surfing, Billiards, Drama, Badminton, Horseback riding, Baton twirling, Airsoft, Drawing, Meditation
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-The Cat in the Hat - Roald Dahl
-Fantastic Beasts and Where to Find Them - J.K Rowling
-Swimming Anatomy - Ian McLeod
-My Sister's Keeper - Jodi Picoult
-The Fault in Our Stars - John Green
+The Righteous Mind - Jonathan Haidt
+Beowulf - J. R. R. Tolkien
+The Rocky Road to Romance - Janet Evanovich
+The Two Towers - J. R. R. Tolkien
+IT - Stephen King
 A Little History of Religion - Richard Holloway
+The Hobbit - J. R. R. Tolkien

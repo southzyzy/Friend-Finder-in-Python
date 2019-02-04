@@ -1,17 +1,17 @@
-Name: Florene Vanbuskirk
+Name: Sang Galarza
 Gender: M
-Country: Thailand
-Acceptable_country: Philippines, United Kingdom, China
-Age: 25
-Acceptable_age_range: 17-24
-Likes: Slacklining, Cryptography, Crossword puzzles, Model aircraft, Badminton, High-power rocketry, Airsoft
-Dislikes: Bird watching, Amateur astronomy, Drawing, Snowboarding
+Country: United Kingdom
+Acceptable_country: Russia, Philippines, Mongolia
+Age: 18
+Acceptable_age_range: 20-24
+Likes: Gardening, Air sports, Fishkeeping, Animal fancy, Auto racing, Model aircraft, Badminton, Bowling, Handball, Baton twirling, Airsoft, Marching band
+Dislikes: Gardening, Geocaching, Billiards, Microscopy, Skydiving, Skimboarding, Crossword puzzles, Embroidery, Bowling, Sun bathing
 
 Books: 
-The Elements - Nick Mann
-Charlie and the Chocolate Factory - Roald Dahl
-The Amityville Horror - Jay Anson
-Harry Potter and the Philosopher's Stone - J.K Rowling
+The Elements of Computing Systems - Noam Nisan
+The Rocky Road to Romance - Janet Evanovich
+Hop on Pop - Dr.Seuss
+Seven Brief Lessons on Physics - Carlo Rovelli
+Rock Climbing Anchors - Craig Luebben
+The Shining - Stephen King
 The Horror in the Museum - H. P. Lovecraft
-The Dead Zone - Stephen King
-The Fellowship of the Ring - J. R. R. Tolkien

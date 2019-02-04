@@ -1,17 +1,17 @@
-Name: Stacie Kearney
+Name: Kizzie Woelfel
 Gender: M
-Country: Philippines
-Acceptable_country: Russia, Mongolia, United States of America
-Age: 26
-Acceptable_age_range: 19-26
-Likes: Association football, Stone skipping, Kabaddi, Crossword puzzles, Kart racing, Embroidery
-Dislikes: Kart racing, Snowboarding, Billiards, Drawing, Skiing
+Country: Malaysia
+Acceptable_country: United States of America, Korea, Russia
+Age: 27
+Acceptable_age_range: 21-25
+Likes: Archery, Slacklining, Hiking, Stone skipping, Drama, Kart racing, Learning, Animal fancy, High-power rocketry, Meditation, Marching band, Bus spotting
+Dislikes: Air sports, Knife throwing, Microscopy, Aircraft spotting, Learning, Bowling, Baton twirling, Astrology
 
 Books: 
-The Cat in the Hat - Roald Dahl
-Fantastic Beasts and Where to Find Them - J.K Rowling
-Swimming Anatomy - Ian McLeod
+Animal Encyclopedia - National Geographic
+Let It Snow - John Green
+The Rocky Road to Romance - Janet Evanovich
+IT - Stephen King
 The Amityville Horror - Jay Anson
-Matilda - Roald Dahl
-The BFG - Roald Dahl
-Three Poems - Hannah Sullivan
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Fault in Our Stars - John Green

@@ -5,6 +5,7 @@ import pandas as pd
 import random
 import student_B as sb
 import function1 as f1
+import numpy as np
 
 # The path where the dating profiles are stored
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
@@ -70,6 +71,7 @@ if __name__ == "__main__":
     student_B_name = "Joel Jackson"
     student_B_info = sb.STUDENT_B(profiles_df, student_B_name).student_B_info
     print student_B_info["Books"].values
+
 
     # bk = G_BOOKS(aes, enc, sys.argv[1])
     # bk.search("The God who is there")

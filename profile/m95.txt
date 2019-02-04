@@ -1,17 +1,16 @@
-Name: Lucien Lynes
+Name: Fe Batt
 Gender: F
 Country: Japan
-Acceptable_country: United Kingdom, Thailand, Japan
-Age: 22
-Acceptable_age_range: 19-25
-Likes: Model aircraft, Australian rules football, Do it yourself, Birdwatching, Astrology
-Dislikes: Gardening, Digital arts, Skimboarding, Auto racing, Crossword puzzles
+Acceptable_country: United Kingdom, Russia, United States of America
+Age: 18
+Acceptable_age_range: 18-23
+Likes: Surfing, Gardening, Hiking, Billiards, Embroidery, Animal fancy, Sun bathing, Bird watching, Digital arts, Baton twirling
+Dislikes: High-power rocketry, Air sports, Marching band, Model aircraft, Sun bathing, Electronics, Auto racing, Bus spotting, Astrology
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-The Cat in the Hat - Roald Dahl
-Modern Architecture - Kenneth Frampton
+The Elements of Computing Systems - Noam Nisan
+The Righteous Mind - Jonathan Haidt
+My Sister's Keeper - Jodi Picoult
 Seven Brief Lessons on Physics - Carlo Rovelli
-The Fault in Our Stars - John Green
-Change of Heart - Jodi Picoult
-The Shining - Stephen King
+The Fellowship of the Ring - J. R. R. Tolkien
+Animal Encyclopedia - National Geographic

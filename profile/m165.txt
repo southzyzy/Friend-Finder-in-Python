@@ -1,17 +1,16 @@
-Name: Danilo Atterbury
-Gender: M
-Country: Belgium
-Acceptable_country: United States of America, Thailand, Belgium, United Kingdom
-Age: 25
-Acceptable_age_range: 21-26
-Likes: Slacklining, Badminton, Amateur astronomy, Air sports
-Dislikes: Sun bathing, Skydiving, Meditation, Marching band, Crossword puzzles
+Name: Major Mode
+Gender: F
+Country: Japan
+Acceptable_country: Malaysia, United States of America, United Kingdom
+Age: 22
+Acceptable_age_range: 17-25
+Likes: Archery, Surfing, Fishkeeping, Geocaching, Knife throwing, High-power rocketry, Birdwatching
+Dislikes: Association football, Air sports, Geocaching, Kabaddi, Badminton, Bowling, Slacklining
 
 Books: 
-Let It Snow - John Green
-The Rocky Road to Romance - Janet Evanovich
-About a Boy - Nick Hornby
-Thinking Architecture - Peter Zumthor
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-The Shining - Stephen King
-The Horror in the Museum - H. P. Lovecraft
+The Cat in the Hat - Roald Dahl
+Charlie and the Chocolate Factory - Roald Dahl
+Modern Architecture - Kenneth Frampton
+My Sister's Keeper - Jodi Picoult
+Three Poems - Hannah Sullivan
+Science Encyclopedia - National Geographic

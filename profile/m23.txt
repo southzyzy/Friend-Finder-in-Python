@@ -1,17 +1,17 @@
-Name: Jone Selvey
-Gender: F
-Country: Philippines
-Acceptable_country: Russia, Mongolia, Indonesia
-Age: 25
-Acceptable_age_range: 19-24
-Likes: Handball, Skimboarding, Airsoft, Laser tag, Crossword puzzles
-Dislikes: Archery, Model aircraft, Amateur astronomy, Digital arts, Baton twirling, Meditation
+Name: Earl Gettys
+Gender: M
+Country: Indonesia
+Acceptable_country: China, United Kingdom, Belgium
+Age: 23
+Acceptable_age_range: 19-25
+Likes: Hiking, Geocaching, Microscopy, Crossword puzzles, Kart racing, Hooping, High-power rocketry
+Dislikes: Association football, Air sports, Fishkeeping, Billiards, Aircraft spotting, Animal fancy, Snowboarding, Bus spotting
 
 Books: 
-Cracking the Coding Interview - Gayle Laakmann
-The Elements of Computing Systems - Noam Nisan
-Let It Snow - John Green
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-Thinking Architecture - Peter Zumthor
-A Little History of Religion - Richard Holloway
-The Horror in the Museum - H. P. Lovecraft
+Quantum Computing For Babies - Chris Ferrie
+Prodigal Son - Danielle Steel
+Modern Architecture - Kenneth Frampton
+IT - Stephen King
+The Amityville Horror - Jay Anson
+Rock Climbing Anchors - Craig Luebben
+Science Encyclopedia - National Geographic

@@ -1,16 +1,17 @@
-Name: Kristyn Schrimsher
-Gender: F
-Country: Japan
-Acceptable_country: Philippines, Mongolia, Malaysia
-Age: 27
-Acceptable_age_range: 21-24
-Likes: Surfing, Slacklining, Cryptography, Model aircraft, Amateur astronomy, Bird watching
-Dislikes: American football, Model aircraft, Do it yourself, Bowling
+Name: Kendrick Jankowski
+Gender: M
+Country: Belgium
+Acceptable_country: Korea, Mongolia, Indonesia, United States of America
+Age: 21
+Acceptable_age_range: 21-26
+Likes: Model aircraft, Australian rules football, Fishkeeping, Skydiving, Badminton, Skimboarding, High-power rocketry, Astronomy
+Dislikes: Archery, Surfing, Drama, Handball, Sun bathing, Meditation
 
 Books: 
-The Rocky Road to Romance - Janet Evanovich
-Swimming Anatomy - Ian McLeod
+The Brain That Changes Itself - Norman Doidge
+Hop on Pop - Dr.Seuss
 The Two Towers - J. R. R. Tolkien
-Thinking Architecture - Peter Zumthor
-The Shining - Stephen King
-Science Encyclopedia - National Geographic
+The Fault in Our Stars - John Green
+A Little History of Religion - Richard Holloway
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+Prisoners of Geography - Tim Marshall

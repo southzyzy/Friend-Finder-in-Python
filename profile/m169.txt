@@ -1,17 +1,17 @@
-Name: Josh Bowes
-Gender: M
-Country: Mexico
-Acceptable_country: Indonesia, Singapore, United Kingdom, Mexico
-Age: 27
-Acceptable_age_range: 19-24
-Likes: Snowboarding, Billiards, Hooping, Aircraft spotting
-Dislikes: Skydiving, Australian rules football, Aircraft spotting, Airsoft, Bowling
+Name: Billie Gillespie
+Gender: F
+Country: Korea
+Acceptable_country: Belgium, Indonesia, China
+Age: 25
+Acceptable_age_range: 19-23
+Likes: Slacklining, Stone skipping, Kabaddi, Microscopy, Badminton, Hooping, Embroidery, Snowboarding, Gardening
+Dislikes: Archery, Surfing, Association football, Cryptography, Air sports, Geocaching, Kabaddi, Drama, Gardening
 
 Books: 
-Matilda - Roald Dahl
-Paper Towns - John Green
-My Sister's Keeper - Jodi Picoult
-The Fault in Our Stars - John Green
-A Little History of Religion - Richard Holloway
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-Prisoners of Geography - Tim Marshall
+The Elements - Nick Mann
+The Brain That Changes Itself - Norman Doidge
+Charlie and the Chocolate Factory - Roald Dahl
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Life-Changing Magic of Tidying - Marie Kondo
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Shining - Stephen King

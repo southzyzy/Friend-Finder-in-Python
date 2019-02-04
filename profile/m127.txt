@@ -1,17 +1,17 @@
-Name: Isidro Walts
+Name: Hung Molloy
 Gender: F
-Country: Korea
-Acceptable_country: Indonesia, Belgium, Korea
+Country: Russia
+Acceptable_country: Singapore, Belgium, Thailand
 Age: 23
-Acceptable_age_range: 20-24
-Likes: Stone skipping, Knife throwing, Laser tag, Australian rules football, Animal fancy, High-power rocketry
-Dislikes: Drama, American football, Archery, Horseback riding, Skydiving
+Acceptable_age_range: 17-25
+Likes: Archery, Australian rules football, Laser tag, Microscopy, Model aircraft, Skimboarding, Horseback riding, Bird watching, Baton twirling, Astrology
+Dislikes: Geocaching, Kart racing, Amateur astronomy, Skiing, American football, Electronics, Baton twirling, Birdwatching
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-Fantastic Beasts and Where to Find Them - J.K Rowling
+The Brain That Changes Itself - Norman Doidge
+The Rocky Road to Romance - Janet Evanovich
+Modern Architecture - Kenneth Frampton
 About a Boy - Nick Hornby
-Thinking Architecture - Peter Zumthor
-Beowulf - J. R. R. Tolkien
-The Shining - Stephen King
-The Hobbit - J. R. R. Tolkien
+The Award - Danielle Steel
+The Romance of the Three Kingdoms - Luo Guanzhong
+Three Poems - Hannah Sullivan

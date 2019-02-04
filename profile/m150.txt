@@ -1,17 +1,17 @@
-Name: Camellia Fenster
-Gender: M
-Country: Mongolia
-Acceptable_country: China, Mexico, Philippines, Thailand
+Name: Margart Stancil
+Gender: F
+Country: Korea
+Acceptable_country: United States of America, Malaysia, Mexico, Thailand
 Age: 22
-Acceptable_age_range: 17-23
-Likes: Archery, Baton twirling, Airsoft, Hiking
-Dislikes: High-power rocketry, Baton twirling, Surfing
+Acceptable_age_range: 17-24
+Likes: Association football, Stone skipping, Kabaddi, Skydiving, Amateur astronomy, Horseback riding, Sun bathing, Snowboarding, Baton twirling, Do it yourself
+Dislikes: Slacklining, Fishkeeping, Badminton, Aircraft spotting, Amateur astronomy, Learning, Skiing, Bird watching, Meditation
 
 Books: 
-Fantastic Beasts and Where to Find Them - J.K Rowling
-The Two Towers - J. R. R. Tolkien
-The Amityville Horror - Jay Anson
-The BFG - Roald Dahl
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-Animal Encyclopedia - National Geographic
-The Hobbit - J. R. R. Tolkien
+The Rocky Road to Romance - Janet Evanovich
+IT - Stephen King
+Thinking Architecture - Peter Zumthor
+The Life-Changing Magic of Tidying - Marie Kondo
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+Three Poems - Hannah Sullivan
+The Shining - Stephen King

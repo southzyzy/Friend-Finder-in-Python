@@ -1,17 +1,16 @@
-Name: Cruz Stgeorge
+Name: Morton Gard
 Gender: M
-Country: Malaysia
-Acceptable_country: Russia, Thailand, Belgium
-Age: 18
-Acceptable_age_range: 19-25
-Likes: Sun bathing, Badminton, Skimboarding, Embroidery
-Dislikes: Gardening, Dance, Kabaddi, Crossword puzzles, Drama, Australian rules football
+Country: Philippines
+Acceptable_country: Indonesia, Japan, Russia, Mexico
+Age: 25
+Acceptable_age_range: 18-25
+Likes: Billiards, Dance, Kabaddi, Microscopy, Surfing, Bowling, Handball, Do it yourself
+Dislikes: Surfing, Australian rules football, Microscopy, Skydiving, Crossword puzzles, Electronics
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-Fantastic Beasts and Where to Find Them - J.K Rowling
-Modern Architecture - Kenneth Frampton
-IT - Stephen King
-Thinking Architecture - Peter Zumthor
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Matilda - Roald Dahl
+Swimming Anatomy - Ian McLeod
 Rock Climbing Anchors - Craig Luebben
-The Fault in Our Stars - John Green
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Horror in the Museum - H. P. Lovecraft

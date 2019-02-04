@@ -1,16 +1,16 @@
-Name: Domingo Cannady
+Name: Madelaine Blackburn
 Gender: F
-Country: Mexico
-Acceptable_country: Malaysia, Korea, China, Mongolia
-Age: 21
-Acceptable_age_range: 21-26
-Likes: Stone skipping, Do it yourself, Cryptography, Animal fancy
-Dislikes: Surfing, Stone skipping, Australian rules football, Learning, Bird watching, Astronomy
+Country: Belgium
+Acceptable_country: United States of America, Belgium, United Kingdom
+Age: 19
+Acceptable_age_range: 21-23
+Likes: Surfing, Fishkeeping, Billiards, Crossword puzzles, Skydiving, Badminton, Skiing, American football, Bowling
+Dislikes: Association football, Hiking, Cryptography, Geocaching, Laser tag, Australian rules football, Badminton, Embroidery, Do it yourself
 
 Books: 
-The Righteous Mind - Jonathan Haidt
-The Rocky Road to Romance - Janet Evanovich
-Computer Networking: A Top-Down Approach - James Kurose
-IT - Stephen King
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-The Fellowship of the Ring - J. R. R. Tolkien
+Prodigal Son - Danielle Steel
+Beowulf - J. R. R. Tolkien
+Change of Heart - Jodi Picoult
+The Horror in the Museum - H. P. Lovecraft
+The Dead Zone - Stephen King
+Prisoners of Geography - Tim Marshall

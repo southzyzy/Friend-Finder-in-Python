@@ -1,17 +1,17 @@
-Name: Danette Morehead
-Gender: F
-Country: Russia
-Acceptable_country: Singapore, Mexico, Philippines, Belgium
-Age: 22
+Name: Dana Huges
+Gender: M
+Country: Thailand
+Acceptable_country: Indonesia, Singapore, Russia, Mexico
+Age: 18
 Acceptable_age_range: 17-26
-Likes: Cryptography, Model aircraft, Bird watching, Digital arts, Astronomy, Drawing, Bus spotting
-Dislikes: American football, High-power rocketry, Do it yourself, Association football, Astrology
+Likes: Slacklining, Cryptography, Bird watching, Knife throwing, Laser tag, Badminton, Hooping, Embroidery, Skiing, Association football, Snowboarding
+Dislikes: Australian rules football, Knife throwing, Microscopy, Skydiving, Kart racing, Skimboarding, Animal fancy, Meditation
 
 Books: 
-The Elements - Nick Mann
-Swimming Anatomy - Ian McLeod
-About a Boy - Nick Hornby
-The Shining - Stephen King
-The Fault in Our Stars - John Green
-The Dead Zone - Stephen King
-Three Poems - Hannah Sullivan
+The Brain That Changes Itself - Norman Doidge
+Charlie and the Chocolate Factory - Roald Dahl
+The Very Hungry Caterpillar - Eric Carle
+Hop on Pop - Dr.Seuss
+The Amityville Horror - Jay Anson
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Fellowship of the Ring - J. R. R. Tolkien

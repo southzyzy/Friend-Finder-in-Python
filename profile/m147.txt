@@ -1,17 +1,16 @@
-Name: Celena Leyva
-Gender: M
+Name: Fletcher Loya
+Gender: F
 Country: Philippines
-Acceptable_country: United Kingdom, Belgium, Mexico, Russia
-Age: 20
-Acceptable_age_range: 19-26
-Likes: Kart racing, Skimboarding, Horseback riding, Marching band
-Dislikes: Fishkeeping, Archery, Marching band, Model aircraft
+Acceptable_country: China, Philippines, Mongolia, Russia
+Age: 26
+Acceptable_age_range: 20-23
+Likes: Model aircraft, Billiards, Skydiving, Kart racing, Embroidery, Knife throwing, Handball, Baton twirling, Birdwatching
+Dislikes: Archery, Surfing, Cryptography, Geocaching, Stone skipping, Hooping, Embroidery, Digital arts, Drawing
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-Charlie and the Chocolate Factory - Roald Dahl
-The Rocky Road to Romance - Janet Evanovich
-Paper Towns - John Green
-The Romance of the Three Kingdoms - Luo Guanzhong
-The Dead Zone - Stephen King
+Fantastic Beasts and Where to Find Them - J.K Rowling
+The Night Before Christmas - Holly Hobbie
+My Sister's Keeper - Jodi Picoult
+About a Boy - Nick Hornby
+Thinking Architecture - Peter Zumthor
+Three Poems - Hannah Sullivan

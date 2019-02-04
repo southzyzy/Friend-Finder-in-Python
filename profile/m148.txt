@@ -1,16 +1,15 @@
-Name: Usha Kocher
+Name: Terrence Hansen
 Gender: F
-Country: Japan
-Acceptable_country: Thailand, Belgium, Japan, United Kingdom
-Age: 25
-Acceptable_age_range: 20-24
-Likes: Fishkeeping, Dance, Drawing, Microscopy
-Dislikes: Fishkeeping, Aircraft spotting, Embroidery
+Country: Mongolia
+Acceptable_country: China, Belgium, United Kingdom
+Age: 27
+Acceptable_age_range: 20-25
+Likes: Geocaching, Skydiving, Hooping, Electronics, Baton twirling, Horseback riding
+Dislikes: Surfing, Dance, Skimboarding, Hooping, Astrology, American football, Meditation, Airsoft, Electronics, Birdwatching, Horseback riding
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-Modern Architecture - Kenneth Frampton
-My Sister's Keeper - Jodi Picoult
-Computer Networking: A Top-Down Approach - James Kurose
-IT - Stephen King
-The Hobbit - J. R. R. Tolkien
+The Horror in the Museum - H. P. Lovecraft
+The Shining - Stephen King
+The Night Before Christmas - Holly Hobbie
+The Dead Zone - Stephen King
+Swimming Anatomy - Ian McLeod

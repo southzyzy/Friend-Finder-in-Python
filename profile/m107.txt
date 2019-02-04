@@ -1,17 +1,17 @@
-Name: Dan Pettus
+Name: Mozell Dresel
 Gender: F
-Country: United Kingdom
-Acceptable_country: Japan, Philippines, Malaysia
-Age: 24
-Acceptable_age_range: 17-26
-Likes: Archery, Hiking, Kabaddi, Laser tag, Skydiving, Kart racing
-Dislikes: Fishkeeping, Microscopy, Drama, Model aircraft, Do it yourself, Dance
+Country: Japan
+Acceptable_country: Thailand, Malaysia, United States of America
+Age: 20
+Acceptable_age_range: 17-24
+Likes: Archery, Air sports, Microscopy, Model aircraft, Amateur astronomy, Hooping, Learning, Auto racing
+Dislikes: Aircraft spotting, Dance, Australian rules football, Laser tag, Microscopy, Badminton, Model aircraft, Kart racing, Hooping, American football
 
 Books: 
+The Elements of Computing Systems - Noam Nisan
+The Brain That Changes Itself - Norman Doidge
+The Righteous Mind - Jonathan Haidt
 Harry Potter and the Prisoner of Azkaban - J.K Rowling
-The Night Before Christmas - Holly Hobbie
-The Amityville Horror - Jay Anson
+Swimming Anatomy - Ian McLeod
+IT - Stephen King
 The Award - Danielle Steel
-The Shining - Stephen King
-Animal Encyclopedia - National Geographic
-The Hobbit - J. R. R. Tolkien

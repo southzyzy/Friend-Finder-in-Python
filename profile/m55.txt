@@ -1,17 +1,17 @@
-Name: Erick Garay
+Name: Amparo Guerro
 Gender: F
-Country: China
-Acceptable_country: Philippines, United Kingdom, Mexico
-Age: 22
-Acceptable_age_range: 20-26
-Likes: Archery, Laser tag, Drama, Model aircraft, Meditation, Auto racing
-Dislikes: Sun bathing, American football, Air sports, Australian rules football, Astrology
+Country: Indonesia
+Acceptable_country: China, Indonesia, Singapore
+Age: 27
+Acceptable_age_range: 18-24
+Likes: Archery, Do it yourself, Astronomy, Hiking, Air sports, Marching band, Drama, Knife throwing, High-power rocketry, Meditation, Airsoft, Drawing
+Dislikes: Gardening, Hiking, Cryptography, Air sports, Amateur astronomy, Hooping, Electronics, Auto racing, Astrology
 
 Books: 
-The Very Hungry Caterpillar - Eric Carle
-Swimming Anatomy - Ian McLeod
+The Elements of Computing Systems - Noam Nisan
 Seven Brief Lessons on Physics - Carlo Rovelli
-The Amityville Horror - Jay Anson
-Beowulf - J. R. R. Tolkien
-Rock Climbing Anchors - Craig Luebben
-The Award - Danielle Steel
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Change of Heart - Jodi Picoult
+The Horror in the Museum - H. P. Lovecraft
+The Shining - Stephen King

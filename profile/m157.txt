@@ -1,16 +1,17 @@
-Name: Josh Bowes
+Name: Gregorio Steven
 Gender: F
-Country: Japan
-Acceptable_country: China, Malaysia, Indonesia, Belgium
-Age: 26
-Acceptable_age_range: 17-24
-Likes: Cryptography, Model aircraft, Horseback riding, Knife throwing, Meditation, Astronomy
-Dislikes: Dance, Fishkeeping, Billiards, Association football
+Country: United States of America
+Acceptable_country: Thailand, Belgium, Japan, Mexico
+Age: 18
+Acceptable_age_range: 18-23
+Likes: Air sports, Geocaching, Crossword puzzles, Drama, Aircraft spotting, Knife throwing, Snowboarding, Do it yourself, Birdwatching
+Dislikes: Cryptography, Baton twirling, Australian rules football, Amateur astronomy, Auto racing, Meditation
 
 Books: 
-Let It Snow - John Green
-Hop on Pop - Dr.Seuss
-Computer Networking: A Top-Down Approach - James Kurose
-Rock Climbing Anchors - Craig Luebben
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-Change of Heart - Jodi Picoult
+Thinking Architecture - Peter Zumthor
+Quantum Computing For Babies - Chris Ferrie
+The Night Before Christmas - Holly Hobbie
+The Amityville Horror - Jay Anson
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Horror in the Museum - H. P. Lovecraft
+Prisoners of Geography - Tim Marshall

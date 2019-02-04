@@ -1,17 +1,16 @@
-Name: Millie Cupples
+Name: Elmo Hollabaugh
 Gender: M
-Country: Singapore
-Acceptable_country: United Kingdom, Mongolia, Mexico
-Age: 21
-Acceptable_age_range: 17-23
-Likes: Fishkeeping, Archery, Aircraft spotting, Skimboarding, Kabaddi
-Dislikes: Sun bathing, Laser tag, Marching band, Birdwatching
+Country: Indonesia
+Acceptable_country: Belgium, Mexico, United Kingdom, Japan
+Age: 19
+Acceptable_age_range: 20-23
+Likes: Archery, Surfing, Cryptography, Australian rules football, Billiards, Model aircraft, Skimboarding, Bus spotting, American football, Birdwatching
+Dislikes: Surfing, Gardening, Hiking, Aircraft spotting, Baton twirling, Do it yourself
 
 Books: 
-The Elements - Nick Mann
-The Cat in the Hat - Roald Dahl
-Beowulf - J. R. R. Tolkien
-Hop on Pop - Dr.Seuss
-A Little History of Religion - Richard Holloway
-Harry Potter and the Philosopher's Stone - J.K Rowling
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Cracking the Coding Interview - Gayle Laakmann
+The Night Before Christmas - Holly Hobbie
+Computer Networking: A Top-Down Approach - James Kurose
+The Romance of the Three Kingdoms - Luo Guanzhong
+Three Poems - Hannah Sullivan
+Prisoners of Geography - Tim Marshall

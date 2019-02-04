@@ -1,16 +1,16 @@
-Name: Jennifer Wixom
-Gender: M
-Country: United Kingdom
-Acceptable_country: Korea, Singapore, China, United States of America
-Age: 25
+Name: Earline Saine
+Gender: F
+Country: Japan
+Acceptable_country: Singapore, China, Mongolia, Russia
+Age: 27
 Acceptable_age_range: 17-24
-Likes: Gardening, Cryptography, Aircraft spotting, American football, Bird watching, Auto racing
-Dislikes: Slacklining, Hiking, Stone skipping, Model aircraft, Badminton, Bus spotting
+Likes: Surfing, Skydiving, Kart racing, Drama, Knife throwing, Aircraft spotting, Skimboarding, Bowling, Digital arts
+Dislikes: Fishkeeping, Kabaddi, Australian rules football, Kart racing, Amateur astronomy, Knife throwing, Snowboarding, Do it yourself
 
 Books: 
-The Righteous Mind - Jonathan Haidt
-Paper Towns - John Green
-My Sister's Keeper - Jodi Picoult
-IT - Stephen King
-Off the Leash: The Secret Life of Dogs - Rupert Fawcett
-About a Boy - Nick Hornby
+Cracking the Coding Interview - Gayle Laakmann
+The Brain That Changes Itself - Norman Doidge
+Fantastic Beasts and Where to Find Them - J.K Rowling
+The Night Before Christmas - Holly Hobbie
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Dead Zone - Stephen King

@@ -1,17 +1,17 @@
-Name: Marchelle Voorhees
+Name: Rosie Ferrigno
 Gender: M
-Country: China
-Acceptable_country: United States of America, China, Mongolia
-Age: 19
+Country: Thailand
+Acceptable_country: China, Philippines, Russia, Mongolia
+Age: 20
 Acceptable_age_range: 19-25
-Likes: American football, Australian rules football, Learning, Birdwatching
-Dislikes: Dance, High-power rocketry, Stone skipping, Association football
+Likes: Slacklining, Badminton, Australian rules football, Kart racing, Embroidery, Knife throwing, American football, Snowboarding, Marching band
+Dislikes: Surfing, Slacklining, Model aircraft, Badminton, Horseback riding, Embroidery, American football, Digital arts, Baton twirling
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-The Two Towers - J. R. R. Tolkien
 The Rocky Road to Romance - Janet Evanovich
-Paper Towns - John Green
-The Night Before Christmas - Holly Hobbie
-The Amityville Horror - Jay Anson
-Rock Climbing Anchors - Craig Luebben
+Seven Brief Lessons on Physics - Carlo Rovelli
+IT - Stephen King
+Matilda - Roald Dahl
+Science Encyclopedia - National Geographic
+The Fellowship of the Ring - J. R. R. Tolkien
+Prisoners of Geography - Tim Marshall

@@ -1,17 +1,17 @@
-Name: Ivy Amrhein
+Name: Cyndi Morgenstern
 Gender: M
-Country: China
-Acceptable_country: Japan, United States of America, Philippines
+Country: Japan
+Acceptable_country: Korea, United States of America, Mexico
 Age: 23
-Acceptable_age_range: 21-24
-Likes: Fishkeeping, Bird watching, Auto racing, Kabaddi, Air sports
-Dislikes: Air sports, Billiards, Amateur astronomy, Marching band, Hooping
+Acceptable_age_range: 20-23
+Likes: Hiking, Geocaching, Stone skipping, Skydiving, Horseback riding, American football, Snowboarding, Meditation, Hooping
+Dislikes: Kabaddi, Slacklining, Stone skipping, Billiards, Badminton, Skimboarding, Horseback riding, Snowboarding, Hooping
 
 Books: 
-The Rocky Road to Romance - Janet Evanovich
-Seven Brief Lessons on Physics - Carlo Rovelli
-The Fault in Our Stars - John Green
-Harry Potter and the Philosopher's Stone - J.K Rowling
-The Romance of the Three Kingdoms - Luo Guanzhong
-The Fellowship of the Ring - J. R. R. Tolkien
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Charlie and the Chocolate Factory - Roald Dahl
+A Little History of Religion - Richard Holloway
+Beowulf - J. R. R. Tolkien
+The Dead Zone - Stephen King
 Science Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

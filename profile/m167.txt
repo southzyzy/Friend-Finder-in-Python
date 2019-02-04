@@ -1,16 +1,17 @@
-Name: Belinda Davalos
+Name: Erin Buchmann
 Gender: M
-Country: Mongolia
-Acceptable_country: Russia, Philippines, Mongolia
-Age: 21
-Acceptable_age_range: 17-24
-Likes: Surfing, Slacklining, Kabaddi, Animal fancy, Gardening, Digital arts
-Dislikes: Digital arts, Stone skipping, Hooping, Bus spotting
+Country: Korea
+Acceptable_country: Malaysia, United Kingdom, Belgium, China
+Age: 22
+Acceptable_age_range: 21-23
+Likes: Archery, Air sports, Geocaching, Billiards, Fishkeeping, Model aircraft, Aircraft spotting, Handball, Bird watching, Auto racing, Astronomy, Marching band
+Dislikes: Archery, Knife throwing, Kabaddi, Model aircraft, Amateur astronomy, Skiing, Handball, Bus spotting, Astrology
 
 Books: 
-The Rocky Road to Romance - Janet Evanovich
 The Two Towers - J. R. R. Tolkien
+The Night Before Christmas - Holly Hobbie
 My Sister's Keeper - Jodi Picoult
-The Fellowship of the Ring - J. R. R. Tolkien
-The Dead Zone - Stephen King
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The BFG - Roald Dahl
+The Romance of the Three Kingdoms - Luo Guanzhong
 Science Encyclopedia - National Geographic

@@ -1,16 +1,16 @@
-Name: Nicolas Reames
+Name: Patrica Gilliard
 Gender: M
-Country: Japan
-Acceptable_country: Indonesia, Philippines, Belgium, Mexico
-Age: 24
-Acceptable_age_range: 18-25
-Likes: High-power rocketry, Kart racing, Skimboarding, Bus spotting
-Dislikes: Fishkeeping, Meditation, Laser tag, Microscopy
+Country: Indonesia
+Acceptable_country: Russia, Korea, United Kingdom, Mexico
+Age: 26
+Acceptable_age_range: 19-23
+Likes: Surfing, Air sports, Dance, American football, Do it yourself, Drama, Skydiving, Animal fancy, High-power rocketry, Astronomy
+Dislikes: Digital arts, Stone skipping, Kabaddi, Embroidery, Baton twirling, Electronics, Meditation
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-Prodigal Son - Danielle Steel
-Matilda - Roald Dahl
-Change of Heart - Jodi Picoult
-The BFG - Roald Dahl
-Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Brain That Changes Itself - Norman Doidge
+The Righteous Mind - Jonathan Haidt
+The Night Before Christmas - Holly Hobbie
+IT - Stephen King
+Harry Potter and the Philosopher's Stone - J.K Rowling
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss

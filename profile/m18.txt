@@ -1,16 +1,17 @@
-Name: Hershel Torrain
-Gender: F
-Country: United Kingdom
-Acceptable_country: Philippines, United States of America, Singapore, United Kingdom
-Age: 20
-Acceptable_age_range: 21-26
-Likes: Archery, Billiards, Skimboarding, Meditation, Airsoft, Drawing
-Dislikes: Association football, Laser tag, Badminton, Horseback riding, Digital arts, Birdwatching, Astrology
+Name: Nathaniel Kazee
+Gender: M
+Country: Malaysia
+Acceptable_country: China, Thailand, United States of America
+Age: 26
+Acceptable_age_range: 17-23
+Likes: Fishkeeping, Drama, Australian rules football, Kart racing, American football, Auto racing, Airsoft, Dance, Birdwatching
+Dislikes: Archery, Crossword puzzles, Skydiving, Kart racing, Embroidery, High-power rocketry, Bird watching, Astronomy
 
 Books: 
 Cracking the Coding Interview - Gayle Laakmann
-The Righteous Mind - Jonathan Haidt
-Charlie and the Chocolate Factory - Roald Dahl
-Hop on Pop - Dr.Seuss
-My Sister's Keeper - Jodi Picoult
-IT - Stephen King
+Prodigal Son - Danielle Steel
+The Rocky Road to Romance - Janet Evanovich
+The Two Towers - J. R. R. Tolkien
+Seven Brief Lessons on Physics - Carlo Rovelli
+Beowulf - J. R. R. Tolkien
+The Shining - Stephen King

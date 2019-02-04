@@ -1,17 +1,17 @@
-Name: Kelley Fenton
-Gender: F
-Country: Malaysia
-Acceptable_country: Mexico, Malaysia, Philippines
+Name: Alberto Fullam
+Gender: M
+Country: Philippines
+Acceptable_country: Mongolia, Japan, Singapore, Belgium
 Age: 20
-Acceptable_age_range: 18-23
-Likes: Australian rules football, Badminton, Skiing
-Dislikes: Drama, Astronomy, Laser tag, Hiking, Cryptography
+Acceptable_age_range: 17-24
+Likes: Do it yourself, Fishkeeping, Laser tag, Australian rules football, Aircraft spotting, Amateur astronomy, Embroidery, Snowboarding, Airsoft, Bus spotting
+Dislikes: Amateur astronomy, High-power rocketry, American football, Australian rules football, Skimboarding, Bowling, Sun bathing, Snowboarding, Baton twirling
 
 Books: 
 The Elements - Nick Mann
-Charlie and the Chocolate Factory - Roald Dahl
-Seven Brief Lessons on Physics - Carlo Rovelli
-IT - Stephen King
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-The Romance of the Three Kingdoms - Luo Guanzhong
+The Very Hungry Caterpillar - Eric Carle
+Swimming Anatomy - Ian McLeod
+The Award - Danielle Steel
 The Horror in the Museum - H. P. Lovecraft
+Paper Towns - John Green
+Science Encyclopedia - National Geographic

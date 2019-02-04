@@ -1,17 +1,17 @@
-Name: Shannon Harshaw
-Gender: M
-Country: Belgium
-Acceptable_country: Japan, Indonesia, Korea
-Age: 18
-Acceptable_age_range: 17-23
-Likes: Dance, Skydiving, Embroidery, Learning
-Dislikes: High-power rocketry, Archery, Badminton, Horseback riding, Microscopy
+Name: Steffanie Shoemaker
+Gender: F
+Country: Thailand
+Acceptable_country: Indonesia, Philippines, Malaysia
+Age: 20
+Acceptable_age_range: 18-24
+Likes: Cryptography, Hiking, Skydiving, Stone skipping, Model aircraft, Badminton, Amateur astronomy, Hooping, Bowling, Airsoft, Bus spotting
+Dislikes: Cryptography, Air sports, Dance, Stone skipping, Badminton, Amateur astronomy, Embroidery, Bowling, High-power rocketry, Bird watching, Drawing, Birdwatching
 
 Books: 
-The Very Hungry Caterpillar - Eric Carle
-Swimming Anatomy - Ian McLeod
-Seven Brief Lessons on Physics - Carlo Rovelli
-About a Boy - Nick Hornby
-Fantastic Beasts and Where to Find Them - J.K Rowling
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-The Dead Zone - Stephen King
+Cracking the Coding Interview - Gayle Laakmann
+The Elements - Nick Mann
+Let It Snow - John Green
+Thinking Architecture - Peter Zumthor
+Rock Climbing Anchors - Craig Luebben
+Change of Heart - Jodi Picoult
+The Shining - Stephen King

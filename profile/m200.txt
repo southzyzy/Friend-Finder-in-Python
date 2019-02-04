@@ -1,17 +1,15 @@
-Name: Charolette Mosqueda
+Name: Titus Bousquet
 Gender: F
-Country: United Kingdom
-Acceptable_country: Singapore, Malaysia, Russia
-Age: 26
-Acceptable_age_range: 18-23
-Likes: Archery, Dance, Microscopy, Drama, Australian rules football, Bowling
-Dislikes: Geocaching, Bird watching, Association football, Slacklining, Air sports
+Country: Russia
+Acceptable_country: Singapore, Japan, Malaysia
+Age: 27
+Acceptable_age_range: 19-23
+Likes: Association football, Hiking, Dance, Billiards, Model aircraft, Learning, Baton twirling, Birdwatching, Astrology
+Dislikes: Kabaddi, Billiards, Hooping, Snowboarding, Auto racing, Do it yourself
 
 Books: 
-Charlie and the Chocolate Factory - Roald Dahl
-Fantastic Beasts and Where to Find Them - J.K Rowling
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+Hop on Pop - Dr.Seuss
 The Night Before Christmas - Holly Hobbie
-My Sister's Keeper - Jodi Picoult
-Beowulf - J. R. R. Tolkien
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-The Romance of the Three Kingdoms - Luo Guanzhong
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Horror in the Museum - H. P. Lovecraft

@@ -1,17 +1,17 @@
-Name: Adalberto Evans
+Name: Debbra Hove
 Gender: F
-Country: Japan
-Acceptable_country: Singapore, Belgium, China
-Age: 19
-Acceptable_age_range: 18-26
-Likes: Sun bathing, Skimboarding, Amateur astronomy
-Dislikes: Hiking, Geocaching, Billiards, Knife throwing, Baton twirling, Drawing, Astrology
+Country: United States of America
+Acceptable_country: Philippines, United States of America, Indonesia, Singapore
+Age: 25
+Acceptable_age_range: 19-25
+Likes: Surfing, Slacklining, Astronomy, Kabaddi, Crossword puzzles, Do it yourself, Birdwatching
+Dislikes: Archery, Fishkeeping, Billiards, Kart racing, Skimboarding, Bowling
 
 Books: 
-The Cat in the Hat - Roald Dahl
-The Rocky Road to Romance - Janet Evanovich
-Swimming Anatomy - Ian McLeod
-Harry Potter and the Philosopher's Stone - J.K Rowling
+Cracking the Coding Interview - Gayle Laakmann
+Let It Snow - John Green
+Paper Towns - John Green
+A Little History of Religion - Richard Holloway
 The Romance of the Three Kingdoms - Luo Guanzhong
 The Shining - Stephen King
-Science Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

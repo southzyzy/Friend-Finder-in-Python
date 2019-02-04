@@ -1,17 +1,17 @@
-Name: Son Spanbauer
+Name: Trey Yamashita
 Gender: M
-Country: United States of America
-Acceptable_country: Philippines, Russia, Korea
-Age: 20
-Acceptable_age_range: 19-26
-Likes: Electronics, Astronomy, Association football, Embroidery, Astrology
-Dislikes: High-power rocketry, Skydiving, Stone skipping, Drama, Learning
+Country: Mexico
+Acceptable_country: Malaysia, United Kingdom, Mexico, United States of America
+Age: 25
+Acceptable_age_range: 17-23
+Likes: Archery, Do it yourself, Skydiving, Handball, Stone skipping, Drama, Model aircraft, Aircraft spotting, Horseback riding, High-power rocketry, Airsoft
+Dislikes: Archery, Badminton, Knife throwing, Airsoft, Drawing, Bus spotting
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-Cracking the Coding Interview - Gayle Laakmann
-Computer Networking: A Top-Down Approach - James Kurose
-The Fault in Our Stars - John Green
-Animal Encyclopedia - National Geographic
-Science Encyclopedia - National Geographic
+Quantum Computing For Babies - Chris Ferrie
+Charlie and the Chocolate Factory - Roald Dahl
+Swimming Anatomy - Ian McLeod
+My Sister's Keeper - Jodi Picoult
+Seven Brief Lessons on Physics - Carlo Rovelli
+A Little History of Religion - Richard Holloway
 The Hobbit - J. R. R. Tolkien

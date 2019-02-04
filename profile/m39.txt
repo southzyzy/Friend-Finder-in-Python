@@ -1,17 +1,17 @@
-Name: Kip Whittenberg
-Gender: F
-Country: Korea
-Acceptable_country: China, Russia, Korea, Mexico
-Age: 22
-Acceptable_age_range: 17-26
-Likes: Microscopy, Badminton, Learning, Snowboarding, Baton twirling, Bus spotting
-Dislikes: Air sports, Kabaddi, Microscopy, High-power rocketry, Handball, Drawing
+Name: Evan Yother
+Gender: M
+Country: Mexico
+Acceptable_country: Thailand, Mexico, United Kingdom
+Age: 21
+Acceptable_age_range: 20-25
+Likes: Badminton, Amateur astronomy, Horseback riding, Skiing, Handball, Skimboarding, Meditation, Airsoft, Marching band, Birdwatching
+Dislikes: Air sports, Geocaching, Kart racing, Horseback riding, Learning, Sun bathing, Meditation, Drawing
 
 Books: 
-The Rocky Road to Romance - Janet Evanovich
-Hop on Pop - Dr.Seuss
+The Cat in the Hat - Roald Dahl
+Prodigal Son - Danielle Steel
+Matilda - Roald Dahl
+My Sister's Keeper - Jodi Picoult
 About a Boy - Nick Hornby
-Prisoners of Geography - Tim Marshall
-The Romance of the Three Kingdoms - Luo Guanzhong
-The Fault in Our Stars - John Green
-Science Encyclopedia - National Geographic
+The Horror in the Museum - H. P. Lovecraft
+The Hobbit - J. R. R. Tolkien

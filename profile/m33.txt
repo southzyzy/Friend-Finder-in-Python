@@ -1,17 +1,17 @@
-Name: Judson Baughman
-Gender: F
-Country: Korea
-Acceptable_country: Mongolia, Philippines, Mexico, Indonesia
-Age: 18
-Acceptable_age_range: 20-26
-Likes: Crossword puzzles, Animal fancy, Sun bathing, Bird watching, Baton twirling, Drawing
-Dislikes: Drama, Kart racing, Laser tag, Badminton
+Name: Marlin Thrailkill
+Gender: M
+Country: Thailand
+Acceptable_country: United States of America, Malaysia, Korea
+Age: 27
+Acceptable_age_range: 18-23
+Likes: Archery, Association football, Geocaching, Handball, Skydiving, Kart racing, Skimboarding, Learning, Skiing, Sun bathing, Electronics
+Dislikes: Slacklining, Stone skipping, Billiards, Laser tag, Skydiving, Bowling
 
 Books: 
-Cracking the Coding Interview - Gayle Laakmann
 The Cat in the Hat - Roald Dahl
-Prodigal Son - Danielle Steel
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
 The Rocky Road to Romance - Janet Evanovich
-Seven Brief Lessons on Physics - Carlo Rovelli
-Harry Potter and the Philosopher's Stone - J.K Rowling
+About a Boy - Nick Hornby
+The Life-Changing Magic of Tidying - Marie Kondo
+The Horror in the Museum - H. P. Lovecraft
 The Hobbit - J. R. R. Tolkien

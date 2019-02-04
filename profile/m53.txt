@@ -1,16 +1,17 @@
-Name: Tyesha Dicus
+Name: Anisha Hayton
 Gender: M
-Country: Singapore
-Acceptable_country: Belgium, China, Philippines, Mongolia
-Age: 23
-Acceptable_age_range: 19-23
-Likes: Kabaddi, Microscopy, Skydiving, Bowling, High-power rocketry, Snowboarding, Bus spotting
-Dislikes: Hiking, Embroidery, Skiing, High-power rocketry, Bus spotting, Astrology
+Country: China
+Acceptable_country: United States of America, Malaysia, China
+Age: 19
+Acceptable_age_range: 20-23
+Likes: Archery, Fishkeeping, Laser tag, Microscopy, Learning, Astrology
+Dislikes: Association football, Birdwatching, Hooping, Sun bathing, Auto racing, Airsoft, Bus spotting
 
 Books: 
-Thinking Architecture - Peter Zumthor
-The Righteous Mind - Jonathan Haidt
-The Night Before Christmas - Holly Hobbie
-IT - Stephen King
-The Amityville Horror - Jay Anson
-Animal Encyclopedia - National Geographic
+Quantum Computing For Babies - Chris Ferrie
+The Cat in the Hat - Roald Dahl
+The Very Hungry Caterpillar - Eric Carle
+Rock Climbing Anchors - Craig Luebben
+The BFG - Roald Dahl
+The Shining - Stephen King
+The Horror in the Museum - H. P. Lovecraft

@@ -1,17 +1,17 @@
-Name: Mahalia Wolken
+Name: Dalia Ensley
 Gender: M
-Country: Japan
-Acceptable_country: Singapore, Japan, Indonesia
-Age: 23
-Acceptable_age_range: 17-26
-Likes: Geocaching, Bird watching, High-power rocketry, Learning, Archery
-Dislikes: Dance, Laser tag, Stone skipping, Association football
+Country: China
+Acceptable_country: Indonesia, Mexico, United Kingdom, Thailand
+Age: 22
+Acceptable_age_range: 21-24
+Likes: Astronomy, Slacklining, Do it yourself, Bowling, American football, Kart racing, Skimboarding, Learning, Animal fancy, Sun bathing, Digital arts, Airsoft, Marching band
+Dislikes: Cryptography, Fishkeeping, Microscopy, Australian rules football, Badminton, Embroidery, Skiing, Marching band
 
 Books: 
-Let It Snow - John Green
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-The Very Hungry Caterpillar - Eric Carle
-Seven Brief Lessons on Physics - Carlo Rovelli
+The Elements of Computing Systems - Noam Nisan
+The Brain That Changes Itself - Norman Doidge
+Beowulf - J. R. R. Tolkien
+Swimming Anatomy - Ian McLeod
 IT - Stephen King
-The Amityville Horror - Jay Anson
-Rock Climbing Anchors - Craig Luebben
+A Little History of Religion - Richard Holloway
+The Horror in the Museum - H. P. Lovecraft

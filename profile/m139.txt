@@ -1,17 +1,17 @@
-Name: Basilia Thrailkill
+Name: Steffanie Shoemaker
 Gender: M
-Country: Japan
-Acceptable_country: Singapore, Indonesia, Mexico, United States of America
-Age: 25
-Acceptable_age_range: 18-25
-Likes: Archery, Do it yourself, Skimboarding, Crossword puzzles, Badminton
-Dislikes: Association football, Laser tag, Skydiving, Learning, Knife throwing, Bus spotting
+Country: Mongolia
+Acceptable_country: Malaysia, Thailand, Singapore, Mexico
+Age: 24
+Acceptable_age_range: 21-23
+Likes: Archery, Association football, Cryptography, Air sports, Billiards, Laser tag, Crossword puzzles, Drama, Australian rules football, Learning, Handball, Electronics, Bus spotting
+Dislikes: Kart racing, Archery, Kabaddi, Laser tag, Do it yourself
 
 Books: 
-Cracking the Coding Interview - Gayle Laakmann
-The Righteous Mind - Jonathan Haidt
-The Night Before Christmas - Holly Hobbie
+The Brain That Changes Itself - Norman Doidge
 Quantum Computing For Babies - Chris Ferrie
-A Little History of Religion - Richard Holloway
-The Shining - Stephen King
-The Dead Zone - Stephen King
+Let It Snow - John Green
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Matilda - Roald Dahl
+Computer Networking: A Top-Down Approach - James Kurose
+Three Poems - Hannah Sullivan

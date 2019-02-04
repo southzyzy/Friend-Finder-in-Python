@@ -1,17 +1,17 @@
-Name: Freddie Carithers
+Name: Wilma Grear
 Gender: M
-Country: Mexico
-Acceptable_country: Korea, China, Indonesia, Belgium
-Age: 26
-Acceptable_age_range: 20-25
-Likes: Baton twirling, Billiards, Cryptography, Birdwatching
-Dislikes: Stone skipping, Model aircraft, Badminton, Skimboarding, Handball, Airsoft, Drawing
+Country: Japan
+Acceptable_country: Thailand, Mexico, United Kingdom, China
+Age: 22
+Acceptable_age_range: 21-25
+Likes: Slacklining, Stone skipping, Billiards, Microscopy, Amateur astronomy, Sun bathing, Snowboarding, Drawing
+Dislikes: Archery, Airsoft, Association football, Hiking, Stone skipping, Laser tag, Handball, Baton twirling, Do it yourself, Birdwatching
 
 Books: 
+Cracking the Coding Interview - Gayle Laakmann
 The Rocky Road to Romance - Janet Evanovich
-The Night Before Christmas - Holly Hobbie
-Seven Brief Lessons on Physics - Carlo Rovelli
-The Fault in Our Stars - John Green
-Thinking Architecture - Peter Zumthor
-The Horror in the Museum - H. P. Lovecraft
-The Dead Zone - Stephen King
+The Two Towers - J. R. R. Tolkien
+About a Boy - Nick Hornby
+The Amityville Horror - Jay Anson
+Fantastic Beasts and Where to Find Them - J.K Rowling
+The Hobbit - J. R. R. Tolkien

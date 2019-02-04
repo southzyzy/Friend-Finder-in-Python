@@ -1,17 +1,17 @@
-Name: Merlin Stolle
+Name: Jere Beachy
 Gender: F
-Country: Russia
-Acceptable_country: Mongolia, China, Japan
-Age: 27
-Acceptable_age_range: 20-26
-Likes: Cryptography, Air sports, Dance, Aircraft spotting, Learning, Auto racing, Airsoft
-Dislikes: Digital arts, Knife throwing, Bus spotting, Air sports
+Country: Singapore
+Acceptable_country: Indonesia, United States of America, Singapore
+Age: 18
+Acceptable_age_range: 17-25
+Likes: Archery, Surfing, Slacklining, Bowling, High-power rocketry, Hooping, Embroidery, Animal fancy, American football, Baton twirling, Astrology
+Dislikes: Hiking, Skydiving, Kabaddi, Australian rules football, Kart racing, Amateur astronomy, Horseback riding, Embroidery, Animal fancy, American football, Skimboarding
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-Matilda - Roald Dahl
-Paper Towns - John Green
-The Night Before Christmas - Holly Hobbie
-The Righteous Mind - Jonathan Haidt
-Computer Networking: A Top-Down Approach - James Kurose
-The Horror in the Museum - H. P. Lovecraft
+About a Boy - Nick Hornby
+Thinking Architecture - Peter Zumthor
+Beowulf - J. R. R. Tolkien
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Three Poems - Hannah Sullivan
+Animal Encyclopedia - National Geographic
+Prisoners of Geography - Tim Marshall

@@ -1,17 +1,17 @@
-Name: Iluminada Hegg
+Name: Silvana Summa
 Gender: M
-Country: Korea
-Acceptable_country: Korea, Thailand, Belgium, China
-Age: 25
-Acceptable_age_range: 17-25
-Likes: Hiking, Stone skipping, Amateur astronomy, Embroidery, Bird watching, Bus spotting
-Dislikes: High-power rocketry, American football, Auto racing, Snowboarding
+Country: Philippines
+Acceptable_country: Japan, China, Korea, Philippines
+Age: 20
+Acceptable_age_range: 20-25
+Likes: Association football, Dance, Billiards, Microscopy, Drama, Handball, Bird watching, Electronics, Airsoft
+Dislikes: Kabaddi, Australian rules football, Aircraft spotting, Knife throwing, Handball, Bird watching, Auto racing, Bus spotting, Animal fancy
 
 Books: 
 Charlie and the Chocolate Factory - Roald Dahl
-Prodigal Son - Danielle Steel
-Hop on Pop - Dr.Seuss
-The Award - Danielle Steel
+Fantastic Beasts and Where to Find Them - J.K Rowling
+About a Boy - Nick Hornby
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
 The Romance of the Three Kingdoms - Luo Guanzhong
-The Fellowship of the Ring - J. R. R. Tolkien
-Prisoners of Geography - Tim Marshall
+Three Poems - Hannah Sullivan
+Science Encyclopedia - National Geographic

@@ -1,17 +1,15 @@
-Name: Angelo Gist
+Name: Eun Hosack
 Gender: M
 Country: Mongolia
-Acceptable_country: Singapore, Japan, Korea
-Age: 25
-Acceptable_age_range: 21-23
-Likes: Slacklining, Bus spotting, Hiking, Cryptography
-Dislikes: Geocaching, Archery, Aircraft spotting, Slacklining, Cryptography
+Acceptable_country: Japan, United States of America, Korea, Mexico
+Age: 24
+Acceptable_age_range: 21-25
+Likes: Archery, Fishkeeping, Billiards, American football, Model aircraft, Horseback riding, Bowling, Handball, Bird watching, Drawing, Hooping
+Dislikes: Archery, Surfing, Dance, Crossword puzzles, Drama, Aircraft spotting, Hooping, Digital arts, Baton twirling
 
 Books: 
-The Elements - Nick Mann
-The Righteous Mind - Jonathan Haidt
-Charlie and the Chocolate Factory - Roald Dahl
-The Rocky Road to Romance - Janet Evanovich
-The Two Towers - J. R. R. Tolkien
-Seven Brief Lessons on Physics - Carlo Rovelli
+Matilda - Roald Dahl
 A Little History of Religion - Richard Holloway
+Cracking the Coding Interview - Gayle Laakmann
+Prisoners of Geography - Tim Marshall
+The Romance of the Three Kingdoms - Luo Guanzhong

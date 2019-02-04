@@ -1,16 +1,17 @@
-Name: Earlie Jefferis
-Gender: F
-Country: China
-Acceptable_country: Malaysia, Philippines, Indonesia
+Name: Yolanda Calderone
+Gender: M
+Country: Philippines
+Acceptable_country: Mongolia, Indonesia, Russia
 Age: 20
-Acceptable_age_range: 19-26
-Likes: Archery, Gardening, Stone skipping, Model aircraft, Skimboarding, Animal fancy, Do it yourself
-Dislikes: Bird watching, Digital arts, Astrology, Birdwatching, Snowboarding
+Acceptable_age_range: 18-24
+Likes: Cryptography, Air sports, Geocaching, Bus spotting, Knife throwing, High-power rocketry, Birdwatching
+Dislikes: Association football, Cryptography, Air sports, Learning, Animal fancy, Handball, Airsoft, Marching band, Bus spotting, Astrology
 
 Books: 
-The Elements - Nick Mann
-Matilda - Roald Dahl
-The Two Towers - J. R. R. Tolkien
 The Rocky Road to Romance - Janet Evanovich
-The Romance of the Three Kingdoms - Luo Guanzhong
-The Horror in the Museum - H. P. Lovecraft
+Swimming Anatomy - Ian McLeod
+IT - Stephen King
+Change of Heart - Jodi Picoult
+Three Poems - Hannah Sullivan
+About a Boy - Nick Hornby
+Paper Towns - John Green

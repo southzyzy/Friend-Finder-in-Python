@@ -1,17 +1,17 @@
-Name: Jenine Coltharp
+Name: Courtney Repp
 Gender: M
 Country: Singapore
-Acceptable_country: Korea, Malaysia, Thailand, Indonesia
-Age: 25
-Acceptable_age_range: 19-24
-Likes: Archery, Meditation, Surfing, Billiards
-Dislikes: Fishkeeping, Electronics, Surfing, Skimboarding
+Acceptable_country: United States of America, Mongolia, Korea
+Age: 26
+Acceptable_age_range: 18-24
+Likes: Surfing, Gardening, Air sports, Billiards, Skimboarding, Hooping, Learning, Snowboarding, Handball, Bird watching, Electronics, Astronomy, Bus spotting
+Dislikes: Kabaddi, Drama, Aircraft spotting, Horseback riding, Learning, Knife throwing, Airsoft, Hooping
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-The Two Towers - J. R. R. Tolkien
-IT - Stephen King
-Thinking Architecture - Peter Zumthor
-The Award - Danielle Steel
-Three Poems - Hannah Sullivan
-Animal Encyclopedia - National Geographic
+The Righteous Mind - Jonathan Haidt
+The Very Hungry Caterpillar - Eric Carle
+The Amityville Horror - Jay Anson
+The Rocky Road to Romance - Janet Evanovich
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Fellowship of the Ring - J. R. R. Tolkien
+Science Encyclopedia - National Geographic

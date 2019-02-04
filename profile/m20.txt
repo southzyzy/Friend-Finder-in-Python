@@ -1,17 +1,16 @@
-Name: Ariel Matheney
+Name: Gerald Eastman
 Gender: F
-Country: Mexico
-Acceptable_country: Russia, United States of America, Mexico, Japan
-Age: 25
-Acceptable_age_range: 18-25
-Likes: American football, Auto racing, Aircraft spotting, Skimboarding, Knife throwing
-Dislikes: Dance, Skydiving, Kart racing, Skimboarding, Animal fancy
+Country: China
+Acceptable_country: Korea, Belgium, Thailand, China
+Age: 20
+Acceptable_age_range: 17-26
+Likes: Stone skipping, Laser tag, Drama, Skydiving, Auto racing, Bus spotting
+Dislikes: Surfing, Cryptography, Crossword puzzles, Learning, Digital arts, Astronomy, Electronics
 
 Books: 
 The Righteous Mind - Jonathan Haidt
-Fantastic Beasts and Where to Find Them - J.K Rowling
-Modern Architecture - Kenneth Frampton
-Paper Towns - John Green
+Prodigal Son - Danielle Steel
+The Night Before Christmas - Holly Hobbie
 Thinking Architecture - Peter Zumthor
 Rock Climbing Anchors - Craig Luebben
-Hop on Pop - Dr.Seuss
+The Shining - Stephen King

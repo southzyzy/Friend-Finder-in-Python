@@ -1,17 +1,16 @@
-Name: Charmain Kirkpatrick
-Gender: F
-Country: United States of America
-Acceptable_country: Thailand, Japan, Mongolia
-Age: 22
-Acceptable_age_range: 20-26
-Likes: Australian rules football, Embroidery, Crossword puzzles, Microscopy, Skydiving
-Dislikes: Snowboarding, Aircraft spotting, Bus spotting, Skiing
+Name: Caridad Gisler
+Gender: M
+Country: Indonesia
+Acceptable_country: United Kingdom, Belgium, Indonesia
+Age: 18
+Acceptable_age_range: 20-23
+Likes: Archery, Cryptography, Stone skipping, Birdwatching, Kart racing, Horseback riding, Electronics, Drawing, Bus spotting
+Dislikes: Association football, Stone skipping, Drama, High-power rocketry, Slacklining, Meditation
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-Let It Snow - John Green
-Prodigal Son - Danielle Steel
-The Very Hungry Caterpillar - Eric Carle
-The Amityville Horror - Jay Anson
+My Sister's Keeper - Jodi Picoult
+Computer Networking: A Top-Down Approach - James Kurose
+Thinking Architecture - Peter Zumthor
+Harry Potter and the Philosopher's Stone - J.K Rowling
 The Life-Changing Magic of Tidying - Marie Kondo
 Off the Leash: The Secret Life of Dogs - Rupert Fawcett

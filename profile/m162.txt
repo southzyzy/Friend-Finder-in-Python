@@ -1,17 +1,17 @@
-Name: Emery Castro
-Gender: M
-Country: Singapore
-Acceptable_country: China, Korea, Mongolia
-Age: 18
-Acceptable_age_range: 21-23
-Likes: Hiking, Geocaching, Model aircraft, Hooping, Bowling, Marching band, Birdwatching
-Dislikes: Sun bathing, Digital arts, Billiards, Amateur astronomy, Hiking
+Name: Fletcher Loya
+Gender: F
+Country: Malaysia
+Acceptable_country: Philippines, United Kingdom, Indonesia, Malaysia
+Age: 19
+Acceptable_age_range: 17-23
+Likes: Archery, Cryptography, Kabaddi, Skydiving, Hooping, Handball, Auto racing, Bus spotting
+Dislikes: Hiking, Dance, Stone skipping, Microscopy, Knife throwing, Airsoft, Bus spotting
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
 Let It Snow - John Green
-Matilda - Roald Dahl
-Modern Architecture - Kenneth Frampton
-The Night Before Christmas - Holly Hobbie
-The Amityville Horror - Jay Anson
-The Award - Danielle Steel
+About a Boy - Nick Hornby
+The Life-Changing Magic of Tidying - Marie Kondo
+The BFG - Roald Dahl
+Change of Heart - Jodi Picoult
+The Shining - Stephen King
+The Dead Zone - Stephen King

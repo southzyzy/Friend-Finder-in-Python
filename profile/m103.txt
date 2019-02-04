@@ -1,17 +1,17 @@
-Name: Marti Soltys
+Name: Jesica Maheu
 Gender: M
-Country: Malaysia
-Acceptable_country: United States of America, United Kingdom, Russia, Indonesia
-Age: 25
-Acceptable_age_range: 21-26
-Likes: Cryptography, Billiards, Badminton, Skimboarding, Skiing, Baton twirling
-Dislikes: Baton twirling, Sun bathing, Auto racing, Learning, Bus spotting
+Country: Russia
+Acceptable_country: China, Thailand, United Kingdom
+Age: 21
+Acceptable_age_range: 18-25
+Likes: Slacklining, Model aircraft, Dance, Stone skipping, Drama, Geocaching, Kart racing, Amateur astronomy, Skiing, Sun bathing, Snowboarding, Baton twirling, Do it yourself
+Dislikes: Archery, Gardening, Hiking, Air sports, Stone skipping, Hooping, Embroidery, Bowling, Association football, Electronics
 
 Books: 
-The Elements - Nick Mann
 Let It Snow - John Green
-Swimming Anatomy - Ian McLeod
-The Fault in Our Stars - John Green
-A Little History of Religion - Richard Holloway
-The Romance of the Three Kingdoms - Luo Guanzhong
-The Fellowship of the Ring - J. R. R. Tolkien
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Charlie and the Chocolate Factory - Roald Dahl
+Modern Architecture - Kenneth Frampton
+About a Boy - Nick Hornby
+Thinking Architecture - Peter Zumthor
+Rock Climbing Anchors - Craig Luebben

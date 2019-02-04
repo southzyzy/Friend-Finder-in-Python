@@ -1,17 +1,16 @@
-Name: Fallon Dash
+Name: Marcelino Puente
 Gender: F
-Country: Belgium
-Acceptable_country: Singapore, Philippines, United States of America
-Age: 22
-Acceptable_age_range: 17-24
-Likes: Archery, Gardening, Skydiving, Aircraft spotting, Amateur astronomy, Sun bathing
-Dislikes: Skydiving, Electronics, Microscopy, Archery
+Country: Japan
+Acceptable_country: China, Belgium, Thailand, Mongolia
+Age: 20
+Acceptable_age_range: 19-25
+Likes: Airsoft, Cryptography, Billiards, Microscopy, Badminton, Skimboarding, Horseback riding, Skiing, High-power rocketry, Bowling, Do it yourself, Animal fancy
+Dislikes: Astronomy, Hiking, Model aircraft, Kart racing, Hooping, Sun bathing, Electronics, Airsoft, Bus spotting
 
 Books: 
-Cracking the Coding Interview - Gayle Laakmann
-Fantastic Beasts and Where to Find Them - J.K Rowling
-My Sister's Keeper - Jodi Picoult
-Computer Networking: A Top-Down Approach - James Kurose
-The Very Hungry Caterpillar - Eric Carle
-The Life-Changing Magic of Tidying - Marie Kondo
-The Award - Danielle Steel
+The Elements of Computing Systems - Noam Nisan
+The Righteous Mind - Jonathan Haidt
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Hop on Pop - Dr.Seuss
+Rock Climbing Anchors - Craig Luebben
+Science Encyclopedia - National Geographic

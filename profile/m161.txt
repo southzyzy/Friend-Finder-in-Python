@@ -1,15 +1,16 @@
-Name: Judy Murrieta
+Name: Flor Wellner
 Gender: M
-Country: Belgium
-Acceptable_country: Belgium, Philippines, United States of America, Malaysia
-Age: 27
-Acceptable_age_range: 19-25
-Likes: Archery, Association football, Dance, Animal fancy, Slacklining, Auto racing, Baton twirling
-Dislikes: Handball, Skydiving, Auto racing, Archery
+Country: China
+Acceptable_country: Belgium, United States of America, Thailand
+Age: 21
+Acceptable_age_range: 18-25
+Likes: Geocaching, Kabaddi, Marching band, Sun bathing, Aircraft spotting, Hooping, Knife throwing, Kart racing, Bird watching, Astronomy, Drawing
+Dislikes: Archery, Association football, Laser tag, Crossword puzzles, Model aircraft, Learning, Snowboarding, Astronomy, Drawing
 
 Books: 
-Seven Brief Lessons on Physics - Carlo Rovelli
-Hop on Pop - Dr.Seuss
 The Cat in the Hat - Roald Dahl
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
+The Rocky Road to Romance - Janet Evanovich
+Hop on Pop - Dr.Seuss
 IT - Stephen King
+The Life-Changing Magic of Tidying - Marie Kondo
+The Romance of the Three Kingdoms - Luo Guanzhong

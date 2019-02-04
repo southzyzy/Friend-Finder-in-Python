@@ -1,16 +1,16 @@
-Name: Omer Butkovich
-Gender: M
-Country: Indonesia
-Acceptable_country: Mongolia, Korea, Indonesia
-Age: 25
-Acceptable_age_range: 20-25
-Likes: Archery, Meditation, Airsoft, Association football, Hiking
-Dislikes: Archery, Auto racing, Surfing, Birdwatching
+Name: Leonardo Badura
+Gender: F
+Country: United States of America
+Acceptable_country: Korea, Indonesia, Thailand, Belgium
+Age: 22
+Acceptable_age_range: 17-26
+Likes: Association football, Hiking, Laser tag, Stone skipping, High-power rocketry, Badminton, Australian rules football, Kart racing, Skimboarding, American football, Marching band
+Dislikes: Geocaching, Fishkeeping, Billiards, Hiking, Learning
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-Computer Networking: A Top-Down Approach - James Kurose
-The Amityville Horror - Jay Anson
-The Shining - Stephen King
-Prisoners of Geography - Tim Marshall
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Harry Potter and the Philosopher's Stone - J.K Rowling
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Horror in the Museum - H. P. Lovecraft
+The Dead Zone - Stephen King
+Science Encyclopedia - National Geographic

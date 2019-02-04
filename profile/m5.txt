@@ -1,17 +1,17 @@
-Name: Mahalia Wolken
+Name: Marlin Thrailkill
 Gender: M
-Country: Malaysia
-Acceptable_country: Mexico, Mongolia, Indonesia
-Age: 19
-Acceptable_age_range: 18-25
-Likes: Surfing, Slacklining, Geocaching, Meditation, Do it yourself, Auto racing
-Dislikes: American football, High-power rocketry, Auto racing, Association football, Skydiving
+Country: Philippines
+Acceptable_country: Philippines, United Kingdom, Malaysia, Indonesia
+Age: 24
+Acceptable_age_range: 18-24
+Likes: Geocaching, Billiards, Drama, Embroidery, Skiing, Sun bathing, Bird watching, Electronics, Airsoft
+Dislikes: Archery, Billiards, Microscopy, Aircraft spotting, Hooping, Skiing, Snowboarding, Digital arts
 
 Books: 
 The Cat in the Hat - Roald Dahl
 Charlie and the Chocolate Factory - Roald Dahl
-The Two Towers - J. R. R. Tolkien
-My Sister's Keeper - Jodi Picoult
-Harry Potter and the Philosopher's Stone - J.K Rowling
+Paper Towns - John Green
+Seven Brief Lessons on Physics - Carlo Rovelli
+A Little History of Religion - Richard Holloway
+The Romance of the Three Kingdoms - Luo Guanzhong
 The Fellowship of the Ring - J. R. R. Tolkien
-The Shining - Stephen King

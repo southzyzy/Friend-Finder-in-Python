@@ -1,16 +1,17 @@
-Name: Anisha Hayton
+Name: Lorene Ritz
 Gender: M
-Country: Mexico
-Acceptable_country: Korea, United States of America, Philippines, Indonesia
-Age: 18
-Acceptable_age_range: 17-24
-Likes: Snowboarding, Digital arts, Electronics
-Dislikes: Baton twirling, Badminton, Drawing, Cryptography
+Country: Thailand
+Acceptable_country: Singapore, Thailand, Mongolia, Indonesia
+Age: 26
+Acceptable_age_range: 18-23
+Likes: Archery, Hiking, Australian rules football, Fishkeeping, Stone skipping, Skydiving, Amateur astronomy, Bowling, Birdwatching
+Dislikes: Cryptography, Stone skipping, Model aircraft, Skimboarding, Hooping, Knife throwing, Sun bathing, Bird watching
 
 Books: 
-The Elements - Nick Mann
-The Night Before Christmas - Holly Hobbie
-Computer Networking: A Top-Down Approach - James Kurose
-The Award - Danielle Steel
-Three Poems - Hannah Sullivan
-Animal Encyclopedia - National Geographic
+Modern Architecture - Kenneth Frampton
+Swimming Anatomy - Ian McLeod
+Thinking Architecture - Peter Zumthor
+Harry Potter and the Philosopher's Stone - J.K Rowling
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+The Horror in the Museum - H. P. Lovecraft
+Prisoners of Geography - Tim Marshall

@@ -1,17 +1,17 @@
-Name: Adolfo Lockley
+Name: Lenny Stringfellow
 Gender: M
-Country: Singapore
-Acceptable_country: United Kingdom, Mongolia, Indonesia, Malaysia
-Age: 21
-Acceptable_age_range: 20-23
-Likes: Crossword puzzles, Marching band, Drama, Kart racing, Amateur astronomy, Hooping, Drawing
-Dislikes: Snowboarding, Gardening, Archery
+Country: Korea
+Acceptable_country: Russia, Belgium, Philippines, Malaysia
+Age: 23
+Acceptable_age_range: 17-25
+Likes: Archery, Surfing, Association football, Microscopy, Model aircraft, Knife throwing, Auto racing, Electronics, Meditation
+Dislikes: Slacklining, Air sports, Crossword puzzles, Handball, Digital arts, Astronomy
 
 Books: 
-The Rocky Road to Romance - Janet Evanovich
-Paper Towns - John Green
-The Night Before Christmas - Holly Hobbie
-My Sister's Keeper - Jodi Picoult
-Computer Networking: A Top-Down Approach - James Kurose
-The Amityville Horror - Jay Anson
-Matilda - Roald Dahl
+Quantum Computing For Babies - Chris Ferrie
+The Cat in the Hat - Roald Dahl
+Prodigal Son - Danielle Steel
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Beowulf - J. R. R. Tolkien
+The Award - Danielle Steel
+The Hobbit - J. R. R. Tolkien

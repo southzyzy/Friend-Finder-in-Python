@@ -1,17 +1,15 @@
-Name: Sal Wortham
+Name: Lianne Mirarchi
 Gender: F
-Country: Belgium
-Acceptable_country: Japan, Singapore, Malaysia, Belgium
-Age: 26
-Acceptable_age_range: 19-26
-Likes: Dance, Australian rules football, Amateur astronomy, Hooping
-Dislikes: High-power rocketry, Archery, Gardening, Australian rules football
+Country: Japan
+Acceptable_country: Russia, Belgium, Philippines, Mongolia
+Age: 19
+Acceptable_age_range: 20-25
+Likes: Embroidery, Geocaching, Crossword puzzles, Skydiving, Kart racing, Microscopy, Learning, Animal fancy, Auto racing, Drawing, Horseback riding
+Dislikes: Association football, Geocaching, Model aircraft, Skimboarding, Horseback riding, Embroidery, American football, Gardening, Do it yourself, Marching band
 
 Books: 
-Let It Snow - John Green
-Fantastic Beasts and Where to Find Them - J.K Rowling
-The Two Towers - J. R. R. Tolkien
-IT - Stephen King
 The Rocky Road to Romance - Janet Evanovich
-The Horror in the Museum - H. P. Lovecraft
-Science Encyclopedia - National Geographic
+The Brain That Changes Itself - Norman Doidge
+Three Poems - Hannah Sullivan
+The Two Towers - J. R. R. Tolkien
+Prisoners of Geography - Tim Marshall

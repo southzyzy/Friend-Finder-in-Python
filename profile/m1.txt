@@ -1,17 +1,17 @@
-Name: Charolette Mosqueda
-Gender: M
-Country: Indonesia
-Acceptable_country: Korea, Malaysia, Russia
-Age: 23
-Acceptable_age_range: 18-25
-Likes: Geocaching, Model aircraft, Skimboarding, Animal fancy, High-power rocketry, Snowboarding, Digital arts
-Dislikes: Skydiving, Billiards, Hooping, Embroidery, Skiing
+Name: Adam Vensel
+Gender: F
+Country: United States of America
+Acceptable_country: Singapore, United Kingdom, Mexico
+Age: 26
+Acceptable_age_range: 19-24
+Likes: Aircraft spotting, Fishkeeping, Stone skipping, Crossword puzzles, Drama, Badminton, Learning, Electronics, Astrology
+Dislikes: Surfing, High-power rocketry, Fishkeeping, Kart racing, Australian rules football, Badminton, Sun bathing, Snowboarding, Electronics, Marching band
 
 Books: 
-The Brain That Changes Itself - Norman Doidge
-The Righteous Mind - Jonathan Haidt
-The Very Hungry Caterpillar - Eric Carle
-IT - Stephen King
-Fantastic Beasts and Where to Find Them - J.K Rowling
-The BFG - Roald Dahl
-Three Poems - Hannah Sullivan
+Hop on Pop - Dr.Seuss
+Seven Brief Lessons on Physics - Carlo Rovelli
+About a Boy - Nick Hornby
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Fault in Our Stars - John Green
+Prisoners of Geography - Tim Marshall

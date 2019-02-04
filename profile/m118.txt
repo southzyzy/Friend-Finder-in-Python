@@ -1,15 +1,17 @@
-Name: Allie Tolleson
+Name: Stephen Mcraney
 Gender: M
-Country: United Kingdom
-Acceptable_country: Malaysia, Belgium, United States of America, Thailand
-Age: 25
-Acceptable_age_range: 18-23
-Likes: Geocaching, Skydiving, Astronomy, Embroidery, Knife throwing
-Dislikes: Fishkeeping, Sun bathing, Laser tag, Learning
+Country: Indonesia
+Acceptable_country: Belgium, Philippines, Malaysia
+Age: 20
+Acceptable_age_range: 18-25
+Likes: Archery, Cryptography, Fishkeeping, Billiards, Sun bathing, Skydiving, Knife throwing, American football, Auto racing
+Dislikes: Cryptography, Stone skipping, Laser tag, Australian rules football, Learning, High-power rocketry
 
 Books: 
-The Brain That Changes Itself - Norman Doidge
-Paper Towns - John Green
-The Night Before Christmas - Holly Hobbie
-The Dead Zone - Stephen King
-Harry Potter and the Philosopher's Stone - J.K Rowling
+Quantum Computing For Babies - Chris Ferrie
+Prodigal Son - Danielle Steel
+Matilda - Roald Dahl
+IT - Stephen King
+The BFG - Roald Dahl
+The Horror in the Museum - H. P. Lovecraft
+Science Encyclopedia - National Geographic

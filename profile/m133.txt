@@ -1,17 +1,17 @@
-Name: Charolette Mosqueda
-Gender: F
-Country: China
-Acceptable_country: Thailand, Mongolia, China
-Age: 18
-Acceptable_age_range: 21-23
-Likes: Sun bathing, Fishkeeping, Baton twirling, Crossword puzzles
-Dislikes: Dance, Embroidery, Skiing, Snowboarding, Electronics, Astronomy
+Name: Ryan Fitzmaurice
+Gender: M
+Country: Korea
+Acceptable_country: United Kingdom, Mexico, Indonesia
+Age: 21
+Acceptable_age_range: 21-26
+Likes: Archery, Kabaddi, Crossword puzzles, Aircraft spotting, Amateur astronomy, Learning, Skiing, Bird watching, Auto racing, Astrology
+Dislikes: Australian rules football, Surfing, Gardening, Skiing
 
 Books: 
 The Elements - Nick Mann
-Cracking the Coding Interview - Gayle Laakmann
-About a Boy - Nick Hornby
-A Little History of Religion - Richard Holloway
+The Brain That Changes Itself - Norman Doidge
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Swimming Anatomy - Ian McLeod
+My Sister's Keeper - Jodi Picoult
 One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-The Horror in the Museum - H. P. Lovecraft
-The Hobbit - J. R. R. Tolkien
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett

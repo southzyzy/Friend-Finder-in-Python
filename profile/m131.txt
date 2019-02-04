@@ -1,17 +1,17 @@
-Name: Nicolas Reames
-Gender: M
+Name: Kendal Pannell
+Gender: F
 Country: Thailand
-Acceptable_country: United States of America, Malaysia, United Kingdom
-Age: 19
-Acceptable_age_range: 17-25
-Likes: Laser tag, Stone skipping, Kabaddi, Billiards
-Dislikes: Handball, Archery, Badminton, Billiards, Drawing
+Acceptable_country: Korea, Japan, United Kingdom, United States of America
+Age: 25
+Acceptable_age_range: 21-25
+Likes: Bird watching, Australian rules football, Geocaching, Laser tag, Crossword puzzles, Fishkeeping, Skimboarding, Hooping, Bowling, Handball, Amateur astronomy, Birdwatching
+Dislikes: Snowboarding, Billiards, Hooping, Microscopy, Australian rules football
 
 Books: 
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-Prodigal Son - Danielle Steel
-Fantastic Beasts and Where to Find Them - J.K Rowling
-The Two Towers - J. R. R. Tolkien
+Quantum Computing For Babies - Chris Ferrie
+My Sister's Keeper - Jodi Picoult
+The Righteous Mind - Jonathan Haidt
 Computer Networking: A Top-Down Approach - James Kurose
-A Little History of Religion - Richard Holloway
-Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+Rock Climbing Anchors - Craig Luebben
+Animal Encyclopedia - National Geographic
+Prisoners of Geography - Tim Marshall

@@ -1,16 +1,16 @@
-Name: Diann Vangieson
+Name: Altha Viger
 Gender: F
-Country: Thailand
-Acceptable_country: Philippines, China, Malaysia, United Kingdom
-Age: 23
-Acceptable_age_range: 18-24
-Likes: Air sports, Stone skipping, Microscopy, Model aircraft, Bowling, Electronics, Baton twirling
-Dislikes: Archery, Astronomy, Crossword puzzles, Learning
+Country: Russia
+Acceptable_country: Belgium, United Kingdom, Malaysia, Mexico
+Age: 20
+Acceptable_age_range: 18-23
+Likes: Dance, Kabaddi, Geocaching, Embroidery, Electronics, Do it yourself, Bus spotting, Astrology
+Dislikes: Hiking, Dance, Billiards, Crossword puzzles, Horseback riding, Animal fancy, Snowboarding, Baton twirling, Astrology
 
 Books: 
-Cracking the Coding Interview - Gayle Laakmann
-The Elements - Nick Mann
-Let It Snow - John Green
-The Brain That Changes Itself - Norman Doidge
-Seven Brief Lessons on Physics - Carlo Rovelli
-IT - Stephen King
+The Very Hungry Caterpillar - Eric Carle
+Thinking Architecture - Peter Zumthor
+The Rocky Road to Romance - Janet Evanovich
+Harry Potter and the Philosopher's Stone - J.K Rowling
+Animal Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

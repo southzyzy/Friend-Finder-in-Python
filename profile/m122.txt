@@ -1,16 +1,17 @@
-Name: Nathanael Guilford
-Gender: F
-Country: Indonesia
-Acceptable_country: Russia, Mexico, Philippines
+Name: Matthew Mckern
+Gender: M
+Country: China
+Acceptable_country: Belgium, Indonesia, Mexico
 Age: 19
-Acceptable_age_range: 20-25
-Likes: Billiards, Sun bathing, Kart racing, American football, Bird watching, Astronomy
-Dislikes: Kart racing, Bowling, Billiards, Hiking, Knife throwing
+Acceptable_age_range: 21-24
+Likes: Archery, Fishkeeping, Billiards, Crossword puzzles, Aircraft spotting, Microscopy, Auto racing, Airsoft, Horseback riding
+Dislikes: Slacklining, Aircraft spotting, Skimboarding, Embroidery, Auto racing, Do it yourself, Digital arts
 
 Books: 
+The Elements - Nick Mann
 The Elements of Computing Systems - Noam Nisan
-The Night Before Christmas - Holly Hobbie
-Let It Snow - John Green
-Paper Towns - John Green
-The Two Towers - J. R. R. Tolkien
-Three Poems - Hannah Sullivan
+Beowulf - J. R. R. Tolkien
+The Horror in the Museum - H. P. Lovecraft
+Animal Encyclopedia - National Geographic
+Science Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

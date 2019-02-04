@@ -1,16 +1,17 @@
-Name: Ivy Amrhein
+Name: Addie Fiorillo
 Gender: M
-Country: Thailand
-Acceptable_country: Indonesia, Mongolia, Singapore
-Age: 25
-Acceptable_age_range: 19-25
-Likes: Australian rules football, Microscopy, Skydiving, Embroidery, Digital arts, Electronics, Bus spotting
-Dislikes: Dance, Sun bathing, Geocaching, Bird watching
+Country: United States of America
+Acceptable_country: United Kingdom, Philippines, China, Korea
+Age: 27
+Acceptable_age_range: 17-23
+Likes: Archery, Surfing, Model aircraft, Handball, Billiards, Microscopy, Drama, Sun bathing, Badminton, Amateur astronomy, High-power rocketry
+Dislikes: Association football, Cryptography, Stone skipping, Billiards, Skydiving, Badminton, Horseback riding, Learning, American football, Electronics
 
 Books: 
-The Rocky Road to Romance - Janet Evanovich
-Computer Networking: A Top-Down Approach - James Kurose
+Cracking the Coding Interview - Gayle Laakmann
+The Righteous Mind - Jonathan Haidt
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Amityville Horror - Jay Anson
 Harry Potter and the Philosopher's Stone - J.K Rowling
-Rock Climbing Anchors - Craig Luebben
-The Fellowship of the Ring - J. R. R. Tolkien
-Animal Encyclopedia - National Geographic
+Change of Heart - Jodi Picoult
+Three Poems - Hannah Sullivan

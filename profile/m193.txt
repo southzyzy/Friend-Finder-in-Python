@@ -1,16 +1,17 @@
-Name: Sang Galarza
-Gender: F
-Country: Singapore
-Acceptable_country: United Kingdom, Korea, Thailand
+Name: Stephen Mcraney
+Gender: M
+Country: United States of America
+Acceptable_country: United States of America, Japan, Singapore, Indonesia
 Age: 19
-Acceptable_age_range: 17-26
-Likes: Slacklining, Stone skipping, Billiards, Skimboarding
-Dislikes: Archery, Hiking, Air sports, Crossword puzzles, Horseback riding, Learning
+Acceptable_age_range: 20-25
+Likes: Archery, Gardening, Cryptography, Stone skipping, Billiards, Laser tag, Kart racing, Horseback riding, Knife throwing, Astrology
+Dislikes: Association football, Fishkeeping, Stone skipping, Kabaddi, American football, Horseback riding, Learning, Sun bathing, Drawing
 
 Books: 
+The Elements of Computing Systems - Noam Nisan
 The Elements - Nick Mann
-The Very Hungry Caterpillar - Eric Carle
-The Two Towers - J. R. R. Tolkien
-My Sister's Keeper - Jodi Picoult
-The Fault in Our Stars - John Green
-The Horror in the Museum - H. P. Lovecraft
+The Righteous Mind - Jonathan Haidt
+The Rocky Road to Romance - Janet Evanovich
+The Amityville Horror - Jay Anson
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Romance of the Three Kingdoms - Luo Guanzhong

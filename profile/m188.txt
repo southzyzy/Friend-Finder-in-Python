@@ -1,17 +1,17 @@
-Name: Erma Trybus
+Name: Cyndi Morgenstern
 Gender: M
-Country: Philippines
-Acceptable_country: Indonesia, China, United Kingdom, United States of America
-Age: 24
-Acceptable_age_range: 21-26
-Likes: Stone skipping, Billiards, Microscopy, Skimboarding, Horseback riding, Skiing
-Dislikes: Model aircraft, Surfing, Birdwatching, Astrology
+Country: Mongolia
+Acceptable_country: Singapore, Philippines, Belgium, United States of America
+Age: 27
+Acceptable_age_range: 18-25
+Likes: Digital arts, Electronics, Geocaching, Microscopy, Marching band, Auto racing, Meditation, Astrology
+Dislikes: Laser tag, Skimboarding, Hooping, Animal fancy, Baton twirling, Birdwatching
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
 The Cat in the Hat - Roald Dahl
 The Rocky Road to Romance - Janet Evanovich
 Paper Towns - John Green
-My Sister's Keeper - Jodi Picoult
-The Very Hungry Caterpillar - Eric Carle
-The Fellowship of the Ring - J. R. R. Tolkien
+Computer Networking: A Top-Down Approach - James Kurose
+The Amityville Horror - Jay Anson
+The BFG - Roald Dahl
+Change of Heart - Jodi Picoult

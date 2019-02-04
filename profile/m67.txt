@@ -1,17 +1,17 @@
-Name: Ryann Meraz
+Name: Darin Ohara
 Gender: F
-Country: Russia
-Acceptable_country: Korea, China, Mongolia, Thailand
-Age: 22
-Acceptable_age_range: 21-26
-Likes: Model aircraft, Stone skipping, Badminton, Association football
-Dislikes: American football, High-power rocketry, Badminton, Kart racing
+Country: Singapore
+Acceptable_country: United States of America, Japan, Philippines
+Age: 27
+Acceptable_age_range: 20-26
+Likes: Surfing, Fishkeeping, Australian rules football, Aircraft spotting, Amateur astronomy, Animal fancy, Baton twirling, Astronomy, Astrology
+Dislikes: Surfing, Association football, Air sports, Model aircraft, Amateur astronomy, Horseback riding, Bowling
 
 Books: 
+Prodigal Son - Danielle Steel
+Matilda - Roald Dahl
+Paper Towns - John Green
+The Fault in Our Stars - John Green
 The Rocky Road to Romance - Janet Evanovich
-Modern Architecture - Kenneth Frampton
-The Romance of the Three Kingdoms - Luo Guanzhong
-The Shining - Stephen King
-Animal Encyclopedia - National Geographic
-The Fellowship of the Ring - J. R. R. Tolkien
-The Hobbit - J. R. R. Tolkien
+Harry Potter and the Philosopher's Stone - J.K Rowling
+Change of Heart - Jodi Picoult

@@ -1,17 +1,16 @@
-Name: Mallie Schrecengost
+Name: Phylicia Schuh
 Gender: M
 Country: Thailand
-Acceptable_country: Philippines, Japan, Indonesia, Russia
-Age: 19
-Acceptable_age_range: 20-25
-Likes: Model aircraft, Kabaddi, Drawing, Bowling
-Dislikes: Skydiving, Auto racing, Badminton, Drawing, Bus spotting
+Acceptable_country: Mexico, China, Mongolia
+Age: 23
+Acceptable_age_range: 18-23
+Likes: Gardening, Geocaching, Crossword puzzles, American football, Amateur astronomy, Learning, Sun bathing, Marching band, Bus spotting
+Dislikes: Surfing, Australian rules football, Badminton, Skimboarding, Learning, Animal fancy, American football, Do it yourself, Bus spotting
 
 Books: 
-The Brain That Changes Itself - Norman Doidge
-The Very Hungry Caterpillar - Eric Carle
-My Sister's Keeper - Jodi Picoult
-Harry Potter and the Philosopher's Stone - J.K Rowling
-The Award - Danielle Steel
-Off the Leash: The Secret Life of Dogs - Rupert Fawcett
-The Shining - Stephen King
+The Night Before Christmas - Holly Hobbie
+The Two Towers - J. R. R. Tolkien
+The Life-Changing Magic of Tidying - Marie Kondo
+Animal Encyclopedia - National Geographic
+Science Encyclopedia - National Geographic
+Rock Climbing Anchors - Craig Luebben

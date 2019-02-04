@@ -1,17 +1,17 @@
-Name: Cleveland Melle
+Name: Kirsten Huneycutt
 Gender: F
-Country: Philippines
-Acceptable_country: Indonesia, Korea, Russia, Mexico
-Age: 26
-Acceptable_age_range: 20-26
-Likes: High-power rocketry, Amateur astronomy, Surfing, Slacklining, Handball
-Dislikes: Fishkeeping, Badminton, Astronomy, Surfing, Animal fancy
+Country: Singapore
+Acceptable_country: Belgium, Mexico, Russia
+Age: 20
+Acceptable_age_range: 21-24
+Likes: Gardening, Dance, American football, Badminton, Horseback riding, Animal fancy, High-power rocketry, Bus spotting
+Dislikes: Cryptography, Hiking, Air sports, Animal fancy, High-power rocketry, Snowboarding, Astrology
 
 Books: 
-The Brain That Changes Itself - Norman Doidge
-Prodigal Son - Danielle Steel
-My Sister's Keeper - Jodi Picoult
+The Righteous Mind - Jonathan Haidt
+The Cat in the Hat - Roald Dahl
+Matilda - Roald Dahl
+Quantum Computing For Babies - Chris Ferrie
+The Award - Danielle Steel
 Change of Heart - Jodi Picoult
-Three Poems - Hannah Sullivan
-The Dead Zone - Stephen King
 The Hobbit - J. R. R. Tolkien

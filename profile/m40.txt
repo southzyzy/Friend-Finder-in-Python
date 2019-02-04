@@ -1,17 +1,17 @@
-Name: Lyn Sahr
+Name: Darius Goo
 Gender: M
-Country: Malaysia
-Acceptable_country: Philippines, United States of America, United Kingdom
-Age: 20
-Acceptable_age_range: 21-25
-Likes: Slacklining, Air sports, Billiards, Laser tag, Skydiving, Badminton, Bus spotting
-Dislikes: Baton twirling, Aircraft spotting, Stone skipping, Cryptography
+Country: Indonesia
+Acceptable_country: Singapore, Belgium, China, Russia
+Age: 21
+Acceptable_age_range: 17-23
+Likes: Archery, Gardening, Microscopy, Learning, Sun bathing, Airsoft, Birdwatching, Astrology
+Dislikes: Association football, Cryptography, Hiking, Skydiving, Crossword puzzles, Model aircraft, Slacklining, Birdwatching
 
 Books: 
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-The Two Towers - J. R. R. Tolkien
+The Cat in the Hat - Roald Dahl
+The Very Hungry Caterpillar - Eric Carle
+Modern Architecture - Kenneth Frampton
 My Sister's Keeper - Jodi Picoult
 Seven Brief Lessons on Physics - Carlo Rovelli
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-Change of Heart - Jodi Picoult
-The Dead Zone - Stephen King
+The Rocky Road to Romance - Janet Evanovich
+The Fellowship of the Ring - J. R. R. Tolkien

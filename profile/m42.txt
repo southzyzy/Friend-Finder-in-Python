@@ -1,16 +1,17 @@
-Name: Basil Sedgwick
-Gender: M
-Country: Philippines
-Acceptable_country: Japan, Malaysia, Singapore
-Age: 25
-Acceptable_age_range: 17-25
-Likes: Fishkeeping, Crossword puzzles, Dance, Skimboarding, Bird watching, Auto racing, Do it yourself
-Dislikes: Model aircraft, Do it yourself, Gardening, Microscopy
+Name: Harriet Donaldson
+Gender: F
+Country: Korea
+Acceptable_country: Korea, Indonesia, Singapore, Belgium
+Age: 21
+Acceptable_age_range: 19-25
+Likes: Airsoft, Bowling, Drama, Australian rules football, Knife throwing, American football, Electronics, Do it yourself
+Dislikes: Geocaching, Stone skipping, Billiards, Skydiving, Horseback riding, Learning, American football, Auto racing
 
 Books: 
-Matilda - Roald Dahl
-IT - Stephen King
-A Little History of Religion - Richard Holloway
-The Life-Changing Magic of Tidying - Marie Kondo
-Off the Leash: The Secret Life of Dogs - Rupert Fawcett
-Three Poems - Hannah Sullivan
+The Elements of Computing Systems - Noam Nisan
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+The Amityville Horror - Jay Anson
+The Award - Danielle Steel
+The Dead Zone - Stephen King
+Science Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

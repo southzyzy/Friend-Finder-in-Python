@@ -1,16 +1,15 @@
-Name: Johnson Pinkerton
+Name: Elina Botsford
 Gender: M
-Country: Japan
-Acceptable_country: Thailand, United States of America, Malaysia, Belgium
-Age: 22
-Acceptable_age_range: 17-23
-Likes: Surfing, Fishkeeping, Kabaddi, High-power rocketry, Skimboarding, American football, Bird watching
-Dislikes: Geocaching, Hooping, Sun bathing, Snowboarding, Do it yourself, Bus spotting
+Country: Mexico
+Acceptable_country: Singapore, Mexico, Korea, United Kingdom
+Age: 21
+Acceptable_age_range: 19-25
+Likes: Microscopy, Aircraft spotting, Hooping, Animal fancy, Digital arts, Do it yourself, Baton twirling, Bus spotting
+Dislikes: Cryptography, Fishkeeping, Model aircraft, Skimboarding, Horseback riding, Airsoft
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-Fantastic Beasts and Where to Find Them - J.K Rowling
-Hop on Pop - Dr.Seuss
-My Sister's Keeper - Jodi Picoult
-Computer Networking: A Top-Down Approach - James Kurose
-Beowulf - J. R. R. Tolkien
+The Elements - Nick Mann
+The Righteous Mind - Jonathan Haidt
+Charlie and the Chocolate Factory - Roald Dahl
+The Award - Danielle Steel
+IT - Stephen King

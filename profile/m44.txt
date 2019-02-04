@@ -1,16 +1,17 @@
-Name: Rolando Mogensen
-Gender: M
-Country: Philippines
-Acceptable_country: Japan, Belgium, United States of America, Philippines
-Age: 25
-Acceptable_age_range: 20-23
-Likes: Kabaddi, Laser tag, Kart racing, Amateur astronomy, Animal fancy, Electronics
-Dislikes: Meditation, Laser tag, Marching band, Horseback riding
+Name: Adam Vensel
+Gender: F
+Country: Singapore
+Acceptable_country: United States of America, Japan, United Kingdom
+Age: 23
+Acceptable_age_range: 20-24
+Likes: Archery, Surfing, Hiking, Fishkeeping, Crossword puzzles, Australian rules football, Badminton, Learning, Bird watching, Do it yourself, Astrology
+Dislikes: High-power rocketry, Model aircraft, Stone skipping, Australian rules football, Hooping, Knife throwing, American football, Snowboarding, Digital arts, Astronomy
 
 Books: 
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-Prodigal Son - Danielle Steel
-The Rocky Road to Romance - Janet Evanovich
-The Amityville Horror - Jay Anson
+Hop on Pop - Dr.Seuss
+My Sister's Keeper - Jodi Picoult
+Thinking Architecture - Peter Zumthor
+A Little History of Religion - Richard Holloway
 Off the Leash: The Secret Life of Dogs - Rupert Fawcett
-The Fellowship of the Ring - J. R. R. Tolkien
+The Horror in the Museum - H. P. Lovecraft
+Science Encyclopedia - National Geographic

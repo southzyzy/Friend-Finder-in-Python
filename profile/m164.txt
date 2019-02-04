@@ -1,16 +1,15 @@
-Name: Nora Everette
+Name: Andrea Bowser
 Gender: F
-Country: China
-Acceptable_country: Korea, United States of America, Indonesia
-Age: 19
-Acceptable_age_range: 20-25
-Likes: Surfing, Hiking, High-power rocketry, Auto racing, Airsoft, Baton twirling
-Dislikes: Handball, Airsoft, Air sports, Crossword puzzles, Knife throwing
+Country: Malaysia
+Acceptable_country: United Kingdom, United States of America, Malaysia
+Age: 27
+Acceptable_age_range: 18-25
+Likes: Archery, Surfing, Hiking, Air sports, Billiards, Baton twirling, Skimboarding, Sun bathing, Auto racing, Airsoft, Drawing, Astrology
+Dislikes: High-power rocketry, Skydiving, Knife throwing, Bus spotting, Bowling
 
 Books: 
-The Fault in Our Stars - John Green
-IT - Stephen King
-The Amityville Horror - Jay Anson
-Rock Climbing Anchors - Craig Luebben
-The Horror in the Museum - H. P. Lovecraft
-About a Boy - Nick Hornby
+Change of Heart - Jodi Picoult
+A Little History of Religion - Richard Holloway
+Quantum Computing For Babies - Chris Ferrie
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Computer Networking: A Top-Down Approach - James Kurose

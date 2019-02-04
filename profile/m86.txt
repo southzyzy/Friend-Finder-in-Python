@@ -1,16 +1,17 @@
-Name: Tommie Breunig
+Name: Mildred Delapena
 Gender: M
 Country: China
-Acceptable_country: Singapore, Russia, Belgium, Mexico
+Acceptable_country: Malaysia, Belgium, Thailand, Mongolia
 Age: 23
-Acceptable_age_range: 17-24
-Likes: Slacklining, Stone skipping, Badminton, Bird watching, Auto racing, Do it yourself, Bus spotting
-Dislikes: Bowling, Airsoft, Skiing, Badminton, Knife throwing
+Acceptable_age_range: 17-23
+Likes: Surfing, Gardening, Hooping, Embroidery, Sun bathing, Baton twirling, Airsoft, Bus spotting
+Dislikes: Archery, Gardening, Cryptography, Billiards, Laser tag, Model aircraft, Horseback riding, Embroidery, High-power rocketry, Airsoft
 
 Books: 
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Quantum Computing For Babies - Chris Ferrie
+Let It Snow - John Green
+The Very Hungry Caterpillar - Eric Carle
 Swimming Anatomy - Ian McLeod
-The Night Before Christmas - Holly Hobbie
-Seven Brief Lessons on Physics - Carlo Rovelli
+About a Boy - Nick Hornby
 The Amityville Horror - Jay Anson
-The Romance of the Three Kingdoms - Luo Guanzhong
+The Life-Changing Magic of Tidying - Marie Kondo

@@ -1,16 +1,16 @@
-Name: Delmer Abdulla
+Name: Flor Wellner
 Gender: F
-Country: Thailand
-Acceptable_country: Russia, United Kingdom, Malaysia
-Age: 25
-Acceptable_age_range: 18-25
-Likes: American football, Geocaching, Laser tag, Marching band, Hiking
-Dislikes: Handball, Kart racing, Gardening, Skiing
+Country: Philippines
+Acceptable_country: Belgium, Mexico, Thailand
+Age: 23
+Acceptable_age_range: 21-26
+Likes: Archery, Surfing, Slacklining, Microscopy, Learning, Sun bathing, Auto racing
+Dislikes: Association football, Kabaddi, Laser tag, High-power rocketry, Hooping, Sun bathing, Auto racing, Do it yourself, Marching band
 
 Books: 
+The Elements - Nick Mann
+The Brain That Changes Itself - Norman Doidge
+The Righteous Mind - Jonathan Haidt
 Let It Snow - John Green
-Swimming Anatomy - Ian McLeod
-The Night Before Christmas - Holly Hobbie
-Seven Brief Lessons on Physics - Carlo Rovelli
-Three Poems - Hannah Sullivan
-Prisoners of Geography - Tim Marshall
+Computer Networking: A Top-Down Approach - James Kurose
+The Amityville Horror - Jay Anson

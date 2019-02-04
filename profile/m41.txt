@@ -1,17 +1,17 @@
-Name: Jamee Zavala
+Name: Maryanne Beltran
 Gender: F
-Country: Indonesia
-Acceptable_country: Singapore, Philippines, Malaysia, Mexico
-Age: 19
-Acceptable_age_range: 20-23
-Likes: Australian rules football, Microscopy, Bus spotting
-Dislikes: High-power rocketry, Fishkeeping, Airsoft, Amateur astronomy, Dance
+Country: Belgium
+Acceptable_country: Philippines, China, Mexico, Malaysia
+Age: 20
+Acceptable_age_range: 20-24
+Likes: Gardening, High-power rocketry, Fishkeeping, Billiards, Australian rules football, Aircraft spotting, Skimboarding, Hooping, Sun bathing, Drawing
+Dislikes: Archery, Surfing, Stone skipping, Australian rules football, Badminton, Hooping, Auto racing, Birdwatching
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-The Amityville Horror - Jay Anson
-Quantum Computing For Babies - Chris Ferrie
-Swimming Anatomy - Ian McLeod
-The Fault in Our Stars - John Green
-Thinking Architecture - Peter Zumthor
-The Fellowship of the Ring - J. R. R. Tolkien
+The Elements - Nick Mann
+The Righteous Mind - Jonathan Haidt
+About a Boy - Nick Hornby
+A Little History of Religion - Richard Holloway
+The BFG - Roald Dahl
+Three Poems - Hannah Sullivan
+The Hobbit - J. R. R. Tolkien

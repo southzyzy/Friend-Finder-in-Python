@@ -1,17 +1,17 @@
-Name: Silvana Summa
-Gender: M
-Country: Indonesia
-Acceptable_country: Thailand, Russia, Mongolia
-Age: 26
-Acceptable_age_range: 20-23
-Likes: Australian rules football, Do it yourself, Birdwatching, Microscopy, Badminton
-Dislikes: Handball, Fishkeeping, Kabaddi, Amateur astronomy, Skiing
+Name: Hollie Cohan
+Gender: F
+Country: Mexico
+Acceptable_country: Japan, Singapore, United States of America, Malaysia
+Age: 18
+Acceptable_age_range: 19-26
+Likes: Airsoft, Gardening, Laser tag, American football, Sun bathing, Australian rules football, High-power rocketry, Electronics, Astronomy, Drawing, Birdwatching
+Dislikes: Fishkeeping, Bowling, Model aircraft, Aircraft spotting, Amateur astronomy, Hooping, Animal fancy, Sun bathing, Marching band
 
 Books: 
-Fantastic Beasts and Where to Find Them - J.K Rowling
-Computer Networking: A Top-Down Approach - James Kurose
-About a Boy - Nick Hornby
-The Award - Danielle Steel
+The Brain That Changes Itself - Norman Doidge
+The Righteous Mind - Jonathan Haidt
+A Little History of Religion - Richard Holloway
+The BFG - Roald Dahl
+The Romance of the Three Kingdoms - Luo Guanzhong
 The Horror in the Museum - H. P. Lovecraft
-Animal Encyclopedia - National Geographic
-Three Poems - Hannah Sullivan
+Prisoners of Geography - Tim Marshall

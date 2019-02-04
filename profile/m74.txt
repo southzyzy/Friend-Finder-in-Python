@@ -1,17 +1,16 @@
-Name: Gabrielle Harrell
-Gender: M
-Country: Indonesia
-Acceptable_country: Mexico, Russia, Singapore
-Age: 25
-Acceptable_age_range: 18-25
-Likes: Archery, Slacklining, Stone skipping, Laser tag, Sun bathing, Do it yourself
-Dislikes: Cryptography, Geocaching, Model aircraft, Baton twirling, Airsoft, Marching band
+Name: Jewel Gauntt
+Gender: F
+Country: Singapore
+Acceptable_country: United Kingdom, Belgium, Singapore, Indonesia
+Age: 22
+Acceptable_age_range: 17-25
+Likes: Australian rules football, Stone skipping, American football, Skydiving, Handball, Horseback riding, High-power rocketry, Bird watching, Baton twirling, Drawing
+Dislikes: Dance, Knife throwing, Laser tag, Model aircraft, Embroidery, Animal fancy, Sun bathing, Snowboarding
 
 Books: 
-Cracking the Coding Interview - Gayle Laakmann
-The Cat in the Hat - Roald Dahl
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-Prodigal Son - Danielle Steel
-The Rocky Road to Romance - Janet Evanovich
-Seven Brief Lessons on Physics - Carlo Rovelli
-The Life-Changing Magic of Tidying - Marie Kondo
+The Elements - Nick Mann
+The Very Hungry Caterpillar - Eric Carle
+My Sister's Keeper - Jodi Picoult
+Change of Heart - Jodi Picoult
+The Dead Zone - Stephen King
+The Hobbit - J. R. R. Tolkien

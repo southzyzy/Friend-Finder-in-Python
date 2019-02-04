@@ -1,16 +1,14 @@
-Name: Marcos Pullins
-Gender: M
-Country: Japan
-Acceptable_country: Japan, Mongolia, Thailand
-Age: 18
-Acceptable_age_range: 19-24
-Likes: High-power rocketry, Do it yourself, Association football, Crossword puzzles, Surfing
-Dislikes: Archery, Surfing, Association football, Fishkeeping, Laser tag, Do it yourself
+Name: Nathaniel Kazee
+Gender: F
+Country: Korea
+Acceptable_country: China, Singapore, Philippines
+Age: 24
+Acceptable_age_range: 20-26
+Likes: Archery, Surfing, Slacklining, Dance, Auto racing, Marching band, Learning, Skiing, High-power rocketry, Snowboarding, Electronics, Baton twirling
+Dislikes: Billiards, Gardening, Hiking, Animal fancy, Skydiving, Aircraft spotting, Skiing, Meditation, Astronomy, Astrology
 
 Books: 
-The Brain That Changes Itself - Norman Doidge
-Rock Climbing Anchors - Craig Luebben
-Change of Heart - Jodi Picoult
-The Shining - Stephen King
-The Dead Zone - Stephen King
-Prisoners of Geography - Tim Marshall
+The Rocky Road to Romance - Janet Evanovich
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Hop on Pop - Dr.Seuss
+The Cat in the Hat - Roald Dahl

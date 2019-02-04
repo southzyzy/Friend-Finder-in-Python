@@ -1,16 +1,17 @@
-Name: Olin Beaudin
-Gender: M
-Country: United Kingdom
-Acceptable_country: Japan, United States of America, Indonesia, Belgium
-Age: 21
-Acceptable_age_range: 20-26
-Likes: Dance, Bird watching, Kart racing, Skimboarding, Skiing
-Dislikes: Dance, Badminton, Learning, Animal fancy, Airsoft, Marching band
+Name: Karie Brophy
+Gender: F
+Country: Indonesia
+Acceptable_country: United States of America, Russia, Belgium, Singapore
+Age: 27
+Acceptable_age_range: 21-23
+Likes: Sun bathing, Aircraft spotting, Skimboarding, High-power rocketry, Baton twirling, Airsoft, Drawing, Meditation
+Dislikes: Dance, Kabaddi, Fishkeeping, Geocaching, Digital arts, Marching band
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-Modern Architecture - Kenneth Frampton
-About a Boy - Nick Hornby
-A Little History of Religion - Richard Holloway
-Three Poems - Hannah Sullivan
-IT - Stephen King
+Thinking Architecture - Peter Zumthor
+My Sister's Keeper - Jodi Picoult
+The Amityville Horror - Jay Anson
+The Life-Changing Magic of Tidying - Marie Kondo
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Change of Heart - Jodi Picoult
+The Hobbit - J. R. R. Tolkien

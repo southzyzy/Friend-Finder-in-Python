@@ -1,17 +1,16 @@
-Name: Lyndia Weatherhead
+Name: Allie Tolleson
 Gender: M
-Country: Mongolia
-Acceptable_country: Malaysia, Mongolia, Belgium, Mexico
-Age: 19
-Acceptable_age_range: 20-23
-Likes: Astronomy, Laser tag, Kart racing, Hooping, Embroidery, Do it yourself, Birdwatching
-Dislikes: Sun bathing, Kabaddi, Skimboarding, Airsoft, Learning
+Country: Singapore
+Acceptable_country: Philippines, United States of America, Singapore, Indonesia
+Age: 22
+Acceptable_age_range: 20-24
+Likes: Dance, Model aircraft, Kart racing, Amateur astronomy, Horseback riding, Airsoft
+Dislikes: Archery, Association football, Crossword puzzles, Kart racing, Skimboarding, Bowling, Gardening, Meditation
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-The Elements - Nick Mann
-The Righteous Mind - Jonathan Haidt
-A Little History of Religion - Richard Holloway
-Beowulf - J. R. R. Tolkien
-The BFG - Roald Dahl
-Animal Encyclopedia - National Geographic
+Let It Snow - John Green
+Matilda - Roald Dahl
+The Very Hungry Caterpillar - Eric Carle
+Rock Climbing Anchors - Craig Luebben
+Three Poems - Hannah Sullivan
+The Fellowship of the Ring - J. R. R. Tolkien

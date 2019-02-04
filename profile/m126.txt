@@ -1,15 +1,17 @@
-Name: Altha Viger
-Gender: F
-Country: Indonesia
-Acceptable_country: Philippines, Singapore, Thailand, Indonesia
-Age: 27
-Acceptable_age_range: 19-24
-Likes: Embroidery, Dance, Amateur astronomy, Learning, Animal fancy, Birdwatching
-Dislikes: High-power rocketry, Snowboarding, Surfing, Laser tag
+Name: Towanda Jester
+Gender: M
+Country: Singapore
+Acceptable_country: Malaysia, Mexico, Singapore, Russia
+Age: 21
+Acceptable_age_range: 17-26
+Likes: Slacklining, Cryptography, Bowling, Microscopy, Drama, Kart racing, Learning, Animal fancy, Snowboarding, Astronomy, Drawing
+Dislikes: Archery, Association football, Air sports, Fishkeeping, Stone skipping, Bowling, American football, Electronics, Birdwatching
 
 Books: 
-The Rocky Road to Romance - Janet Evanovich
+The Elements - Nick Mann
 Fantastic Beasts and Where to Find Them - J.K Rowling
-Hop on Pop - Dr.Seuss
-The Life-Changing Magic of Tidying - Marie Kondo
-The Romance of the Three Kingdoms - Luo Guanzhong
+Paper Towns - John Green
+The Fault in Our Stars - John Green
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+Change of Heart - Jodi Picoult
+Three Poems - Hannah Sullivan

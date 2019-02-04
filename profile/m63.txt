@@ -1,17 +1,17 @@
-Name: Jerrod Sugg
+Name: Evan Yother
 Gender: F
-Country: China
-Acceptable_country: Russia, United States of America, Singapore
-Age: 27
-Acceptable_age_range: 20-24
-Likes: Association football, Hooping, Embroidery, American football, Electronics, Do it yourself, Bus spotting
-Dislikes: Digital arts, Archery, Stone skipping, Kart racing, Hooping
+Country: United States of America
+Acceptable_country: Russia, Mongolia, China
+Age: 25
+Acceptable_age_range: 20-23
+Likes: Air sports, Geocaching, Crossword puzzles, Horseback riding, Animal fancy, American football, Meditation, Birdwatching
+Dislikes: Geocaching, Skydiving, Skimboarding, Skiing, Electronics, Airsoft
 
 Books: 
-Let It Snow - John Green
-Fantastic Beasts and Where to Find Them - J.K Rowling
+Cracking the Coding Interview - Gayle Laakmann
+Prodigal Son - Danielle Steel
+Seven Brief Lessons on Physics - Carlo Rovelli
 The Amityville Horror - Jay Anson
-The BFG - Roald Dahl
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Beowulf - J. R. R. Tolkien
+The Award - Danielle Steel
 The Romance of the Three Kingdoms - Luo Guanzhong
-The Horror in the Museum - H. P. Lovecraft

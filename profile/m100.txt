@@ -1,16 +1,17 @@
-Name: Kevin Nakashima
-Gender: F
-Country: Belgium
-Acceptable_country: Japan, United States of America, Philippines
-Age: 23
-Acceptable_age_range: 18-26
-Likes: Surfing, Slacklining, Microscopy, Cryptography
-Dislikes: High-power rocketry, Slacklining, Kart racing, Skimboarding, Microscopy
+Name: Patrick Schlegel
+Gender: M
+Country: Korea
+Acceptable_country: Japan, Thailand, Philippines, Mexico
+Age: 21
+Acceptable_age_range: 21-26
+Likes: Hiking, Microscopy, Drama, Crossword puzzles, Bowling, American football, Airsoft, Birdwatching
+Dislikes: Archery, Embroidery, Badminton, Learning, Handball, Drawing, Bus spotting
 
 Books: 
-The Elements - Nick Mann
 The Brain That Changes Itself - Norman Doidge
-The Amityville Horror - Jay Anson
-The Horror in the Museum - H. P. Lovecraft
-Animal Encyclopedia - National Geographic
+The Cat in the Hat - Roald Dahl
+The Rocky Road to Romance - Janet Evanovich
+My Sister's Keeper - Jodi Picoult
+Change of Heart - Jodi Picoult
+Three Poems - Hannah Sullivan
 Prisoners of Geography - Tim Marshall

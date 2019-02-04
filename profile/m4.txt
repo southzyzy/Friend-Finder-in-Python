@@ -1,17 +1,15 @@
-Name: Marcos Pullins
-Gender: M
-Country: Thailand
-Acceptable_country: United Kingdom, Japan, Singapore, Thailand
-Age: 27
-Acceptable_age_range: 21-24
-Likes: Slacklining, Drama, Skydiving, Embroidery, Bowling, Electronics, Drawing
-Dislikes: Australian rules football, Digital arts, Skimboarding, Embroidery
+Name: Columbus Spano
+Gender: F
+Country: Singapore
+Acceptable_country: United Kingdom, Indonesia, Thailand, Mongolia
+Age: 21
+Acceptable_age_range: 20-23
+Likes: Astronomy, Gardening, Dance, Laser tag, Learning, Baton twirling, Airsoft, Marching band
+Dislikes: Archery, Hiking, Kabaddi, Skydiving, Embroidery, Knife throwing, Sun bathing, Auto racing, Digital arts
 
 Books: 
-The Cat in the Hat - Roald Dahl
-Charlie and the Chocolate Factory - Roald Dahl
-The Two Towers - J. R. R. Tolkien
-The Amityville Horror - Jay Anson
-The Fellowship of the Ring - J. R. R. Tolkien
-The Dead Zone - Stephen King
-Science Encyclopedia - National Geographic
+The Rocky Road to Romance - Janet Evanovich
+The Shining - Stephen King
+Animal Encyclopedia - National Geographic
+My Sister's Keeper - Jodi Picoult
+The Life-Changing Magic of Tidying - Marie Kondo

@@ -1,16 +1,15 @@
-Name: Antone Kubat
+Name: Basil Sedgwick
 Gender: F
-Country: Russia
-Acceptable_country: Singapore, Korea, United Kingdom
-Age: 24
-Acceptable_age_range: 21-24
-Likes: Electronics, Kart racing, Digital arts, Bus spotting, Skiing
-Dislikes: Geocaching, Bird watching, Gardening
+Country: United States of America
+Acceptable_country: Korea, China, Singapore
+Age: 26
+Acceptable_age_range: 18-25
+Likes: Gardening, Hiking, Microscopy, Skydiving, Kart racing, Skimboarding, Horseback riding, American football, Bird watching, Auto racing, Amateur astronomy
+Dislikes: Air sports, Handball, American football, Australian rules football, Badminton, Animal fancy, Sun bathing, Astronomy
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-Charlie and the Chocolate Factory - Roald Dahl
-Prodigal Son - Danielle Steel
 The Rocky Road to Romance - Janet Evanovich
-Change of Heart - Jodi Picoult
 Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Brain That Changes Itself - Norman Doidge
+The BFG - Roald Dahl
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss

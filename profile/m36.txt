@@ -1,16 +1,17 @@
-Name: Tristan Pascal
+Name: Petrina Tuley
 Gender: F
-Country: United Kingdom
-Acceptable_country: Japan, Mongolia, United States of America
-Age: 19
-Acceptable_age_range: 20-23
-Likes: Fishkeeping, Archery, Billiards, Airsoft, Kart racing
-Dislikes: Aircraft spotting, Archery, Baton twirling, Astrology, Knife throwing
+Country: Malaysia
+Acceptable_country: China, Mexico, United States of America, Philippines
+Age: 18
+Acceptable_age_range: 19-23
+Likes: Air sports, Geocaching, Fishkeeping, Microscopy, Dance, Aircraft spotting, Amateur astronomy, Bowling, Do it yourself, Drawing
+Dislikes: Drama, Knife throwing, Handball, Snowboarding, Do it yourself, Birdwatching, Astrology
 
 Books: 
-Fantastic Beasts and Where to Find Them - J.K Rowling
-The Night Before Christmas - Holly Hobbie
-Matilda - Roald Dahl
-The Award - Danielle Steel
-Change of Heart - Jodi Picoult
-The Dead Zone - Stephen King
+The Elements - Nick Mann
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Paper Towns - John Green
+Computer Networking: A Top-Down Approach - James Kurose
+IT - Stephen King
+The Fellowship of the Ring - J. R. R. Tolkien
+About a Boy - Nick Hornby

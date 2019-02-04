@@ -1,17 +1,17 @@
-Name: Adalberto Evans
+Name: Jennifer Wixom
 Gender: M
-Country: Mexico
-Acceptable_country: Malaysia, China, Belgium, Mexico
-Age: 18
-Acceptable_age_range: 21-24
-Likes: Archery, Air sports, Geocaching, Model aircraft, Embroidery, Do it yourself, Birdwatching
-Dislikes: Meditation, Air sports, Skimboarding, Skiing
+Country: Philippines
+Acceptable_country: United States of America, Philippines, Russia, Malaysia
+Age: 19
+Acceptable_age_range: 17-25
+Likes: Gardening, High-power rocketry, Billiards, Sun bathing, Skydiving, Handball, Auto racing, Electronics
+Dislikes: Gardening, Billiards, Laser tag, Crossword puzzles, Australian rules football, Skimboarding, Hooping, Drawing, Astrology
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-Computer Networking: A Top-Down Approach - James Kurose
+Animal Encyclopedia - National Geographic
+Charlie and the Chocolate Factory - Roald Dahl
+Prodigal Son - Danielle Steel
+Paper Towns - John Green
+The Fault in Our Stars - John Green
+The Amityville Horror - Jay Anson
 IT - Stephen King
-A Little History of Religion - Richard Holloway
-Rock Climbing Anchors - Craig Luebben
-The Dead Zone - Stephen King
-The Hobbit - J. R. R. Tolkien

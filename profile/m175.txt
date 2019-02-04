@@ -1,17 +1,15 @@
-Name: German Highland
+Name: Leonard Holdridge
 Gender: M
-Country: United Kingdom
-Acceptable_country: Japan, United Kingdom, Malaysia
-Age: 22
-Acceptable_age_range: 21-24
-Likes: Air sports, Billiards, Aircraft spotting, Digital arts, Marching band, Birdwatching
-Dislikes: Model aircraft, Slacklining, Amateur astronomy, Learning, Animal fancy
+Country: Indonesia
+Acceptable_country: Mexico, Thailand, Philippines
+Age: 23
+Acceptable_age_range: 19-25
+Likes: Association football, Fishkeeping, Laser tag, Drawing, Hooping, Embroidery, Slacklining, Marching band
+Dislikes: Archery, Dance, Microscopy, Fishkeeping, Skimboarding, Hooping, Bowling
 
 Books: 
-Cracking the Coding Interview - Gayle Laakmann
-About a Boy - Nick Hornby
-Thinking Architecture - Peter Zumthor
-Harry Potter and the Philosopher's Stone - J.K Rowling
-Change of Heart - Jodi Picoult
+The Amityville Horror - Jay Anson
 The Shining - Stephen King
-Animal Encyclopedia - National Geographic
+The Night Before Christmas - Holly Hobbie
+The Life-Changing Magic of Tidying - Marie Kondo
+The Award - Danielle Steel

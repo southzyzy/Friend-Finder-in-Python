@@ -1,17 +1,15 @@
-Name: Winfred Zufelt
-Gender: F
-Country: Malaysia
-Acceptable_country: United States of America, Belgium, Korea
-Age: 18
-Acceptable_age_range: 20-24
-Likes: Kabaddi, Association football, Hiking, Bus spotting
-Dislikes: Archery, Astronomy, Association football, Animal fancy
+Name: Bennie Stockard
+Gender: M
+Country: Indonesia
+Acceptable_country: Indonesia, Philippines, Mexico
+Age: 27
+Acceptable_age_range: 21-24
+Likes: Gardening, Air sports, Fishkeeping, Stone skipping, Kart racing, Knife throwing, Airsoft, Bus spotting
+Dislikes: American football, Badminton, Slacklining, Astrology
 
 Books: 
-The Elements - Nick Mann
-Matilda - Roald Dahl
-Seven Brief Lessons on Physics - Carlo Rovelli
-The BFG - Roald Dahl
-Change of Heart - Jodi Picoult
+Modern Architecture - Kenneth Frampton
 The Shining - Stephen King
-The Horror in the Museum - H. P. Lovecraft
+Animal Encyclopedia - National Geographic
+Let It Snow - John Green
+The Life-Changing Magic of Tidying - Marie Kondo

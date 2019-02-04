@@ -1,17 +1,17 @@
-Name: Alysha Okeefe
+Name: Vilma Mossey
 Gender: F
-Country: United Kingdom
-Acceptable_country: Japan, Mexico, Mongolia
-Age: 23
-Acceptable_age_range: 18-25
-Likes: High-power rocketry, Do it yourself, Skiing, Animal fancy, Bowling
-Dislikes: Auto racing, Billiards, Horseback riding, Stone skipping
+Country: Singapore
+Acceptable_country: Philippines, Singapore, Japan, China
+Age: 26
+Acceptable_age_range: 18-26
+Likes: Cryptography, Dance, Australian rules football, Badminton, Bowling, Digital arts, Airsoft
+Dislikes: Surfing, Laser tag, Electronics, Marching band, Australian rules football, Knife throwing, American football, Bird watching, Auto racing, Drawing, Birdwatching
 
 Books: 
-Let It Snow - John Green
-The Very Hungry Caterpillar - Eric Carle
+Quantum Computing For Babies - Chris Ferrie
 Swimming Anatomy - Ian McLeod
 The Night Before Christmas - Holly Hobbie
-Fantastic Beasts and Where to Find Them - J.K Rowling
-Prisoners of Geography - Tim Marshall
-Science Encyclopedia - National Geographic
+IT - Stephen King
+Beowulf - J. R. R. Tolkien
+Animal Encyclopedia - National Geographic
+The Dead Zone - Stephen King

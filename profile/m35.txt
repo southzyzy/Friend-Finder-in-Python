@@ -1,17 +1,17 @@
-Name: Allie Tolleson
-Gender: M
-Country: Belgium
-Acceptable_country: Philippines, United Kingdom, Japan
-Age: 25
-Acceptable_age_range: 21-24
-Likes: Archery, Association football, Billiards, Skydiving, Embroidery, American football, Electronics
-Dislikes: Geocaching, Australian rules football, Aircraft spotting, Slacklining, Skiing
+Name: Sal Wortham
+Gender: F
+Country: Mongolia
+Acceptable_country: China, Mexico, Belgium
+Age: 24
+Acceptable_age_range: 21-25
+Likes: Kabaddi, Billiards, Model aircraft, Air sports, High-power rocketry, Skimboarding, Animal fancy, Sun bathing
+Dislikes: Skydiving, Geocaching, Sun bathing, Kart racing, Handball, Meditation, Airsoft
 
 Books: 
+The Elements of Computing Systems - Noam Nisan
 Beowulf - J. R. R. Tolkien
-Thinking Architecture - Peter Zumthor
-Prodigal Son - Danielle Steel
+The Very Hungry Caterpillar - Eric Carle
 About a Boy - Nick Hornby
-The Amityville Horror - Jay Anson
-A Little History of Religion - Richard Holloway
-The Shining - Stephen King
+Thinking Architecture - Peter Zumthor
+The Rocky Road to Romance - Janet Evanovich
+Rock Climbing Anchors - Craig Luebben

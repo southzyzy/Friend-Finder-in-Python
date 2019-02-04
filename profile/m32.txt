@@ -1,16 +1,17 @@
-Name: Eldridge Prato
+Name: Keith Zipp
 Gender: F
-Country: Korea
-Acceptable_country: Malaysia, Indonesia, United States of America, China
-Age: 20
-Acceptable_age_range: 18-26
-Likes: Archery, Do it yourself, Learning
-Dislikes: Slacklining, Fishkeeping, Australian rules football, Sun bathing, Gardening, Drawing
+Country: Russia
+Acceptable_country: Malaysia, Japan, Philippines, Mexico
+Age: 25
+Acceptable_age_range: 20-26
+Likes: Gardening, Dance, Model aircraft, Horseback riding, Embroidery, Knife throwing, Association football, Do it yourself
+Dislikes: Association football, Microscopy, American football, Snowboarding, Airsoft, Birdwatching
 
 Books: 
-Let It Snow - John Green
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-The Very Hungry Caterpillar - Eric Carle
+The Brain That Changes Itself - Norman Doidge
+The Righteous Mind - Jonathan Haidt
+The Cat in the Hat - Roald Dahl
 The Amityville Horror - Jay Anson
 Harry Potter and the Philosopher's Stone - J.K Rowling
-Prisoners of Geography - Tim Marshall
+The Horror in the Museum - H. P. Lovecraft
+The Fellowship of the Ring - J. R. R. Tolkien

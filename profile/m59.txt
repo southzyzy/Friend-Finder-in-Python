@@ -1,17 +1,17 @@
-Name: Judson Baughman
+Name: Santos Principe
 Gender: M
-Country: Korea
-Acceptable_country: Korea, Japan, Mongolia
-Age: 19
-Acceptable_age_range: 21-26
-Likes: Association football, Amateur astronomy, Learning, Skiing
-Dislikes: Skydiving, Skimboarding, Embroidery, Animal fancy, Digital arts, Airsoft, Electronics
+Country: Singapore
+Acceptable_country: Korea, Belgium, Japan, China
+Age: 21
+Acceptable_age_range: 21-25
+Likes: Surfing, Association football, Hiking, Australian rules football, Kabaddi, Laser tag, Model aircraft, Embroidery, Meditation, Astronomy
+Dislikes: Gardening, Cryptography, Dance, Stone skipping, Billiards, Geocaching, Learning, Digital arts, Marching band
 
 Books: 
-The Two Towers - J. R. R. Tolkien
-IT - Stephen King
-The Amityville Horror - Jay Anson
-Beowulf - J. R. R. Tolkien
+Prodigal Son - Danielle Steel
+The Very Hungry Caterpillar - Eric Carle
+Computer Networking: A Top-Down Approach - James Kurose
+The Rocky Road to Romance - Janet Evanovich
 Harry Potter and the Philosopher's Stone - J.K Rowling
-Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Award - Danielle Steel
 Science Encyclopedia - National Geographic

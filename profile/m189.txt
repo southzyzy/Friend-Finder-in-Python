@@ -1,16 +1,15 @@
-Name: Valrie Chaudhry
+Name: Darius Goo
 Gender: M
-Country: Singapore
-Acceptable_country: Belgium, United Kingdom, Malaysia
-Age: 26
-Acceptable_age_range: 21-23
-Likes: Archery, Hiking, Stone skipping, Skydiving, Electronics, Astrology
-Dislikes: Dance, Crossword puzzles, Drama, Australian rules football, High-power rocketry, Astrology
+Country: Japan
+Acceptable_country: China, Singapore, Mongolia, Thailand
+Age: 27
+Acceptable_age_range: 21-26
+Likes: Archery, Gardening, Electronics, Geocaching, Stone skipping, Crossword puzzles, Hooping, Snowboarding, Auto racing, Do it yourself, Marching band
+Dislikes: Archery, Cryptography, Embroidery, Knife throwing, High-power rocketry, Snowboarding, Astronomy, Marching band, Bus spotting
 
 Books: 
-The Brain That Changes Itself - Norman Doidge
-Quantum Computing For Babies - Chris Ferrie
-The Cat in the Hat - Roald Dahl
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
 The Rocky Road to Romance - Janet Evanovich
-The Award - Danielle Steel
+A Little History of Religion - Richard Holloway
+Paper Towns - John Green
+Cracking the Coding Interview - Gayle Laakmann
+The Romance of the Three Kingdoms - Luo Guanzhong

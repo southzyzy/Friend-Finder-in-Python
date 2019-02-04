@@ -1,17 +1,16 @@
-Name: Aaron Fulp
-Gender: F
-Country: Belgium
-Acceptable_country: Mexico, United Kingdom, Indonesia, Mongolia
+Name: Thao Laubscher
+Gender: M
+Country: Japan
+Acceptable_country: Russia, Thailand, United Kingdom, Singapore
 Age: 20
-Acceptable_age_range: 17-26
-Likes: Badminton, Astronomy, Hiking, Bowling
-Dislikes: Cryptography, Air sports, Bowling, Bird watching, Digital arts, Auto racing
+Acceptable_age_range: 19-25
+Likes: Hiking, Drama, Skydiving, Skimboarding, Horseback riding, Learning, Auto racing, Meditation, Bus spotting
+Dislikes: Drama, Amateur astronomy, Skimboarding, Drawing, Embroidery
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-Fantastic Beasts and Where to Find Them - J.K Rowling
-Modern Architecture - Kenneth Frampton
-Seven Brief Lessons on Physics - Carlo Rovelli
-The Award - Danielle Steel
-Animal Encyclopedia - National Geographic
-The Dead Zone - Stephen King
+Let It Snow - John Green
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Swimming Anatomy - Ian McLeod
+The Fault in Our Stars - John Green
+Rock Climbing Anchors - Craig Luebben
+Prisoners of Geography - Tim Marshall

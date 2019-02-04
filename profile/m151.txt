@@ -1,17 +1,16 @@
-Name: Kevin Nakashima
+Name: Kelsi Morton
 Gender: F
-Country: Japan
-Acceptable_country: Belgium, Russia, Philippines
-Age: 20
-Acceptable_age_range: 19-26
-Likes: Do it yourself, Association football, Drawing, Crossword puzzles, Animal fancy
-Dislikes: Geocaching, Sun bathing, Slacklining, Crossword puzzles
+Country: Belgium
+Acceptable_country: Russia, China, Belgium
+Age: 23
+Acceptable_age_range: 17-23
+Likes: Archery, Slacklining, Billiards, Microscopy, High-power rocketry, Skimboarding, Bowling, American football, Amateur astronomy, Bus spotting
+Dislikes: Association football, Laser tag, Badminton, Kart racing, Sun bathing, Auto racing
 
 Books: 
-The Cat in the Hat - Roald Dahl
-Let It Snow - John Green
-Fantastic Beasts and Where to Find Them - J.K Rowling
-Swimming Anatomy - Ian McLeod
-Harry Potter and the Philosopher's Stone - J.K Rowling
-The Horror in the Museum - H. P. Lovecraft
-Three Poems - Hannah Sullivan
+The Elements - Nick Mann
+Charlie and the Chocolate Factory - Roald Dahl
+My Sister's Keeper - Jodi Picoult
+The Amityville Horror - Jay Anson
+The Life-Changing Magic of Tidying - Marie Kondo
+The Dead Zone - Stephen King

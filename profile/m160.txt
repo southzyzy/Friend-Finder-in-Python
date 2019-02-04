@@ -1,16 +1,17 @@
-Name: Maryetta Basye
+Name: Enoch Artist
 Gender: M
-Country: Mexico
-Acceptable_country: China, Malaysia, United States of America, Thailand
-Age: 24
-Acceptable_age_range: 19-24
-Likes: Fishkeeping, Baton twirling, Airsoft, Embroidery
-Dislikes: Fishkeeping, Australian rules football, Badminton, Animal fancy, Sun bathing, Astronomy
+Country: Mongolia
+Acceptable_country: Mongolia, Malaysia, United Kingdom
+Age: 26
+Acceptable_age_range: 18-26
+Likes: Archery, High-power rocketry, Model aircraft, Stone skipping, Drama, Handball, Skimboarding, American football, Auto racing, Digital arts
+Dislikes: Cryptography, Kart racing, Microscopy, Aircraft spotting, Embroidery, Knife throwing, Snowboarding
 
 Books: 
-The Elements - Nick Mann
-Matilda - Roald Dahl
-The Amityville Horror - Jay Anson
-The Horror in the Museum - H. P. Lovecraft
-Animal Encyclopedia - National Geographic
-Three Poems - Hannah Sullivan
+The Brain That Changes Itself - Norman Doidge
+The Cat in the Hat - Roald Dahl
+The Life-Changing Magic of Tidying - Marie Kondo
+Change of Heart - Jodi Picoult
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Shining - Stephen King
+Prisoners of Geography - Tim Marshall

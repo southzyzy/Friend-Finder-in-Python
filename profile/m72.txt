@@ -1,16 +1,17 @@
-Name: Rocky Pedraza
+Name: Heath Neuner
 Gender: M
-Country: China
-Acceptable_country: China, Indonesia, Philippines
+Country: Belgium
+Acceptable_country: Indonesia, Philippines, Thailand
 Age: 25
-Acceptable_age_range: 17-24
-Likes: Handball, Aircraft spotting, Astronomy, Drawing, Birdwatching
-Dislikes: Meditation, Billiards, Birdwatching, Knife throwing
+Acceptable_age_range: 21-25
+Likes: Stone skipping, Kabaddi, Laser tag, American football, Australian rules football, Skimboarding, Hooping, Handball, Baton twirling, Do it yourself, Meditation
+Dislikes: Drawing, Badminton, Laser tag, Horseback riding, Animal fancy
 
 Books: 
+Cracking the Coding Interview - Gayle Laakmann
 The Brain That Changes Itself - Norman Doidge
-Paper Towns - John Green
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-The Romance of the Three Kingdoms - Luo Guanzhong
-Animal Encyclopedia - National Geographic
-The Hobbit - J. R. R. Tolkien
+Hop on Pop - Dr.Seuss
+Computer Networking: A Top-Down Approach - James Kurose
+The Fault in Our Stars - John Green
+A Little History of Religion - Richard Holloway
+Prisoners of Geography - Tim Marshall

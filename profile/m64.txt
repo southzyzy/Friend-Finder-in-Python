@@ -1,17 +1,16 @@
-Name: Lyndia Weatherhead
-Gender: F
-Country: United States of America
-Acceptable_country: Singapore, Belgium, Japan, Malaysia
-Age: 22
-Acceptable_age_range: 18-24
-Likes: Handball, Bowling, Stone skipping, Surfing, Skiing
-Dislikes: Embroidery, Slacklining, Hooping, Microscopy
+Name: Leeanne Weitz
+Gender: M
+Country: Malaysia
+Acceptable_country: Malaysia, Philippines, Thailand
+Age: 21
+Acceptable_age_range: 19-26
+Likes: Dance, Kabaddi, Laser tag, Crossword puzzles, Model aircraft, Aircraft spotting, Skimboarding, Microscopy, American football, Bird watching, Drawing, Birdwatching
+Dislikes: Australian rules football, Billiards, Microscopy, Badminton, High-power rocketry, Aircraft spotting, Bowling, American football, Snowboarding, Electronics, Drawing
 
 Books: 
-The Amityville Horror - Jay Anson
+The Cat in the Hat - Roald Dahl
 Charlie and the Chocolate Factory - Roald Dahl
 The Rocky Road to Romance - Janet Evanovich
-Swimming Anatomy - Ian McLeod
 Computer Networking: A Top-Down Approach - James Kurose
-Thinking Architecture - Peter Zumthor
-The Romance of the Three Kingdoms - Luo Guanzhong
+The Fellowship of the Ring - J. R. R. Tolkien
+The Hobbit - J. R. R. Tolkien

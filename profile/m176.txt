@@ -1,17 +1,17 @@
-Name: Madison Santi
-Gender: F
-Country: United Kingdom
-Acceptable_country: Japan, Philippines, United Kingdom, Malaysia
-Age: 25
-Acceptable_age_range: 21-23
-Likes: Hiking, Fishkeeping, Aircraft spotting, Amateur astronomy, Knife throwing, Baton twirling
-Dislikes: Slacklining, Hiking, Kart racing, Amateur astronomy, Snowboarding, Electronics
+Name: Son Spanbauer
+Gender: M
+Country: Russia
+Acceptable_country: Malaysia, Russia, Japan
+Age: 22
+Acceptable_age_range: 20-23
+Likes: Archery, Association football, Microscopy, Drama, Australian rules football, Amateur astronomy, Learning, Auto racing, Drawing, Astrology
+Dislikes: Cryptography, Kabaddi, Microscopy, Australian rules football, Amateur astronomy, Horseback riding, Learning, Bus spotting
 
 Books: 
-The Rocky Road to Romance - Janet Evanovich
-Modern Architecture - Kenneth Frampton
-Swimming Anatomy - Ian McLeod
-Seven Brief Lessons on Physics - Carlo Rovelli
-Fantastic Beasts and Where to Find Them - J.K Rowling
-Harry Potter and the Philosopher's Stone - J.K Rowling
-Prisoners of Geography - Tim Marshall
+Quantum Computing For Babies - Chris Ferrie
+Matilda - Roald Dahl
+Paper Towns - John Green
+The Two Towers - J. R. R. Tolkien
+About a Boy - Nick Hornby
+Beowulf - J. R. R. Tolkien
+The Fault in Our Stars - John Green

@@ -1,16 +1,17 @@
-Name: Milton Harcrow
+Name: Stasia Tancredi
 Gender: F
-Country: United Kingdom
-Acceptable_country: Korea, China, United Kingdom, Indonesia
-Age: 19
-Acceptable_age_range: 19-25
-Likes: Bowling, Slacklining, Horseback riding, Air sports
-Dislikes: Model aircraft, Fishkeeping, Microscopy, Australian rules football, High-power rocketry, Bird watching
+Country: Mongolia
+Acceptable_country: China, United Kingdom, Malaysia, Singapore
+Age: 26
+Acceptable_age_range: 18-25
+Likes: Cryptography, Air sports, Billiards, High-power rocketry, Microscopy, Model aircraft, Aircraft spotting, Badminton, Sun bathing, Meditation, Birdwatching
+Dislikes: Surfing, Badminton, Skydiving, Kart racing, Learning, Bowling, American football, Baton twirling, Electronics, Birdwatching
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-Charlie and the Chocolate Factory - Roald Dahl
-The Rocky Road to Romance - Janet Evanovich
-The Fault in Our Stars - John Green
-The Shining - Stephen King
-Prisoners of Geography - Tim Marshall
+Quantum Computing For Babies - Chris Ferrie
+The Righteous Mind - Jonathan Haidt
+About a Boy - Nick Hornby
+The Amityville Horror - Jay Anson
+The Award - Danielle Steel
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Horror in the Museum - H. P. Lovecraft

@@ -1,17 +1,17 @@
-Name: Boyd Bergman
+Name: Lenard Red
 Gender: F
-Country: Russia
-Acceptable_country: Mongolia, Malaysia, Singapore, Mexico
-Age: 20
-Acceptable_age_range: 18-25
-Likes: Geocaching, Skydiving, Baton twirling, Drawing, Hooping
-Dislikes: Australian rules football, Electronics, Astrology, Air sports
+Country: Japan
+Acceptable_country: Singapore, Japan, United Kingdom, Philippines
+Age: 24
+Acceptable_age_range: 19-24
+Likes: Hiking, Kabaddi, Embroidery, American football, Bird watching, Baton twirling, Bus spotting
+Dislikes: Archery, Hiking, Australian rules football, Aircraft spotting, Horseback riding, Auto racing, Do it yourself, Marching band
 
 Books: 
-Paper Towns - John Green
-My Sister's Keeper - Jodi Picoult
-About a Boy - Nick Hornby
+Cracking the Coding Interview - Gayle Laakmann
 The Amityville Horror - Jay Anson
-Harry Potter and the Philosopher's Stone - J.K Rowling
-The Shining - Stephen King
-Three Poems - Hannah Sullivan
+Let It Snow - John Green
+Hop on Pop - Dr.Seuss
+My Sister's Keeper - Jodi Picoult
+Thinking Architecture - Peter Zumthor
+The Life-Changing Magic of Tidying - Marie Kondo

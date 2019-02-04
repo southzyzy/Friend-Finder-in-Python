@@ -1,15 +1,17 @@
-Name: Harriet Donaldson
-Gender: M
-Country: Malaysia
-Acceptable_country: United Kingdom, Japan, Russia
-Age: 27
-Acceptable_age_range: 20-24
-Likes: Geocaching, Slacklining, Kabaddi, Laser tag, Skiing
-Dislikes: Skydiving, Airsoft, Marching band, Animal fancy
+Name: Kelsi Pinnix
+Gender: F
+Country: Thailand
+Acceptable_country: Japan, Philippines, United Kingdom, United States of America
+Age: 19
+Acceptable_age_range: 18-24
+Likes: Cryptography, Aircraft spotting, Geocaching, Microscopy, Model aircraft, Badminton, Amateur astronomy, Bus spotting, High-power rocketry, Digital arts, Birdwatching
+Dislikes: Association football, Stone skipping, Australian rules football, Bird watching, Airsoft, Marching band
 
 Books: 
-The Amityville Horror - Jay Anson
-Matilda - Roald Dahl
-The Dead Zone - Stephen King
-Rock Climbing Anchors - Craig Luebben
-Science Encyclopedia - National Geographic
+Quantum Computing For Babies - Chris Ferrie
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Fault in Our Stars - John Green
+A Little History of Religion - Richard Holloway
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Three Poems - Hannah Sullivan
+The Horror in the Museum - H. P. Lovecraft

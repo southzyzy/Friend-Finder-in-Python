@@ -1,17 +1,17 @@
-Name: Antone Kubat
-Gender: M
+Name: Cristin Rapp
+Gender: F
 Country: Russia
-Acceptable_country: Thailand, United States of America, Singapore
-Age: 27
-Acceptable_age_range: 21-23
-Likes: Drama, Bird watching, Laser tag, High-power rocketry, Air sports
-Dislikes: Model aircraft, Kabaddi, Marching band, Hiking, Astrology
+Acceptable_country: China, Philippines, Korea, Singapore
+Age: 26
+Acceptable_age_range: 19-23
+Likes: Microscopy, Surfing, Laser tag, Crossword puzzles, Australian rules football, Badminton, Hooping, Embroidery, Knife throwing
+Dislikes: Archery, Cryptography, Australian rules football, Geocaching, Model aircraft, Badminton, Snowboarding, Astrology
 
 Books: 
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-IT - Stephen King
-Rock Climbing Anchors - Craig Luebben
-The Award - Danielle Steel
-Off the Leash: The Secret Life of Dogs - Rupert Fawcett
-The Horror in the Museum - H. P. Lovecraft
-The Fault in Our Stars - John Green
+Cracking the Coding Interview - Gayle Laakmann
+The Brain That Changes Itself - Norman Doidge
+Hop on Pop - Dr.Seuss
+My Sister's Keeper - Jodi Picoult
+The Amityville Horror - Jay Anson
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
+Change of Heart - Jodi Picoult

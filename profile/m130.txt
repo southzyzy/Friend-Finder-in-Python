@@ -1,16 +1,16 @@
-Name: Thomasena Pottorff
-Gender: F
-Country: Mexico
-Acceptable_country: United States of America, Mexico, Malaysia
-Age: 26
-Acceptable_age_range: 19-25
-Likes: Cryptography, Aircraft spotting, Kart racing, Learning, Snowboarding, Auto racing, Drawing
-Dislikes: Sun bathing, Bird watching, Airsoft, Hooping, Archery
+Name: Shawnee Ludlow
+Gender: M
+Country: Philippines
+Acceptable_country: Singapore, Russia, Korea, United States of America
+Age: 27
+Acceptable_age_range: 18-26
+Likes: Cryptography, Geocaching, Kart racing, Microscopy, Australian rules football, Aircraft spotting, Learning, Auto racing, Electronics
+Dislikes: Billiards, Microscopy, Skimboarding, Hooping, American football, Do it yourself, Astrology
 
 Books: 
-The Brain That Changes Itself - Norman Doidge
-The Amityville Horror - Jay Anson
-The BFG - Roald Dahl
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-The Shining - Stephen King
-The Hobbit - J. R. R. Tolkien
+Cracking the Coding Interview - Gayle Laakmann
+Let It Snow - John Green
+Matilda - Roald Dahl
+My Sister's Keeper - Jodi Picoult
+About a Boy - Nick Hornby
+Prisoners of Geography - Tim Marshall

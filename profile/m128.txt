@@ -1,16 +1,16 @@
-Name: Issac Arms
+Name: Kelsi Pinnix
 Gender: F
-Country: China
-Acceptable_country: China, United States of America, Thailand, Russia
-Age: 27
-Acceptable_age_range: 20-26
-Likes: Digital arts, Horseback riding, Learning, Astrology
-Dislikes: Laser tag, Billiards, Association football, Surfing, Knife throwing
+Country: Mongolia
+Acceptable_country: Philippines, Mongolia, Indonesia
+Age: 22
+Acceptable_age_range: 19-24
+Likes: Archery, Dance, Australian rules football, Amateur astronomy, Learning, American football, Skimboarding, Electronics, Do it yourself
+Dislikes: Archery, Hiking, Australian rules football, Microscopy, Crossword puzzles, Hooping, Bowling, Auto racing
 
 Books: 
-The Cat in the Hat - Roald Dahl
-Swimming Anatomy - Ian McLeod
-The Fault in Our Stars - John Green
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-The Horror in the Museum - H. P. Lovecraft
-The Hobbit - J. R. R. Tolkien
+The Elements of Computing Systems - Noam Nisan
+Fantastic Beasts and Where to Find Them - J.K Rowling
+The Two Towers - J. R. R. Tolkien
+The Rocky Road to Romance - Janet Evanovich
+The Life-Changing Magic of Tidying - Marie Kondo
+The Fellowship of the Ring - J. R. R. Tolkien

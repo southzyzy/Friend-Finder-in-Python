@@ -1,17 +1,17 @@
-Name: Donette Ozuna
-Gender: F
-Country: Indonesia
-Acceptable_country: Japan, United States of America, Korea, Malaysia
-Age: 24
-Acceptable_age_range: 17-24
-Likes: Meditation, Kabaddi, Hooping, Birdwatching, Knife throwing
-Dislikes: Model aircraft, Skimboarding, Drawing, Animal fancy
+Name: Stanley Fiorini
+Gender: M
+Country: Japan
+Acceptable_country: Mexico, Thailand, Russia, Korea
+Age: 18
+Acceptable_age_range: 21-23
+Likes: Geocaching, Model aircraft, Badminton, Amateur astronomy, Hooping, Learning, Baton twirling, Electronics
+Dislikes: Skydiving, Dance, Model aircraft, Skimboarding, Learning, Sun bathing, Baton twirling
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-The Fellowship of the Ring - J. R. R. Tolkien
-About a Boy - Nick Hornby
-Thinking Architecture - Peter Zumthor
-The Award - Danielle Steel
+Cracking the Coding Interview - Gayle Laakmann
+Quantum Computing For Babies - Chris Ferrie
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Prodigal Son - Danielle Steel
+IT - Stephen King
+The Romance of the Three Kingdoms - Luo Guanzhong
 The Horror in the Museum - H. P. Lovecraft
-The Shining - Stephen King

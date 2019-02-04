@@ -1,15 +1,17 @@
-Name: Brandee Rosenbaum
+Name: Julianne Arana
 Gender: F
-Country: Indonesia
-Acceptable_country: Mexico, Mongolia, Singapore
-Age: 20
-Acceptable_age_range: 18-25
-Likes: Fishkeeping, Electronics, Baton twirling, Association football, Meditation
-Dislikes: Fishkeeping, Bowling, Skimboarding, Embroidery, Knife throwing
+Country: Japan
+Acceptable_country: Mexico, Singapore, Russia, Indonesia
+Age: 24
+Acceptable_age_range: 17-25
+Likes: Dance, Billiards, Laser tag, Drama, Skydiving, Amateur astronomy, Learning, Knife throwing, Do it yourself, Astrology
+Dislikes: Gardening, Learning, Microscopy, Badminton, Embroidery, Bird watching, Do it yourself, Birdwatching
 
 Books: 
-Fantastic Beasts and Where to Find Them - J.K Rowling
-Change of Heart - Jodi Picoult
-The Fault in Our Stars - John Green
-Science Encyclopedia - National Geographic
-The Hobbit - J. R. R. Tolkien
+The Righteous Mind - Jonathan Haidt
+The Cat in the Hat - Roald Dahl
+The Rocky Road to Romance - Janet Evanovich
+Swimming Anatomy - Ian McLeod
+The Night Before Christmas - Holly Hobbie
+The Amityville Horror - Jay Anson
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett

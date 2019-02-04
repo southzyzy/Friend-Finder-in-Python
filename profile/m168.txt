@@ -1,17 +1,17 @@
-Name: Rickie Dungan
-Gender: M
-Country: Korea
-Acceptable_country: United States of America, Singapore, Korea
-Age: 26
-Acceptable_age_range: 19-26
-Likes: Model aircraft, Slacklining, Horseback riding, Bowling
-Dislikes: Skydiving, Digital arts, Learning, Birdwatching, Skiing
+Name: Neville Steenberg
+Gender: F
+Country: Malaysia
+Acceptable_country: Mexico, United Kingdom, Russia
+Age: 19
+Acceptable_age_range: 17-23
+Likes: Hiking, Billiards, Amateur astronomy, Birdwatching, Embroidery, Bowling, Meditation, Bus spotting, Horseback riding
+Dislikes: Cryptography, Bowling, Microscopy, Animal fancy, Handball, Auto racing, Do it yourself
 
 Books: 
-Cracking the Coding Interview - Gayle Laakmann
-Charlie and the Chocolate Factory - Roald Dahl
+The Righteous Mind - Jonathan Haidt
+Let It Snow - John Green
+The Two Towers - J. R. R. Tolkien
 My Sister's Keeper - Jodi Picoult
-Computer Networking: A Top-Down Approach - James Kurose
-About a Boy - Nick Hornby
-The Fellowship of the Ring - J. R. R. Tolkien
-Prisoners of Geography - Tim Marshall
+The Fault in Our Stars - John Green
+Change of Heart - Jodi Picoult
+The Horror in the Museum - H. P. Lovecraft

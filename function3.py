@@ -37,11 +37,11 @@ class LIKES_DISLIKES(object):
                     if val in a:
                         count += 1.0
 
-                if term == "Likes":
+                if term == "Likes": # 3. if student B like smth and matched dislike same as the B_like == -0.5
                     for _ in i["Dislikes"].split(","):
                         if val in _:
                             count -= 0.5
-                else:
+                else: # if student B dislike smth and matched like same as the B_dislike == -0.5
                     for _ in i["Likes"].split(","):
                         if val in _:
                             count -= 0.5

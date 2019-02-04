@@ -1,16 +1,17 @@
-Name: Rico Prestwood
+Name: Isidro Walts
 Gender: F
-Country: Mexico
-Acceptable_country: China, Malaysia, Belgium, Korea
-Age: 26
-Acceptable_age_range: 19-25
-Likes: Snowboarding, Stone skipping, Hooping, Knife throwing
-Dislikes: Digital arts, Kart racing, Stone skipping, Surfing, Air sports
+Country: Singapore
+Acceptable_country: Malaysia, China, Russia, Singapore
+Age: 19
+Acceptable_age_range: 18-24
+Likes: Billiards, Skiing, Badminton, Amateur astronomy, Bowling, Snowboarding, Bus spotting, Astrology
+Dislikes: Gardening, Dance, Skydiving, Horseback riding, Learning, Bowling, Birdwatching, Astrology
 
 Books: 
-Cracking the Coding Interview - Gayle Laakmann
-Hop on Pop - Dr.Seuss
-My Sister's Keeper - Jodi Picoult
-IT - Stephen King
-The Romance of the Three Kingdoms - Luo Guanzhong
-About a Boy - Nick Hornby
+The Rocky Road to Romance - Janet Evanovich
+Fantastic Beasts and Where to Find Them - J.K Rowling
+The Very Hungry Caterpillar - Eric Carle
+The Life-Changing Magic of Tidying - Marie Kondo
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+Animal Encyclopedia - National Geographic
+The Hobbit - J. R. R. Tolkien

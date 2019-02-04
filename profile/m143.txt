@@ -1,17 +1,17 @@
-Name: Warner Fleishman
+Name: Neal Hightower
 Gender: F
-Country: Japan
-Acceptable_country: Indonesia, Singapore, United States of America, Thailand
-Age: 19
-Acceptable_age_range: 19-26
-Likes: Archery, Gardening, Skimboarding, Knife throwing, Marching band, Astrology
-Dislikes: Kabaddi, Do it yourself, Horseback riding, Microscopy, Astrology
+Country: United Kingdom
+Acceptable_country: Mexico, Korea, United Kingdom
+Age: 22
+Acceptable_age_range: 19-25
+Likes: High-power rocketry, Billiards, Australian rules football, Aircraft spotting, Learning, Sun bathing, Electronics, Astronomy, Meditation, Birdwatching
+Dislikes: Geocaching, Microscopy, Marching band, Model aircraft, Badminton, Learning, Snowboarding, Meditation, Drawing
 
 Books: 
-The Cat in the Hat - Roald Dahl
-Beowulf - J. R. R. Tolkien
-The Very Hungry Caterpillar - Eric Carle
-The Night Before Christmas - Holly Hobbie
-IT - Stephen King
-Matilda - Roald Dahl
-The Fellowship of the Ring - J. R. R. Tolkien
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Charlie and the Chocolate Factory - Roald Dahl
+The Rocky Road to Romance - Janet Evanovich
+Computer Networking: A Top-Down Approach - James Kurose
+Thinking Architecture - Peter Zumthor
+Three Poems - Hannah Sullivan
+The Hobbit - J. R. R. Tolkien

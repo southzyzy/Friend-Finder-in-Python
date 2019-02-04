@@ -1,16 +1,17 @@
-Name: Veta Capshaw
+Name: Judson Baughman
 Gender: M
-Country: Thailand
-Acceptable_country: Mongolia, Philippines, China, United Kingdom
-Age: 22
-Acceptable_age_range: 21-26
-Likes: High-power rocketry, Electronics, Billiards, Laser tag
-Dislikes: High-power rocketry, Australian rules football, Billiards, Dance, Surfing
+Country: Belgium
+Acceptable_country: Malaysia, Singapore, Mexico, Philippines
+Age: 19
+Acceptable_age_range: 21-23
+Likes: Australian rules football, Geocaching, Microscopy, Baton twirling, Model aircraft, Kart racing, Knife throwing, Sun bathing, Electronics, Digital arts
+Dislikes: Archery, Skiing, Dance, Kabaddi, Kart racing, Knife throwing, American football, Auto racing, Airsoft, Marching band
 
 Books: 
-Harry Potter and the Prisoner of Azkaban - J.K Rowling
-The Fault in Our Stars - John Green
-The BFG - Roald Dahl
-The Shining - Stephen King
-Animal Encyclopedia - National Geographic
-The Dead Zone - Stephen King
+Cracking the Coding Interview - Gayle Laakmann
+The Elements of Computing Systems - Noam Nisan
+Quantum Computing For Babies - Chris Ferrie
+The Brain That Changes Itself - Norman Doidge
+The Very Hungry Caterpillar - Eric Carle
+Change of Heart - Jodi Picoult
+Science Encyclopedia - National Geographic

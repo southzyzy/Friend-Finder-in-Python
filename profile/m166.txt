@@ -1,16 +1,16 @@
-Name: Melodie Retzlaff
+Name: Santos Principe
 Gender: M
-Country: Mexico
-Acceptable_country: Thailand, Malaysia, United Kingdom, Mongolia
-Age: 20
-Acceptable_age_range: 17-23
-Likes: Dance, American football, Kart racing, Embroidery, Handball, Birdwatching
-Dislikes: Archery, Gardening, Bus spotting, Skiing
+Country: Malaysia
+Acceptable_country: Japan, China, Indonesia
+Age: 25
+Acceptable_age_range: 17-25
+Likes: Archery, Gardening, Air sports, Baton twirling, Model aircraft, Amateur astronomy, Electronics, Do it yourself, Drama, Drawing, Birdwatching
+Dislikes: Geocaching, Kabaddi, Australian rules football, Aircraft spotting, Embroidery, Sun bathing, Bird watching, Baton twirling
 
 Books: 
-The Elements of Computing Systems - Noam Nisan
-The Cat in the Hat - Roald Dahl
-Matilda - Roald Dahl
-Modern Architecture - Kenneth Frampton
-The Night Before Christmas - Holly Hobbie
-Rock Climbing Anchors - Craig Luebben
+The Elements - Nick Mann
+Fantastic Beasts and Where to Find Them - J.K Rowling
+Swimming Anatomy - Ian McLeod
+My Sister's Keeper - Jodi Picoult
+The Life-Changing Magic of Tidying - Marie Kondo
+One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss

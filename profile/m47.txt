@@ -1,17 +1,17 @@
-Name: Justa Moberg
+Name: Keith Zipp
 Gender: M
-Country: China
-Acceptable_country: Philippines, Indonesia, Malaysia
-Age: 27
-Acceptable_age_range: 19-23
-Likes: Gardening, Hiking, Stone skipping, Kabaddi, Model aircraft, Skiing
-Dislikes: Geocaching, Archery, Model aircraft, Cryptography, Bowling
+Country: Indonesia
+Acceptable_country: Japan, China, Philippines, Thailand
+Age: 26
+Acceptable_age_range: 21-26
+Likes: Cryptography, Billiards, Laser tag, Microscopy, Skydiving, Kart racing, Knife throwing, Do it yourself
+Dislikes: Surfing, Association football, Embroidery, Geocaching, Stone skipping, Skydiving, Learning, Knife throwing, Auto racing
 
 Books: 
-Quantum Computing For Babies - Chris Ferrie
-The Rocky Road to Romance - Janet Evanovich
-The Two Towers - J. R. R. Tolkien
-IT - Stephen King
-Three Poems - Hannah Sullivan
-Animal Encyclopedia - National Geographic
-The Hobbit - J. R. R. Tolkien
+Cracking the Coding Interview - Gayle Laakmann
+Charlie and the Chocolate Factory - Roald Dahl
+Harry Potter and the Philosopher's Stone - J.K Rowling
+The Award - Danielle Steel
+Off the Leash: The Secret Life of Dogs - Rupert Fawcett
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Dead Zone - Stephen King

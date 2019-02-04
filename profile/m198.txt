@@ -1,17 +1,17 @@
-Name: Curt Bongiorno
+Name: Major Mode
 Gender: F
-Country: Japan
-Acceptable_country: United Kingdom, Mongolia, Indonesia, Thailand
-Age: 21
-Acceptable_age_range: 17-25
-Likes: Surfing, Air sports, Dance, Bowling, Kart racing, Animal fancy, Baton twirling
-Dislikes: Fishkeeping, Baton twirling, Badminton
+Country: Russia
+Acceptable_country: Japan, United Kingdom, Indonesia
+Age: 23
+Acceptable_age_range: 19-24
+Likes: Surfing, Stone skipping, Badminton, Model aircraft, Kart racing, Skimboarding, Amateur astronomy, Digital arts, Astronomy, Bus spotting
+Dislikes: Air sports, Crossword puzzles, High-power rocketry, Microscopy, Learning, Sun bathing
 
 Books: 
-The Righteous Mind - Jonathan Haidt
-Computer Networking: A Top-Down Approach - James Kurose
-Thinking Architecture - Peter Zumthor
-Harry Potter and the Philosopher's Stone - J.K Rowling
-One Fish, Two Fish, Red Fish, Blue Fish - Dr.Seuss
-Three Poems - Hannah Sullivan
-Animal Encyclopedia - National Geographic
+Harry Potter and the Prisoner of Azkaban - J.K Rowling
+Hop on Pop - Dr.Seuss
+Seven Brief Lessons on Physics - Carlo Rovelli
+The Romance of the Three Kingdoms - Luo Guanzhong
+The Fellowship of the Ring - J. R. R. Tolkien
+Swimming Anatomy - Ian McLeod
+Prisoners of Geography - Tim Marshall

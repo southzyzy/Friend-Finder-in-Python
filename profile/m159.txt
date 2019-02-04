@@ -1,16 +1,15 @@
-Name: Vannesa Maupin
+Name: Hector Elia
 Gender: M
-Country: Russia
-Acceptable_country: United Kingdom, Japan, Malaysia, Mongolia
-Age: 22
-Acceptable_age_range: 17-25
-Likes: Geocaching, Handball, Digital arts, Hooping, Learning
-Dislikes: Kabaddi, Knife throwing, Billiards, Marching band, Skiing
+Country: Philippines
+Acceptable_country: Philippines, China, Indonesia
+Age: 19
+Acceptable_age_range: 19-26
+Likes: Hiking, Model aircraft, Aircraft spotting, Skimboarding, Learning, Sun bathing, Electronics, Airsoft, Bus spotting, Astrology
+Dislikes: Archery, Hiking, Laser tag, Skydiving, Kart racing, Learning, Bowling, Astronomy, Marching band
 
 Books: 
-The Elements - Nick Mann
-The Life-Changing Magic of Tidying - Marie Kondo
-The Award - Danielle Steel
-Change of Heart - Jodi Picoult
-The Romance of the Three Kingdoms - Luo Guanzhong
-The Dead Zone - Stephen King
+Thinking Architecture - Peter Zumthor
+The Rocky Road to Romance - Janet Evanovich
+Three Poems - Hannah Sullivan
+Let It Snow - John Green
+Science Encyclopedia - National Geographic
