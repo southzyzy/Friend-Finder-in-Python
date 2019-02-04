@@ -40,7 +40,8 @@ def main():
 
     # Getting student B information
     student_B_name = sys.argv[1]
-    student_B_info = sb.STUDENT_B(profiles_df, student_B_name).student_B_info
+    student_B_info = sb.STUDENT_B(profiles_df)
+    student_B_info = student_B_info.check_name(student_B_name)
 
     #Verifying if the user profile exist
     temp_list = []
