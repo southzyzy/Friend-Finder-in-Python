@@ -38,22 +38,25 @@ class G_BOOKS():
 
         randNum = randomInt(len(rj["items"]))
 
-        book_id = rj["items"][randNum]["id"]
-        book_url = "https://www.googleapis.com/books/v1/volumes/" + book_id + "?key=" + self.googleapikey + "&fields=volumeInfo/categories"
-        req = requests.get(book_url)
-        book_info = req.json()
+        book_info = rj["items"][randNum]
+        # book_url = "https://www.googleapis.com/books/v1/volumes/" + book_id + "?key=" + self.googleapikey + "&fields=volumeInfo/categories"
+        print book_name
+        print r.url
+
+        # req = requests.get(book_url)
+        # book_info = req.json()
 
         genreList = [book_name]
         gl = book_info["volumeInfo"]["categories"]
-        ranIndex = randomInt(len(gl))
 
         # select a random index and choose the category
+        ranIndex = randomInt(len(gl))
         gl = gl[ranIndex]
         genreList.append(gl)
 
-        genre_df = pd.DataFrame([genreList], columns=["Book", "Genre"])
-        genre_df["Genre"] = genre_df.Genre.str.replace(" / ", ",")
-        return genre_df
+        # genre_df = pd.DataFrame([genreList], columns=["Book", "Genre"])
+        # genre_df["Genre"] = genre_df.Genre.str.replace(" / ", ",")
+        print genreList
 
 
 if __name__ == "__main__":
@@ -68,11 +71,14 @@ if __name__ == "__main__":
     profiles_list = f1.FUNCTION_1(profiles=PROFILES, files=pro_files)
     profiles_df = profiles_list.profilesDF(profiles_list.HEADERS, profiles_list.DATA)
 
-    student_B_name = "Joel Jackson"
-    student_B_info = sb.STUDENT_B(profiles_df, student_B_name).student_B_info
-    print student_B_info["Books"].values
+    # student_B_name = "Yulanda Martinez"
+    # student_B_info = sb.STUDENT_B(profiles_df)
+    # student_B_info = student_B_info.check_name(student_B_name)
+    # print student_B_info["Books"].values
 
 
-    # bk = G_BOOKS(aes, enc, sys.argv[1])
-    # bk.search("The God who is there")
+    bk = G_BOOKS(aes, enc, sys.argv[1])
+    for i in profiles_df.Books.values:
+        for a in  i.split(","):
+            bk.search(a)
     print("\n--- Program Runtime: ---\n %s seconds " % (time.time() - start_time))
