@@ -13,27 +13,34 @@ key_files = [file for file in os.listdir(API_KEY) if file.endswith(".bin")]  # l
 
 
 def main():
-    """ This part serves function 1 """
-    profiles_list = f1.FUNCTION_1(profiles=PROFILES, files=pro_files)
-    profiles_df = profiles_list.profilesDF(profiles_list.HEADERS, profiles_list.DATA)
+    try:
+        """ This part serves function 1 """
+        profiles_list = f1.FUNCTION_1(profiles=PROFILES, files=pro_files)
+        profiles_df = profiles_list.profilesDF(profiles_list.HEADERS, profiles_list.DATA)
 
-    """ Getting student B information """
-    student_B_name = "Genny Mulroy"
-    student_B_info = sb.STUDENT_B(profiles_df, student_B_name).student_B_info
+        """ Getting student B information """
+        student_B_name = "Yulanda Martinez"
+        student_B_info = sb.STUDENT_B(profiles_df)
+        student_B_info = student_B_info.check_name(student_B_name)
 
-    """ This part serves function 2 """
-    f2_df = f2.COUNTRY_MATCH(profiles_df, student_B_name, student_B_info).countries_matches
+        """ This part serves function 2 """
+        f2_df = f2.COUNTRY_MATCH(profiles_df, student_B_name, student_B_info).countries_matches
 
-    """ This part serves function 3 """
-    f3_matches = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
+        """ This part serves function 3 """
+        f3_matches = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
 
-    f3_matches_lst = f3_matches.temp_list  # converting dataframe to list
+        f3_matches_lst = f3_matches.temp_list  # converting dataframe to list
 
-    countLikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Likes")  # count the no. of likes
-    countDislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes")  # count the no. of dislikes
+        countLikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Likes")  # count the no. of likes
+        countDislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes")  # count the no. of dislikes
 
-    f3_df = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
-    print f3_df.head(n=3)[["Name", "Gender", "Rank"]]
+        f3_df = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
+        print f3_df.head(n=3)[["Name", "Gender", "Rank"]]
+
+    except Exception as e:
+        print e
+
+
 
 
 if __name__ == '__main__':
