@@ -7,4 +7,4 @@ class STUDENT_B:
             return self.df.loc[self.df["Name"].isin([name])]
 
         else:
-            return "No such user in the dataset!"
+            print "No such user in the dataset!"

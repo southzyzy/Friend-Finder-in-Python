@@ -19,7 +19,7 @@ def main():
         profiles_df = profiles_list.profilesDF(profiles_list.HEADERS, profiles_list.DATA)
 
         """ Getting student B information """
-        student_B_name = "Yulanda Martinez"
+        student_B_name = "Joel Jackson"
         student_B_info = sb.STUDENT_B(profiles_df)
         student_B_info = student_B_info.check_name(student_B_name)
 
