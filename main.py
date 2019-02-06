@@ -1,8 +1,16 @@
-import warnings, time, os
+import os
+import sys
+import time
+import warnings
+from multiprocessing import Process, Queue, Pool
+from multiprocessing.managers import BaseManager
+
+import AESCipher
+import student_B as sb
 import function1 as f1
 import function2 as f2
 import function3 as f3
-import student_B as sb
+import function4 as f4
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
 PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
@@ -37,14 +45,26 @@ def main():
         f3_df = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
         print f3_df.head(n=3)[["Name", "Gender", "Rank"]]
 
+        """ This part serves function 4 """
+        aes = AESCipher
+        api_dir = "D:/SIT/ICT-1002 Programming Fundamentals/ICT1002_Tinder\keys/api-key.txt.bin"
+        api_file = open(api_dir, "r")
+        enc = api_file.read()
+        api_file.close()
+
+        bk = f4.G_BOOKS(aes, enc, sys.argv[1])
+        for book in student_B_info.Books.values:
+            for _ in book.split(","):
+                result = bk.search(_.rstrip())
+
+        print result
+
     except Exception as e:
         print e
 
 
-
-
 if __name__ == '__main__':
-    warnings.filterwarnings('ignore')
     start_time = time.time()
+    warnings.filterwarnings('ignore')
     main()
     print("\n--- Program Runtime: ---\n %s seconds " % (time.time() - start_time))
