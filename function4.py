@@ -45,10 +45,7 @@ class G_BOOKS():
 
         gl = book_info["volumeInfo"]["categories"]
 
-        # select a random index and choose the category
-        randIndex = randomInt(len(gl))
-        gl = gl[randIndex]
-        genreList.append(book_name + "-" + gl)
+        genreList.append(book_name + "-" + gl[0])
 
         return genreList
 

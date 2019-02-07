@@ -27,7 +27,7 @@ def main():
         profiles_df = profiles_list.profilesDF(profiles_list.HEADERS, profiles_list.DATA)
 
         """ Getting student B information """
-        student_B_name = "Joel Jackson"
+        student_B_name = "Michael Jackson"
         student_B_info = sb.STUDENT_B(profiles_df)
         student_B_info = student_B_info.check_name(student_B_name)
 
@@ -43,7 +43,7 @@ def main():
         countDislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes")  # count the no. of dislikes
 
         f3_df = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
-        print f3_df.head(n=3)[["Name", "Gender", "Rank"]]
+        # print f3_df.head(n=3)[["Name", "Gender", "Rank"]]
 
         """ This part serves function 4 """
         aes = AESCipher
@@ -54,7 +54,7 @@ def main():
 
         bk = f4.G_BOOKS(aes, enc, sys.argv[1])
         for book in student_B_info.Books.values:
-            for _ in book.split(","):
+            for _ in book.split("|"):
                 result = bk.search(_.rstrip())
 
         print result

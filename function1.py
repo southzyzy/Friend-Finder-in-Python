@@ -11,7 +11,7 @@ def formattingData(df):
     df["Acceptable_country"] = df.Acceptable_country.str.replace(", ", ",")  # remove the white space after ,
     df["Likes"] = df.Likes.str.replace(", ", ",")  # remove white spaces after ,
     df["Dislikes"] = df.Dislikes.str.replace(", ", ",")  # remove white spaces after ,
-    df = df.replace('\n', ',', regex=True)  # replace all the \n in Books to ','
+    df = df.replace('\n', '|', regex=True)  # replace all the \n in Books to ','
 
     return df
 
