@@ -1,12 +1,7 @@
-import os
 import requests
 import random
+import re
 
-# The path where the dating profiles are stored
-CURENT_DIR = os.path.dirname(__file__)  # specify current directory
-PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
-API_KEY = os.path.join(CURENT_DIR, "keys/")
-pro_files = [file for file in os.listdir(PROFILES) if file.endswith(".txt")]
 genreList = []
 
 
@@ -45,9 +40,10 @@ class G_BOOKS():
 
         gl = book_info["volumeInfo"]["categories"]
 
-        genreList.append(book_name + "-" + gl[0])
-
+        genreList.append(gl[0])
         return genreList
 
-    def compareBooks(self):
-        print "HelloWorld"
+    def compareBooks(self, genreList, student_B_info):
+        student_B_info['Books_Genre'] = ",".join(set(genreList))
+        student_B_info.drop_duplicates(subset="Books_Genre", inplace=True)
+        return student_B_info["Books_Genre"].values

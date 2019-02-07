@@ -1,4 +1,4 @@
-class STUDENT_B:
+class STUDENT_B(object):
     def __init__(self, df):
         self.df = df
 
