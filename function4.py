@@ -1,6 +1,5 @@
 import requests
 import random
-import re
 
 genreList = []
 
@@ -41,9 +40,8 @@ class G_BOOKS():
         gl = book_info["volumeInfo"]["categories"]
 
         genreList.append(gl[0])
-        return genreList
+        print list(set(genreList))
 
-    def compareBooks(self, genreList, student_B_info):
-        student_B_info['Books_Genre'] = ",".join(set(genreList))
-        student_B_info.drop_duplicates(subset="Books_Genre", inplace=True)
-        return student_B_info["Books_Genre"].values
+    def sbBookGenre(self, genreList, df):
+        df['Books_Genre'] = ",".join(set(genreList))
+        return df
