@@ -47,7 +47,7 @@ def main():
 
     while program_exit != True:
         
-        # Option 1
+        #Option 1: List all the names, gender and age from all the profiles.
         if user_input == "1":
             print profiles_df
             raw_input("Press Enter to continue...")
@@ -68,7 +68,7 @@ def main():
             #Promt the user to enter his/her profile name 
             student_B_name = raw_input("Please Enter A Profile Name: ")
 
-            #Verifying if the user profile exist
+            #Verifying that the user profile exist
             temp_list = []
 
             for name in profiles_df["Name"]:
@@ -83,7 +83,7 @@ def main():
                 """Put this here"""
                 f2_df = f2.COUNTRY_MATCH(profiles_df, student_B_name, student_B_info).countries_matches
 
-                #Option 2
+                #Option 2: List all the matched students of one given student B based on country.
                 if user_input == "2":
                     print f2_df
                     raw_input("Press Enter to continue...")
@@ -92,7 +92,7 @@ def main():
                     options()
                     user_input = raw_input("Enter your option: ")
 
-                #Option 3
+                #Option 3: List the top 3 best matched students who share the most similar likes or dislikes for one given student B.
                 elif user_input == "3":
                     f3_matches = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKESel
                     f3_matches_lst = f3_matches.temp_list  # converting dataframe to list
@@ -108,7 +108,7 @@ def main():
                     options()
                     user_input = raw_input("Enter your option: ")
 
-                #Option 4
+                #Option 4: List the top 3 best matched students based on books they like.
                 elif user_input == "4":
                     print "test4"
                     raw_input("Press Enter to continue...")
@@ -117,7 +117,7 @@ def main():
                     options()
                     user_input = raw_input("Enter your option: ")
 
-                #Option 5
+                #Option 5: List the top 3 best matched students based on the overall profile information which may include all the personal information for ranking.
                 elif user_input == "5":
                     print "test5"
                     raw_input("Press Enter to continue...")
@@ -126,14 +126,42 @@ def main():
                     options()
                     user_input = raw_input("Enter your option: ")
 
-                #Option 6
+                #Option 6: Store all the best matched students into one .csv file on the disk.
                 elif user_input == "6":
-                    print "test6"
+                    print "\n"
+                    
+                    #Prompt the user to enter the file name of the .csv file 
+                    file_name = raw_input("Enter a file name: ")
+
+                    #calling the class LIKES_DISLIKESel
+                    f3_matches = f3.LIKES_DISLIKES(f2_df)  
+
+                    #converting dataframe to list
+                    f3_matches_lst = f3_matches.temp_list  
+
+                    #count the no. of likes
+                    countLikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Likes")
+
+                    #count the no. of dislikes
+                    countDislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes")  
+
+                    f3_df = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
+
+           
+
+                    #Export to csv file 
+                    f3_df.to_csv(file_name + ".csv")
+                    
+                    print "File Successfully exported!"
+                                    
                     raw_input("Press Enter to continue...")
                     os.system("cls")
                     display_ui()
                     options()
                     user_input = raw_input("Enter your option: ")
+					
+					
+		
                     
             #User Profile Does Not Exist 
             else:
@@ -181,16 +209,7 @@ def main():
         else:
             print "Invalid Input Entered! \n" 
             user_input = raw_input("Please Re-Enter your option: ")
-
-
-
-
-
-
-
-
-
-        
+			
 if __name__ == '__main__':
     warnings.filterwarnings('ignore')
     start_time = time.time()
