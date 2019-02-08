@@ -48,3 +48,19 @@ class FUNCTION_1(object):
         df = formattingData(df)  # format and make data nicer
         df["Rank"] = 0.0  # create a column Rank to rank the matches
         return df
+
+    def writeBooks2File(self, book_list):
+        file_dir = 'D:/SIT/ICT-1002 Programming Fundamentals/ICT1002_Tinder/bookslist.txt'
+
+        # store all the books in the a text file
+        BOOKS = []
+        condition = map(lambda b: b.split("|"), book_list)
+        for i in condition:
+            map(lambda a: BOOKS.append(a.rstrip()), i)
+
+        BOOKS = list(set(BOOKS))
+        for val in BOOKS:
+            if not val in open(file_dir, "r").read():
+                f = open(file_dir, "a")
+                f.write(val+"\n")
+                f.close()
