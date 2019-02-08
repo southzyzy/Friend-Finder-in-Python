@@ -35,11 +35,16 @@ def options():
 def main():
     profiles_list = f1.FUNCTION_1(profiles = PROFILES, files = pro_files)
     profiles_df = profiles_list.profilesDF(profiles_list.HEADERS, profiles_list.DATA)
-     
-    acceptable_inputs = ["1", "2", "3", "4", "5", "6", "7"]
 
     # Getting student B information
-    student_B_name = sys.argv[1]
+    #If the user's name comprises of only one word 
+    if len(sys.argv) == 2:
+        student_B_name = sys.argv[1]
+
+    #If the user's name comprises of two words 
+    else:
+        student_B_name = sys.argv[1] + " " + sys.argv[2]
+        
     student_B_info = sb.STUDENT_B(profiles_df)
     student_B_info = student_B_info.check_name(student_B_name)
 
@@ -55,6 +60,7 @@ def main():
     else:
         cowsay.tux("User Profile Does Not Exist! Exiting Program!")
         exit()
+
         
     #Display banner & Options
     display_ui()
@@ -63,71 +69,75 @@ def main():
     # Getting user to input his/her option
     user_input = raw_input("Enter your option: ")
 
-    # User entered a valid input
-    if user_input in acceptable_inputs:
+    program_exit = False 
 
-        while user_input in acceptable_inputs:
-            """Put this here"""
-            f2_df = f2.COUNTRY_MATCH(profiles_df, student_B_name, student_B_info).countries_matches
-
-            # Option 1
-            if user_input == "1":
-                print profiles_df
-                raw_input("Press Enter to continue...")
-                print "\n \n"
-
-            # Option 2
-            elif user_input == "2":
-                print f2_df
-                raw_input("Press Enter to continue...")
-                print "\n \n"
-
-            # Option 3
-            elif user_input == "3":
-                f3_matches = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKESel
-                f3_matches_lst = f3_matches.temp_list  # converting dataframe to list
-
-                countLikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Likes")  # count the no. of likes
-                countDislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes")  # count the no. of dislikes
-
-                f3_df = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
-                print f3_df.head(n=5)[["Name", "Gender", "Rank"]]
-                raw_input("Press Enter to continue...")
-                print "\n \n"
-
-            # Option 4
-            elif user_input == "4":
-                print "test4"
-                raw_input("Press Enter to continue...")
-
-            # Option 5
-            elif user_input == "5":
-                print "test5"
-                raw_input("Press Enter to continue...")
-
-            # Option 6
-            elif user_input == "6":
-                print "test6"
-                raw_input("Press Enter to continue...")
-
-            # Option 7
-            elif user_input == "7":
-                print "Thank You for Using 1002_Tinder!"
-                print "Have a nice day!"
-                raw_input()
-                break
-
+    while program_exit != True:
+        """Put this here"""
+        f2_df = f2.COUNTRY_MATCH(profiles_df, student_B_name, student_B_info).countries_matches
+        
+        # Option 1
+        if user_input == "1":
+            print profiles_df
+            raw_input("Press Enter to continue...")
+            print "\n \n"
             options()
             user_input = raw_input("Enter your option: ")
 
-    #User entered an invalid input 
-    else:
-        print "Invalid Option Entered!" 
-        user_input = raw_input("Enter your option: ")
-        #print "Invalid Option Entered! Exiting Program."
-        #print "Thank You for Using 1002_Tinder!"
+        # Option 2
+        elif user_input == "2":
+            print f2_df
+            raw_input("Press Enter to continue...")
+            print "\n \n"
+            options()
+            user_input = raw_input("Enter your option: ")
 
+        # Option 3
+        elif user_input == "3":
+            f3_matches = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKESel
+            f3_matches_lst = f3_matches.temp_list  # converting dataframe to list
 
+            countLikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Likes")  # count the no. of likes
+            countDislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes")  # count the no. of dislikes
+
+            f3_df = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
+            print f3_df.head(n=5)[["Name", "Gender", "Rank"]]
+            raw_input("Press Enter to continue...")
+            print "\n \n"
+            options()
+            user_input = raw_input("Enter your option: ")
+
+        # Option 4
+        elif user_input == "4":
+            print "test4"
+            raw_input("Press Enter to continue...")
+            options()
+            user_input = raw_input("Enter your option: ")
+
+        # Option 5
+        elif user_input == "5":
+            print "test5"
+            raw_input("Press Enter to continue...")
+            options()
+            user_input = raw_input("Enter your option: ")
+
+        # Option 6
+        elif user_input == "6":
+            print "test6"
+            raw_input("Press Enter to continue...")
+            options()
+            user_input = raw_input("Enter your option: ")
+
+        # Option 7
+        elif user_input == "7":
+            print "Thank You for Using 1002_Tinder!"
+            print "Have a nice day!"
+            exit()
+
+        # User Entered an Invalid Input 
+        else:
+            print "Invalid Input Entered! \n" 
+            user_input = raw_input("Please Re-Enter your option: ")
+        
 if __name__ == '__main__':
     warnings.filterwarnings('ignore')
     start_time = time.time()
