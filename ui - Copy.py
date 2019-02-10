@@ -5,6 +5,7 @@ import warnings, time, os
 import function1 as f1
 import function2 as f2
 import function3 as f3
+import function8 as f8
 import student_B as sb
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
@@ -56,17 +57,17 @@ def main():
             options()
             user_input = raw_input("Enter your option: ")
 
-        #Option 7
+        #Option 7: Exit.
         elif user_input == "7":
             print "Thank You for Using 1002_Tinder!"
             print "Have a nice day!"
             exit()
 
         #Option 2 to Option 6 
-        elif user_input == "2" or user_input == "3" or user_input == "4" or user_input == "5" or user_input == "6":
+        elif user_input == "2" or user_input == "3" or user_input == "4" or user_input == "5" or user_input == "6" or user_input == "8":
             
             #Promt the user to enter his/her profile name 
-            student_B_name = raw_input("Please Enter A Profile Name: ")
+            student_B_name = raw_input("Enter a profile name: ")
 
             #Verifying that the user profile exist
             temp_list = []
@@ -147,8 +148,6 @@ def main():
 
                     f3_df = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
 
-           
-
                     #Export to csv file 
                     f3_df.to_csv(file_name + ".csv")
                     
@@ -159,51 +158,63 @@ def main():
                     display_ui()
                     options()
                     user_input = raw_input("Enter your option: ")
+
+                #Exprimentation Function
+                elif user_input == "8":
+                    f8.function8(profiles_df)
+
+                    raw_input("Press Enter to continue...")
+                    os.system("cls")
+                    display_ui()
+                    options()
+                    user_input = raw_input("Enter your option: ")
 					
-					
-		
-                    
             #User Profile Does Not Exist 
             else:
-                os.system("cls")
-                cowsay.tux("User Profile Does Not Exist Within Our Database!")
-                print "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-"
-                print "Do You Wish To Display the Names of Students of a Specific Gender?"
-                print "1. Display the Names of All Male Students."
-                print "2. Display the Names of All Female Students."
-                print "3. Return to Main Menu."
-                print "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-"
+                #Display the second menu 
+                def options_2():
+                    os.system("cls")
+                    cowsay.tux("User Profile Does Not Exist Within Our Database!")
+                    print "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-"
+                    print "Do You Wish To Display the Names of Students of a Specific Gender?"
+                    print "1. Display the Names of All Male Students."
+                    print "2. Display the Names of All Female Students."
+                    print "3. Return to Main Menu."
+                    print "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-"
                 
+                #Display the second menu 
+                options_2()
+
                 user_input_2 = raw_input("Enter your option: ")
 
-                #Option 1: Display the names of all male students 
-                if user_input_2 == "1":
+                while user_input_2 != "3":
                 
-                    print profiles_df[profiles_df['Gender'] == "M"]
-
-                    raw_input("Press Enter to continue...")
-                    os.system("cls")
-                    display_ui()
-                    options()
-                    user_input = raw_input("Enter your option: ")
+                    #Option 1: Display the names of all male students 
+                    if user_input_2 == "1":
                     
-                #Option 2: Display the names of all female students 
-                if user_input_2 == "2":
+                        print profiles_df[profiles_df['Gender'] == "M"]
+
+                        raw_input("Press Enter to continue...")
+                        os.system("cls")
+                        options_2()
+                        user_input_2 = raw_input("Enter your option: ")
+                     
+                    #Option 2: Display the names of all female students 
+                    if user_input_2 == "2":
+                        
+                        print profiles_df[profiles_df['Gender'] == "F"]
+
+                        raw_input("Press Enter to continue...")
+                        os.system("cls")
+                        options_2()
+                        user_input_2 = raw_input("Enter your option: ")
                     
-                    print profiles_df[profiles_df['Gender'] == "F"]
-
-                    raw_input("Press Enter to continue...")
-                    os.system("cls")
-                    display_ui()
-                    options()
-                    user_input = raw_input("Enter your option: ")
-
-                #Option 3: Return to Main Menu  
-                if user_input_2 == "3":
-                    os.system("cls")
-                    display_ui()
-                    options()
-                    user_input = raw_input("Enter your option: ")
+                    #Option 3: Return to Main Menu  
+                    if user_input_2 == "3":
+                        os.system("cls")
+                        display_ui()
+                        options()
+                        user_input = raw_input("Enter your option: ")
 
         #User Entered an Invalid Input 
         else:
