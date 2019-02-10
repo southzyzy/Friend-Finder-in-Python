@@ -2,7 +2,6 @@ import os
 import sys
 import time
 import warnings
-from multiprocessing import Process
 
 import AESCipher
 import student_B as sb
@@ -20,22 +19,13 @@ key_files = [file for file in os.listdir(API_KEY_DIR) if file.endswith(".bin")] 
 booklist_dir = CURENT_DIR + '/bookslist.txt'
 
 
-def updateBookGenre():
-    aes = AESCipher
+def getAPIKey():
     api_dir = API_KEY_DIR + key_files[0]
     api_file = open(api_dir, "r")
     enc = api_file.read()
     api_file.close()
 
-    book_file = open(booklist_dir, "r")
-    line = book_file.read().splitlines()
-
-    bk = f4.G_BOOKS(aes, enc, sys.argv[1])
-    book_genre_dict = bk.get_book_genre(line)
-    for key, value in book_genre_dict.iteritems():
-        bk.update_file(booklist_dir, key, value)
-
-    book_file.close()
+    return enc
 
 
 def main(student_B_name):
@@ -59,11 +49,36 @@ def main(student_B_name):
 
         f3_matches_lst = f3_matches.temp_list  # converting dataframe to list
 
-        countLikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Likes")  # count the no. of likes
-        countDislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes")  # count the no. of dislikes
+        count_likes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Likes")  # count the no. of likes
+        count_dislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes")  # count the no. of dislikes
 
-        f3_df = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
-        # print f3_df.head(n=3)[["Name", "Gender", "Rank"]]
+        f3_df = f3_matches.matches(count_likes, count_dislikes, f3_matches_lst)
+        print f3_df.head(n=3)[["Name", "Gender", "Rank"]]
+
+        """ This part serves function 4 """
+        aes = AESCipher
+        enc = getAPIKey()
+        bk = f4.G_BOOKS(aes, enc, sys.argv[1])
+
+        book_file = open(booklist_dir, "r")
+        line = book_file.read().splitlines()
+
+        book_genre_dict = bk.get_book_genre(line)
+        for key, value in book_genre_dict.iteritems():
+            bk.update_file(booklist_dir, key, value)
+
+        book_file.close()
+
+        # Loading the updated list
+        bk_dict = {}
+        with open(booklist_dir) as bk_file:
+            for line in bk_file.read().splitlines():
+                (key, value) = line.split("::")
+                bk_dict[key] = value
+
+        count_genre = bk.count_book_match(f3_matches_lst, student_B_info, bk_dict)
+        f4_df = bk.matches(count_genre, f3_matches_lst)
+        print f4_df.head(n=3)[["Name", "Gender", "Rank"]]
 
     except Exception as e:
         print e
@@ -73,16 +88,7 @@ if __name__ == '__main__':
     start_time = time.time()
     student_B_name = "Joel Jackson"
 
-    # main_process = Process(target=main, args=(student_B_name,))
-    # main_process.start()
-
-    # updatebook_process = Process(target=updateBookGenre)
-    # updatebook_process.start()
-    # updatebook_process.join()
-
     main(student_B_name)
-    updateBookGenre()
-
 
     print("\n--- Program Runtime: ---\n %s seconds " % (time.time() - start_time))
     sys.exit()
