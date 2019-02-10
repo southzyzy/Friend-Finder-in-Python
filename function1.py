@@ -62,8 +62,16 @@ class FUNCTION_1(object):
 
         BOOKS = list(set(BOOKS))
 
+        rf = open(booklist_dir, "r").read().splitlines()
+        af = open(booklist_dir, "a")
+
+        re_genre = []
+
+        for book in rf:
+            if re.findall("::.*", book):
+                re_genre.append(re.sub(re.findall("::.*", book)[0], '', book).rstrip())
+
         for val in BOOKS:
-            if val+'\n' not in open(booklist_dir, "r").read():
-                f = open(booklist_dir, "a")
-                f.write(val + "\n")
-                f.close()
+            if val not in rf and val not in re_genre:
+                af.write(val + '\n')
+        af.close()

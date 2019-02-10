@@ -33,7 +33,7 @@ def updateBookGenre():
     bk = f4.G_BOOKS(aes, enc, sys.argv[1])
     book_genre_dict = bk.get_book_genre(line)
     for key, value in book_genre_dict.iteritems():
-        bk.updateFile(booklist_dir, key, value)
+        bk.update_file(booklist_dir, key, value)
 
     book_file.close()
 

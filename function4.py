@@ -67,7 +67,7 @@ class G_BOOKS():
 
         return book_genre_dict
 
-    def updateFile(self, booklist_dir, old_string, new_string):
+    def update_file(self, booklist_dir, old_string, new_string):
         new_string = old_string + " :: " + new_string[0]
         # Safely read the input filename using 'with'
         with open(booklist_dir) as f:
@@ -77,3 +77,7 @@ class G_BOOKS():
         with open(booklist_dir, 'w') as f:
             s = s.replace(old_string+"\n", new_string+"\n")
             f.write(s)
+
+    # def count_book_match(self, booklist_dir):
+
+
