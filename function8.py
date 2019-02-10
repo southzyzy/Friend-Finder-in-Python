@@ -5,13 +5,29 @@ Let him play 3 tries. He win alr then reveal the instagram id then say Congratul
 '''
 
 import pandas as pd
+import function2 as f2
+import random 
 
-def guessing_game(likes, dislikes, lucky_person):
+def function8(user_data):
 
-    guess_1 = raw_input("Guess a like of " + lucky_person + ": ")
+    name_list = []
+
+    for name in user_data["Name"]:
+        name_list.append(name)
+
+    print name_list 
+        
+
+
+    
+
+    
 
 
 
 #Maybe do like a best match 
 #Then play game
 #If win, reveal instagram id 
+
+
+print "Congratulations, follow him/her to start chatting with each other!" 
