@@ -62,16 +62,17 @@ class FUNCTION_1(object):
 
         BOOKS = list(set(BOOKS))
 
-        rf = open(booklist_dir, "r").read().splitlines()
+        rf = open(booklist_dir, "r").read().splitlines() # Returns a list
         af = open(booklist_dir, "a")
 
-        re_genre = []
+        have_genre = []  # Create empty list to store books that alr have genre
 
         for book in rf:
-            if re.findall("::.*", book):
-                re_genre.append(re.sub(re.findall("::.*", book)[0], '', book).rstrip())
+            if re.findall("::.*", book):  # Find all books that have genre
+                have_genre.append(re.sub(re.findall("::.*", book)[0], '',
+                                         book).rstrip())  # Remove the genre so and add the book name that have a genre
 
         for val in BOOKS:
-            if val not in rf and val not in re_genre:
+            if val not in rf and val not in have_genre:
                 af.write(val + '\n')
         af.close()
