@@ -1,5 +1,6 @@
 import pandas as pd
 import re
+import os
 
 
 def formattingData(df):
@@ -49,18 +50,20 @@ class FUNCTION_1(object):
         df["Rank"] = 0.0  # create a column Rank to rank the matches
         return df
 
-    def writeBooks2File(self, book_list):
-        file_dir = 'D:/SIT/ICT-1002 Programming Fundamentals/ICT1002_Tinder/bookslist.txt'
-
+    def writeBooks2File(self, booklist_dir, book_list):
         # store all the books in the a text file
+        if not os.path.exists(booklist_dir):
+            open(booklist_dir, "w").close()
+
         BOOKS = []
         condition = map(lambda b: b.split("|"), book_list)
         for i in condition:
             map(lambda a: BOOKS.append(a.rstrip()), i)
 
         BOOKS = list(set(BOOKS))
+
         for val in BOOKS:
-            if not val in open(file_dir, "r").read():
-                f = open(file_dir, "a")
-                f.write(val+"\n")
+            if val+'\n' not in open(booklist_dir, "r").read():
+                f = open(booklist_dir, "a")
+                f.write(val + "\n")
                 f.close()
