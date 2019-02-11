@@ -18,7 +18,7 @@ class LIKES_DISLIKES(object):
                 "Rank": x['Rank']
             }, axis=1))
 
-    def countMatch(self, temp_list, B_lst, term):
+    def countMatch(self, temp_list, sb_info, term):
         """
             ### Counting Likes and Dislikes
             1. if student B likes and matched likes same == +1
@@ -26,7 +26,7 @@ class LIKES_DISLIKES(object):
             3. if student B like smth and matched dislike same as the B_like == -0.5
             4. if student B dislike smth and matched like same as the B_dislike == -0.5
          """
-        similarities_list = B_lst[term].values[0].split(",")
+        similarities_list = sb_info[term].values[0].split(",")
 
         count = 0
         d = {}
@@ -51,10 +51,10 @@ class LIKES_DISLIKES(object):
 
         return d
 
-    def matches(self, countLikes, countDislikes, temp_list):
+    def matches(self, count_likes, count_dislikes, temp_list):
         for i in temp_list:
-            i["Rank"] += countLikes.get(i["Name"])
-            i["Rank"] += countDislikes.get(i["Name"])
+            i["Rank"] += count_likes.get(i["Name"])
+            i["Rank"] += count_dislikes.get(i["Name"])
 
         f3_df = pd.DataFrame.from_dict(temp_list, orient='columns')
         return f3_df.sort_values(by=["Rank"], ascending=False)
