@@ -36,8 +36,7 @@ def display_ui():
     print "4. List the top 3 best matched students based on books they like."
     print "5. List the top 3 best matched students based on the overall profile information which may include all the personal information for ranking."
     print "6. Store all the best matched students into one .csv file on the disk."
-    print "7. 
-    print "8. Exit."
+    print "7. Exit."
     print "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
 
 #Main Program 
@@ -69,7 +68,7 @@ def main():
             user_input = raw_input("Enter your option: ")
 
         #Option 7: Exit.
-        elif user_input == "8":
+        elif user_input == "7":
             print "Thank You for Using 1002_Tinder!"
             print "Have a nice day!"
             program_exit = True
@@ -174,9 +173,6 @@ def main():
                     os.system("cls")
                     display_ui()
                     user_input = raw_input("Enter your option: ")
-
-
-                #Option 
 					
             #Scenario 2: User Profile Does Not Exist 
             else:
