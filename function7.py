@@ -30,7 +30,7 @@ def birthdayRangeCalculator(birthday):
     range = birthdayLowerRange.strftime("%B %d") + " to " + birthdayUpperRange.strftime("%B %d")
     return range
 
-#Generate
+#Generate choices
 def choiceGenerator(birthday):
     userBirthday = dt.datetime.strptime(birthday, "%Y-%m-%d").date()
     num = 1;
@@ -48,8 +48,16 @@ def choiceGenerator(birthday):
         num += 1;
     return result
 
+def multipleCalculator(birthday):
+    userBirthday = dt.datetime.strptime(birthday,"%Y-%m-%d").date()
+    day = userBirthday.day;
+    if day % 2 == 0:
+        return "Even"
+    else:
+        return "Odd"
+
 def startGame():
-    print "Welcome to Function 6 game!"
+    print "Welcome to Function 7 game!"
     print "We have selected a few candidates that you might like to view in this function..."
     print "However we think it is best that you get to know them a little more through a small game!"
     print " "
@@ -58,7 +66,7 @@ def startGame():
     #Birthday range hint
     print "Their birthday is in the range of %s" %(birthdayRangeCalculator(birthday))
     #Multiple of number hint
-
+    print "The day of their birthday is also a/an %s" %multipleCalculator(birthday) + " number"
     #Obtain the three multiple choices that the user can pick. Note that the answer is true string answer.
     choices = choiceGenerator(birthday)
     correctChoice = choices[1] #Predefined correct answer before reshuffling the choice deck
@@ -81,5 +89,3 @@ def startGame():
     print "---"
     #Ask player if they wish to guess another candidate. Limit to the number of available candidates (5 people likely)
     answer = raw_input("Would you like to guess another one of your top few most matched candidate (Y/N)?:")
-
-
