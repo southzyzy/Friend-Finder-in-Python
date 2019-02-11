@@ -193,8 +193,11 @@ def main():
                 #Prompt the user to enter an input 
                 user_input_2 = raw_input("Enter your option: ")
 
-                while user_input_2 != "3":
+                #Variable to determine the state of the program 
+                program_exit_2 = False
                 
+                while program_exit_2 != True:
+                    
                     #Option 1: Display the names of all the male students 
                     if user_input_2 == "1":
 
@@ -207,7 +210,7 @@ def main():
                         user_input_2 = raw_input("Enter your option: ")
                      
                     #Option 2: Display the names of all the female students 
-                    if user_input_2 == "2":
+                    elif user_input_2 == "2":
 
                         #Display the names of all the female students 
                         print profiles_df[profiles_df['Gender'] == "F"]
@@ -218,9 +221,10 @@ def main():
                         user_input_2 = raw_input("Enter your option: ")
                     
                     #Option 3: Return to Main Menu  
-                    if user_input_2 == "3":
+                    else:
                         os.system("cls")
-                        display_ui_2()
+                        program_exit_2 == True
+                        display_ui()
                         user_input = raw_input("Enter your option: ")
 
         #User Entered an Invalid Input 
