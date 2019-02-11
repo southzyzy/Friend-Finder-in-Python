@@ -5,7 +5,6 @@ import warnings, time, os
 import function1 as f1
 import function2 as f2
 import function3 as f3
-import function8 as f8
 import student_B as sb
 
 #Specify current directory
@@ -65,6 +64,8 @@ def main():
             raw_input("Press Enter to continue...")
             os.system("cls")
             display_ui()
+            
+            #Prompt the user to input his/her option
             user_input = raw_input("Enter your option: ")
 
         #Option 7: Exit.
@@ -101,7 +102,10 @@ def main():
                     raw_input("Press Enter to continue...")
                     os.system("cls")
                     display_ui()
+
+                    #Prompt the user to input his/her option
                     user_input = raw_input("Enter your option: ")
+
 
                 #Option 3: List the top 3 best matched students who share the most similar likes or dislikes for one given student B.
                 elif user_input == "3":
@@ -125,6 +129,8 @@ def main():
                     raw_input("Press Enter to continue...")
                     os.system("cls")
                     display_ui()
+
+                    #Prompt the user to input his/her option
                     user_input = raw_input("Enter your option: ")
 
                 #Option 4: List the top 3 best matched students based on books they like.
@@ -132,7 +138,9 @@ def main():
                     print "test4"
                     raw_input("Press Enter to continue...")
                     os.system("cls")
-                    display_ui()
+                    disifplay_ui()
+
+                    #Prompt the user to input his/her option
                     user_input = raw_input("Enter your option: ")
 
                 #Option 5: List the top 3 best matched students based on the overall profile information which may include all the personal information for ranking.
@@ -141,6 +149,8 @@ def main():
                     raw_input("Press Enter to continue...")
                     os.system("cls")
                     display_ui()
+
+                    #Prompt the user to input his/her option
                     user_input = raw_input("Enter your option: ")
 
                 #Option 6: Store all the best matched students into one .csv file on the disk.
@@ -172,7 +182,19 @@ def main():
                     raw_input("Press Enter to continue...")
                     os.system("cls")
                     display_ui()
+
+                    #Prompt the user to input his/her option
                     user_input = raw_input("Enter your option: ")
+
+
+
+
+
+
+
+
+
+
 					
             #Scenario 2: User Profile Does Not Exist 
             else:
@@ -223,10 +245,10 @@ def main():
                     #Option 3: Return to Main Menu  
                     else:
                         os.system("cls")
-                        program_exit_2 == True
+                        program_exit_2 = True
                         display_ui()
                         user_input = raw_input("Enter your option: ")
-
+                        
         #User Entered an Invalid Input 
         else:
             print "Invalid Input Entered! \n" 
