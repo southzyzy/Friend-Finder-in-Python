@@ -136,7 +136,7 @@ class G_BOOKS():
             score[key] = count
             count = 0
 
-        print score
+        # print score
         return score
 
     def matches(self, count_genre, temp_list):

@@ -9,6 +9,7 @@ import function1 as f1
 import function2 as f2
 import function3 as f3
 import function4 as f4
+import function6 as f6
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
 PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
@@ -85,7 +86,8 @@ def function4(profiles_df, student_B_info, f3_matches_lst):
 
     count_genre = bk.count_book_match(f3_matches_lst, student_B_info, bk_dict)
     f4_df = bk.matches(count_genre, f3_matches_lst)
-    return f4_df.head(n=3)[["Name", "Gender", "Rank"]]
+    return f4_df.head(n=3)[['Name', 'Gender', 'Country', 'Acceptable_country', 'Age', 'Acceptable_age_range', 'Likes',
+                            'Dislikes', 'Books', "Rank"]]
 
 
 def main(student_B_name):
@@ -99,10 +101,15 @@ def main(student_B_name):
         f3_matches = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
         f3_matches_lst = f3_matches.temp_list  # converting dataframe to list
         f3_df = function3(f3_matches, f3_matches_lst, sb_df)
-        print f3_df
+        # print f3_df
 
         f4_df = function4(profiles_df, sb_df, f3_matches_lst)
-        print f4_df
+        # print f4_df
+
+        f6_class = f6.FUNCTION6(f4_df)
+        f6_class.convert2CSV()
+
+
 
     except Exception as e:
         print e
