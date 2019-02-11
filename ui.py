@@ -138,7 +138,7 @@ def main():
                     print "test4"
                     raw_input("Press Enter to continue...")
                     os.system("cls")
-                    disifplay_ui()
+                    display_ui()
 
                     #Prompt the user to input his/her option
                     user_input = raw_input("Enter your option: ")
