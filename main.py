@@ -60,10 +60,10 @@ def function3(f3_class, temp_profiles_list, student_B_info):
                             'Dislikes', 'Books', "Rank"]]
 
 
-def updateBooksGenre(profiles_df):
+def updateBooksGenre(profiles_df, password):
     aes = AESCipher
     enc = getAPIKey()
-    bk = f4.G_BOOKS(aes, enc, sys.argv[1])
+    bk = f4.G_BOOKS(aes, enc, password)
 
     # store all the books in the a text file
     bk.writeBooks2File(booklist_dir, profiles_df.Books.values)
@@ -78,6 +78,7 @@ def updateBooksGenre(profiles_df):
     book_file.close()
     return bk
 
+
 def function4(bk, temp_profiles_list, student_B_info):
     # Loading the updated list
     bk_dict = {}
@@ -91,54 +92,53 @@ def function4(bk, temp_profiles_list, student_B_info):
     return f4_df.head(n=3)[['Name', 'Gender', 'Country', 'Acceptable_country', 'Age', 'Acceptable_age_range', 'Likes',
                             'Dislikes', 'Books', "Rank"]]
 
-
-def main(student_B_name):
-    warnings.filterwarnings('ignore')
-    try:
-        """ This part serves function 1 """
-        profiles_df = function1()
-
-        """ This part get student B info """
-        sb_df = student_B(profiles_df, student_B_name)
-
-        """ This part serves function 2 """
-        f2_df = function2(profiles_df, sb_df, student_B_name)
-
-        """ This part serves function 3 """
-        f3_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
-        f3_temp_profiles_list = f3_class.temp_list  # converting dataframe to list
-
-        f3_df = function3(f3_class, f3_temp_profiles_list, sb_df)
-        print "Function 3 Data Frame: "
-        print f3_df
-
-        """ This part serves function 4 """
-        bk = updateBooksGenre(profiles_df)
-        f4_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
-        f4_temp_profiles_list = f4_class.temp_list  # converting dataframe to list
-
-        f4_df = function4(bk, f4_temp_profiles_list, sb_df)
-        print "Function 4 Data Frame: "
-        print f4_df
-
-        """ This part serves function 5 """
-        f5_df = function4(bk, f3_temp_profiles_list, sb_df)
-        print "Function 5 Data Frame: "
-        print f5_df
-
-        """ This part serves function 6 """
-        # f6_class = f6.FUNCTION6(f4_df)
-        # f6_class.convert2CSV()
-
-
-
-    except Exception as e:
-        print e
-
-
+# def main(student_B_name):
+#     warnings.filterwarnings('ignore')
+#     try:
+#         """ This part serves function 1 """
+#         profiles_df = function1()
+#
+#         """ This part get student B info """
+#         sb_df = student_B(profiles_df, student_B_name)
+#
+#         """ This part serves function 2 """
+#         f2_df = function2(profiles_df, sb_df, student_B_name)
+#
+#         """ This part serves function 3 """
+#         f3_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
+#         f3_temp_profiles_list = f3_class.temp_list  # converting dataframe to list
+#
+#         f3_df = function3(f3_class, f3_temp_profiles_list, sb_df)
+#         print "Function 3 Data Frame: "
+#         print f3_df
+#
+#         """ This part serves function 4 """
+#         bk = updateBooksGenre(profiles_df)
+#         f4_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
+#         f4_temp_profiles_list = f4_class.temp_list  # converting dataframe to list
+#
+#         f4_df = function4(bk, f4_temp_profiles_list, sb_df)
+#         print "Function 4 Data Frame: "
+#         print f4_df
+#
+#         """ This part serves function 5 """
+#         f5_df = function4(bk, f3_temp_profiles_list, sb_df)
+#         print "Function 5 Data Frame: "
+#         print f5_df
+#
+#         """ This part serves function 6 """
+#         # f6_class = f6.FUNCTION6(f4_df)
+#         # f6_class.convert2CSV()
+#
+#
+#
+#     except Exception as e:
+#         print e
+#
+#
 # if __name__ == '__main__':
 #     start_time = time.time()
-#     sb_name = "Shelley"
+#     sb_name = "Kevin"
 #     main(sb_name)
 #     print("\n--- Program Runtime: ---\n %s seconds " % (time.time() - start_time))
 #     sys.exit()

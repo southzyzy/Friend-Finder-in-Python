@@ -1,12 +1,10 @@
 from pyfiglet import Figlet
 import cowsay
-import sys
+import pandas as pd
 import warnings, time, os
-import function1 as f1
-import function2 as f2
-import function3 as f3
-import student_B as sb
 import main
+import function3 as f3
+from tabulate import tabulate
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
 PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
@@ -48,6 +46,7 @@ def options_page():
     print "5. List the top 3 best matched students based on the overall profile information which may include all the personal information for ranking."
     print "6. Store all the best matched students into one .csv file on the disk."
     print "7. Exit."
+    print "8. Clear Screen (Enter 8 to clear screen)"
     print "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
 
 
@@ -69,14 +68,18 @@ def ui():
             print ERRMSG.get(1)
             continue
         else:
-            if choice < 0 or choice == 0 or choice > 8:
+            if choice < 0 or choice == 0 or choice > 9:
                 print ERRMSG.get(1)
                 continue
 
         # Option 1: List all the names, gender and age from all the profiles.
         if choice == 1:
             # Display the names, gender and age from all the profiles.
-            print profiles_df
+            print '\n'
+            print (tabulate(profiles_df[
+                                ['Name', 'Gender', 'Country', 'Acceptable_country', 'Age', 'Acceptable_age_range',
+                                 'Likes', 'Dislikes']], headers='keys', tablefmt='fancy_grid'))
+            print '\n'
             raw_input("Press Enter to return to main menu...")
             continue
 
@@ -86,42 +89,108 @@ def ui():
             print "Have a nice day!"
             program_exit = True
 
+        elif choice == 8:
+            os.system("cls")
 
         # Option 2 to Option 6
         else:
             while True:
-                try:
-                    # Prompt the user to enter his/her profile name
-                    student_B_name = raw_input("Enter a profile name => ")
+                # Prompt the user to enter his/her profile name
+                student_B_name = raw_input("Enter a profile name => ")
 
-                    """ This part get student B info """
-                    sb_df = main.student_B(profiles_df, student_B_name)
-                    print sb_df
-                    if sb_df == "Error":
-                        display_ui_2()
+                """ This part get student B info """
+                sb_df = main.student_B(profiles_df, student_B_name)
 
-                        while True:
-                            try:
-                                # Prompt the user to enter an input
-                                sb_choice = int(raw_input("=> "))
-                            except ValueError:
+                if not isinstance(sb_df, pd.DataFrame):
+                    display_ui_2()
+
+                    while True:
+                        try:
+                            # Prompt the user to enter an input
+                            sb_choice = int(raw_input("=> "))
+                        except ValueError:
+                            print ERRMSG.get(1)
+                            continue
+                        else:
+                            if sb_choice == 0 or sb_choice > 3:
                                 print ERRMSG.get(1)
                                 continue
                             else:
-                                if sb_choice == 0 or sb_choice > 3:
-                                    print ERRMSG.get(1)
-                                    continue
+                                if sb_choice == 1:
+                                    print '\n'
+                                    print(tabulate(profiles_df[["Name", "Gender"]].loc[profiles_df['Gender'] == "M"],
+                                                   headers='keys',
+                                                   tablefmt='psql'))
+                                    print '\n'
+
+                                elif sb_choice == 2:
+                                    print '\n'
+                                    print(tabulate(profiles_df[["Name", "Gender"]].loc[profiles_df['Gender'] == "F"],
+                                                   headers='keys',
+                                                   tablefmt='psql'))
+                                    print '\n'
+
                                 else:
-                                    if sb_choice == 1:
-                                        print profiles_df[["Name", "Gender"]].loc[profiles_df['Gender'] == "M"]
-                                    elif sb_choice == 2:
-                                        print profiles_df[["Name", "Gender"]].loc[profiles_df['Gender'] == "F"]
-                                    else:
-                                        break
+                                    break
+                        break
+
+                else:
+                    try:
+                        """ This part serves function 2 """
+                        f2_df = main.function2(profiles_df, sb_df, student_B_name)
+
+                        if choice == 2:
+                            print '\n'
+                            print(tabulate(f2_df[['Name', 'Gender', 'Country', 'Acceptable_country', 'Age',
+                                                  'Acceptable_age_range', 'Likes', 'Dislikes']], headers='keys',
+                                           tablefmt='fancy_grid'))
+                            print '\n'
                             break
 
-                except Exception as e:
-                    break
+                        """ This part serves function 3 """
+                        f3_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
+                        f3_temp_profiles_list = f3_class.temp_list  # converting dataframe to list
+
+                        f3_df = main.function3(f3_class, f3_temp_profiles_list, sb_df)
+
+                        if choice == 3:
+                            print '\n'
+                            print(tabulate(f3_df[['Name', 'Gender', 'Country', 'Acceptable_country', 'Age',
+                                                  'Acceptable_age_range', 'Likes', 'Dislikes']], headers='keys',
+                                           tablefmt='fancy_grid'))
+                            print '\n'
+                            break
+
+                        """ This part serves function 4 """
+
+                        password = raw_input("Enter passphrase to decrypt API Eey => ")
+                        bk = main.updateBooksGenre(profiles_df, password)
+
+                        if choice == 4:
+                            f4_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
+                            f4_temp_profiles_list = f4_class.temp_list  # converting dataframe to list
+
+                            f4_df = main.function4(bk, f4_temp_profiles_list, sb_df)
+
+                            print '\n'
+                            print(tabulate(f4_df[['Name', 'Books']], headers='keys',
+                                           tablefmt='fancy_grid'))
+                            print '\n'
+                            break
+
+                        """ This part serves function 5 """
+                        f5_df = main.function4(bk, f3_temp_profiles_list, sb_df)
+                        if choice == 5:
+                            print '\n'
+                            print(tabulate(f5_df[['Name', 'Gender', 'Country', 'Acceptable_country', 'Age',
+                                                  'Acceptable_age_range', 'Likes', 'Dislikes', 'Rank']], headers='keys',
+                                           tablefmt='fancy_grid'))
+                            print '\n'
+                            break
+
+                    except Exception as e:
+                        print e
+                        break
 
 
 if __name__ == '__main__':

@@ -33,7 +33,7 @@ class AESCipher(object):
 
         else:
             print "Incorrect passphrase entered."
-            sys.exit(0)
+            sys.exit()
 
     def _pad(self, s):
         return s + (self.bs - len(s) % self.bs) * chr(self.bs - len(s) % self.bs)
