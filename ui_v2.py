@@ -7,6 +7,7 @@ import progressbar as progressbar
 from tabulate import tabulate
 
 import main
+import function1 as f1
 import function3 as f3
 import function6 as f6
 
@@ -57,7 +58,10 @@ def options_page():
 
 # Main Program
 def ui():
-    profiles_df = main.function1()
+    f1_list = f1.FUNCTION_1(profiles=PROFILES, files=pro_files)
+    df = f1_list.profilesDF(f1_list.HEADERS, f1_list.DATA)
+    m_class = main.MAIN(df)
+
 
     # Variable to determine the state of the program
     program_exit = False
@@ -81,7 +85,7 @@ def ui():
         if choice == 1:
             # Display the names, gender and age from all the profiles.
             print '\n'
-            print (tabulate(profiles_df[
+            print (tabulate(m_class.profiles_df[
                                 ['Name', 'Gender', 'Country', 'Acceptable_country', 'Age', 'Acceptable_age_range',
                                  'Likes', 'Dislikes']], headers='keys', tablefmt='fancy_grid'))
             print '\n'
@@ -104,7 +108,7 @@ def ui():
                 student_B_name = raw_input("Enter a profile name => ")
 
                 """ This part get student B info """
-                sb_df = main.student_B(profiles_df, student_B_name)
+                sb_df = m_class.student_B(student_B_name)
 
                 if not isinstance(sb_df, pd.DataFrame):
                     display_ui_2()
@@ -126,7 +130,7 @@ def ui():
                         # Option 1 to print out all the male in the dataset
                         if sb_choice == 1:
                             print '\n'
-                            print(tabulate(profiles_df[["Name", "Gender"]].loc[profiles_df['Gender'] == "M"],
+                            print(tabulate(m_class.profiles_df[["Name", "Gender"]].loc[m_class.profiles_df['Gender'] == "M"],
                                            headers='keys',
                                            tablefmt='psql'))
                             print '\n'
@@ -134,7 +138,7 @@ def ui():
                         # Option 2 to print out all the female in the dataset
                         elif sb_choice == 2:
                             print '\n'
-                            print(tabulate(profiles_df[["Name", "Gender"]].loc[profiles_df['Gender'] == "F"],
+                            print(tabulate(m_class.profiles_df[["Name", "Gender"]].loc[m_class.profiles_df['Gender'] == "F"],
                                            headers='keys',
                                            tablefmt='psql'))
                             print '\n'
@@ -145,7 +149,7 @@ def ui():
                 else:
                     try:
                         """ This part serves function 2 """
-                        f2_df = main.function2(profiles_df, sb_df, student_B_name)
+                        f2_df = m_class.function2(sb_df, student_B_name)
 
                         if choice == 2:
                             print '\n'
@@ -159,7 +163,7 @@ def ui():
                         f3_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
                         f3_temp_profiles_list = f3_class.temp_list  # converting dataframe to list
 
-                        f3_df = main.function3(f3_class, f3_temp_profiles_list, sb_df)
+                        f3_df = m_class.function3(f3_class, f3_temp_profiles_list, sb_df)
 
                         if choice == 3:
                             print '\n'
@@ -172,13 +176,13 @@ def ui():
                         """ This part serves function 4 """
 
                         password = raw_input("Enter passphrase to decrypt API Eey => ")
-                        bk = main.updateBooksGenre(profiles_df, password)
+                        bk = m_class.updateBooksGenre(password)
 
                         if choice == 4:
                             f4_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
                             f4_temp_profiles_list = f4_class.temp_list  # converting dataframe to list
 
-                            f4_df = main.function4(bk, f4_temp_profiles_list, sb_df)
+                            f4_df = m_class.function4(bk, f4_temp_profiles_list, sb_df)
 
                             print '\n'
                             print(tabulate(f4_df[['Name', 'Books']], headers='keys',
@@ -187,7 +191,7 @@ def ui():
                             break
 
                         """ This part serves function 5 """
-                        f5_df = main.function4(bk, f3_temp_profiles_list, sb_df)
+                        f5_df = m_class.function4(bk, f3_temp_profiles_list, sb_df)
                         if choice == 5:
                             print '\n'
                             print(tabulate(f5_df[['Name', 'Gender', 'Country', 'Acceptable_country', 'Age',
