@@ -20,7 +20,7 @@ class FUNCTION_1(object):
     def __init__(self, files, profiles):
         # specify the column header
         self.HEADERS = ['Name', 'Gender', 'Country', 'Acceptable_country', 'Age', 'Acceptable_age_range', 'Likes',
-                        'Dislikes', 'Books']
+                        'Dislikes', 'Books', 'Birthday']
 
         self.DATA = []  # create the empty list to store profiles
 
@@ -36,7 +36,7 @@ class FUNCTION_1(object):
             Odd Number == Header, Even Number == Data
             """
             profiles_data = re.search(
-                "(Name):(.*)\n+(Gender):(.*)\n+(Country):(.*)\n+(Acceptable_country):(.*)\n+(Age):(.*)\n+(Acceptable_age_range):(.*)\n+(Likes):(.*)\n+(Dislikes):(.*)\n+(Books):((?<=Books:)\D+)",
+                "(Name):(.*)\n+(Gender):(.*)\n+(Country):(.*)\n+(Acceptable_country):(.*)\n+(Age):(.*)\n+(Acceptable_age_range):(.*)\n+(Likes):(.*)\n+(Dislikes):(.*)\n+(Books):((?<=Books:)\D+)\n+(Birthday):(.*)",
                 lines)
 
             # append data into DATA list
