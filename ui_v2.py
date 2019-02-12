@@ -1,10 +1,15 @@
-from pyfiglet import Figlet
-import cowsay
 import pandas as pd
 import warnings, time, os
+
+from pyfiglet import Figlet
+import cowsay
+import progressbar as progressbar
+from tabulate import tabulate
+
 import main
 import function3 as f3
-from tabulate import tabulate
+import function6 as f6
+
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
 PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
@@ -112,27 +117,30 @@ def ui():
                             print ERRMSG.get(1)
                             continue
                         else:
-                            if sb_choice == 0 or sb_choice > 3:
-                                print ERRMSG.get(1)
-                                continue
-                            else:
-                                if sb_choice == 1:
-                                    print '\n'
-                                    print(tabulate(profiles_df[["Name", "Gender"]].loc[profiles_df['Gender'] == "M"],
-                                                   headers='keys',
-                                                   tablefmt='psql'))
-                                    print '\n'
+                            break
 
-                                elif sb_choice == 2:
-                                    print '\n'
-                                    print(tabulate(profiles_df[["Name", "Gender"]].loc[profiles_df['Gender'] == "F"],
-                                                   headers='keys',
-                                                   tablefmt='psql'))
-                                    print '\n'
+                    if sb_choice == 0 or sb_choice > 3:
+                        print ERRMSG.get(1)
+                        continue
+                    else:
+                        # Option 1 to print out all the male in the dataset
+                        if sb_choice == 1:
+                            print '\n'
+                            print(tabulate(profiles_df[["Name", "Gender"]].loc[profiles_df['Gender'] == "M"],
+                                           headers='keys',
+                                           tablefmt='psql'))
+                            print '\n'
 
-                                else:
-                                    break
-                        break
+                        # Option 2 to print out all the female in the dataset
+                        elif sb_choice == 2:
+                            print '\n'
+                            print(tabulate(profiles_df[["Name", "Gender"]].loc[profiles_df['Gender'] == "F"],
+                                           headers='keys',
+                                           tablefmt='psql'))
+                            print '\n'
+
+                        else:
+                            break
 
                 else:
                     try:
@@ -186,6 +194,24 @@ def ui():
                                                   'Acceptable_age_range', 'Likes', 'Dislikes', 'Rank']], headers='keys',
                                            tablefmt='fancy_grid'))
                             print '\n'
+                            break
+
+                        else:
+                            """ This part serves function 6 """
+                            print '\n'
+                            bar = progressbar.ProgressBar(maxval=20, widgets=['Converting to CSV ... ', progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
+                            bar.start()
+                            for i in xrange(20):
+                                bar.update(i + 1)
+                                time.sleep(0.1)
+
+                            f6_class = f6.FUNCTION6(f5_df)
+                            f6_class.convert2CSV(CURENT_DIR, student_B_name)
+
+                            bar.finish()
+
+                            print '\n'
+
                             break
 
                     except Exception as e:

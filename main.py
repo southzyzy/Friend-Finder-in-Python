@@ -1,15 +1,10 @@
 import os
-import sys
-import time
-import warnings
 
 import AESCipher
 import student_B as sb
 import function1 as f1
 import function2 as f2
-import function3 as f3
 import function4 as f4
-import function6 as f6
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
 PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
@@ -127,7 +122,7 @@ def function4(bk, temp_profiles_list, student_B_info):
 #         print f5_df
 #
 #         """ This part serves function 6 """
-#         # f6_class = f6.FUNCTION6(f4_df)
+#         # f6_class = f6.FUNCTION6(f5_df)
 #         # f6_class.convert2CSV()
 #
 #

@@ -4,7 +4,6 @@ import re
 
 def formattingData(df):
     # Check Gender column
-
     df["Gender"] = df.Gender.str.replace("Female", "F")
     df["Gender"] = df.Gender.str.replace("Male", "M")
 
