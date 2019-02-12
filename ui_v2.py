@@ -58,6 +58,7 @@ def options_page():
 
 # Main Program
 def ui():
+    """ This part serves function 1 """
     f1_list = f1.FUNCTION_1(profiles=PROFILES, files=pro_files)
     df = f1_list.profilesDF(f1_list.HEADERS, f1_list.DATA)
     m_class = main.MAIN(df)
@@ -157,6 +158,7 @@ def ui():
                                                   'Acceptable_age_range', 'Likes', 'Dislikes']], headers='keys',
                                            tablefmt='fancy_grid'))
                             print '\n'
+                            raw_input("Press Enter to return to main menu...")
                             break
 
                         """ This part serves function 3 """
@@ -171,6 +173,7 @@ def ui():
                                                   'Acceptable_age_range', 'Likes', 'Dislikes']], headers='keys',
                                            tablefmt='fancy_grid'))
                             print '\n'
+                            raw_input("Press Enter to return to main menu...")
                             break
 
                         """ This part serves function 4 """
@@ -188,6 +191,7 @@ def ui():
                             print(tabulate(f4_df[['Name', 'Books']], headers='keys',
                                            tablefmt='fancy_grid'))
                             print '\n'
+                            raw_input("Press Enter to return to main menu...")
                             break
 
                         """ This part serves function 5 """
@@ -198,6 +202,7 @@ def ui():
                                                   'Acceptable_age_range', 'Likes', 'Dislikes', 'Rank']], headers='keys',
                                            tablefmt='fancy_grid'))
                             print '\n'
+                            raw_input("Press Enter to return to main menu...")
                             break
 
                         else:
@@ -216,6 +221,7 @@ def ui():
 
                             print '\n'
 
+                            raw_input("Press Enter to return to main menu...")
                             break
 
                     except Exception as e:
