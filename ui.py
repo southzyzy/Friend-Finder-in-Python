@@ -1,10 +1,12 @@
 from pyfiglet import Figlet
 import cowsay
 import sys
+import random
 import warnings, time, os
 import function1 as f1
 import function2 as f2
 import function3 as f3
+import function7 as f7
 import student_B as sb
 
 #Specify current directory
@@ -35,7 +37,8 @@ def display_ui():
     print "4. List the top 3 best matched students based on books they like."
     print "5. List the top 3 best matched students based on the overall profile information which may include all the personal information for ranking."
     print "6. Store all the best matched students into one .csv file on the disk."
-    print "7. Exit."
+    print "7. Play the Function 7 birthday guessing game."
+    print "8. Exit."
     print "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
 
 #Main Program 
@@ -68,14 +71,14 @@ def main():
             #Prompt the user to input his/her option
             user_input = raw_input("Enter your option: ")
 
-        #Option 7: Exit.
-        elif user_input == "7":
+        #Option 8: Exit.
+        elif user_input == "8":
             print "Thank You for Using 1002_Tinder!"
             print "Have a nice day!"
             program_exit = True
             
         #Option 2 to Option 6 
-        elif user_input == "2" or user_input == "3" or user_input == "4" or user_input == "5" or user_input == "6" or user_input == "8":
+        elif user_input == "2" or user_input == "3" or user_input == "4" or user_input == "5" or user_input == "6" or user_input == "7":
             
             #Promt the user to enter his/her profile name 
             student_B_name = raw_input("Enter a profile name: ")
@@ -187,15 +190,69 @@ def main():
                     user_input = raw_input("Enter your option: ")
 
 
+                # Option 7: Play birthday guessing game
+                elif user_input == "7":
+                    print "\n"
+                    # Calling the class LIKES_DISLIKES
+                    f3_matches = f3.LIKES_DISLIKES(f2_df)
 
+                    # Converting dataframe to list
+                    f3_matches_lst = f3_matches.temp_list
 
+                    # Count the no. of likes
+                    countLikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Likes")
 
+                    # Count the no. of dislikes
+                    countDislikes = f3_matches.countMatch(f3_matches_lst, student_B_info, "Dislikes")
 
+                    # Store the data of the matched profiles into a data frame
+                    f3_df = f3_matches.matches(countLikes, countDislikes, f3_matches_lst)
 
+                    # Initialize function 7 and get a list of matched profiles
+                    game = f7.openFunction(f3_df)
+                    exclude_profile = []  # This is for excluding profiles that have done the game
+                    count = 0
+                    while count < len(game.profiles):
+                        # Randomly select a profile that has not been used for the game
+                        random_profile = random.sample([i for i in game.profiles if i not in exclude_profile], 1)
+                        # Add the selected profile into the exclude list
+                        exclude_profile.append(random_profile[0])
+                        count += 1
+                        print game.getGameIntro(random_profile)  # Print intro + hints
+                        choices = game.choiceGenerator()
+                        correctAnswer = game.getAnswer(choices)
+                        print game.tupleListDecoder(choices)  # Print multiple choices
+                        attempts = 3
+                        while attempts > 0:
+                            user_input = raw_input("What is their birthday?(Select by number, i.e 1!): ")
+                            gameData = game.startGame(user_input, attempts,
+                                                      correctAnswer)  # Printstring[0], attempt number[1]
+                            print gameData[0]
+                            attempts = gameData[1]
+                        while True:
+                            # Ask player if they wish to guess another candidate. Limit to the number of available candidates (5 people likely)
+                            answer = raw_input(
+                                "Would you like to guess another one of your top few most matched candidate(Y/N)?:")
+                            if answer.lower() == "n":
+                                print "Thanks for playing, see you next time!"
+                                count = len(game.profiles)  # Break the profile selection loop
+                                break
+                            elif answer.lower() == "y":
+                                # Stop the game when all of the profiles available are visited
+                                if count == len(game.profiles):
+                                    print "Sorry, looks like you have reached the end of your most matched candidates, thanks for playing!"
+                                break
+                            else:
+                                # Invalid values
+                                print "Please enter Y or N!"
 
+                    raw_input("Press Enter to continue...")
+                    os.system("cls")
+                    display_ui()
 
+                    # Prompt the user to input his/her option
+                    user_input = raw_input("Enter your option: ")
 
-					
             #Scenario 2: User Profile Does Not Exist 
             else:
                 #Display the second menu 
@@ -259,8 +316,3 @@ if __name__ == '__main__':
     start_time = time.time()
     main()
     print("\n--- Program Runtime: ---\n %s seconds " % (time.time() - start_time))
-
-
-
-
-
