@@ -24,8 +24,8 @@ class openFunction(object):
 
     # Generate choices
     def choiceGenerator(self):
-        num = 1;
-        result = [];
+        num = 1
+        result = []
         # Create 3 choice statements
         while num < 4:
             standardAnswer = "%s"
@@ -36,7 +36,7 @@ class openFunction(object):
             else:  # For a higher date range
                 choice = standardAnswer % ((self.birthday + dt.timedelta(random.randint(1, 5))).strftime("%B %d"))
             result.append(choice)
-            num += 1;
+            num += 1
         result = random.sample(result,3) #randomize the choices
         return result
 
@@ -59,7 +59,7 @@ class openFunction(object):
     # Check if the birthday of the profile is even or odd
     def multipleCalculator(self):
         userBirthday = self.birthday
-        day = userBirthday.day;
+        day = userBirthday.day
         if day % 2 == 0:
             return "Even"
         else:
@@ -74,7 +74,7 @@ class openFunction(object):
 
     # Generate the string line statements for hints to the user on the correct profile birthday
     def birthdayHintGenerator(self):
-        result = "";
+        result = ""
         # Horoscope hint
         horoscope_range = h.Horoscope().get_horoscope_range(self.birthday)
         horoscope_range_string = ""
@@ -93,7 +93,7 @@ class openFunction(object):
         self.birthday = dt.datetime.strptime(profile[0]["Birthday"], "%Y-%m-%d").date()
         self.name = profile[0]["Name"]
         # First part: Introduction to the game
-        introString = "";
+        introString = ""
         introString += "Welcome to Function 7 game!\n"
         introString += "We have selected a few candidates that you might like to view in this function...\n"
         introString += "However we think it is best that you get to know them a little more through a small game!\n"
@@ -111,7 +111,7 @@ class openFunction(object):
             return ["Game: Wrong... Try again!",attempts-1]
         else:
             result = "Yay you got it!!\n"
-            result += "The instagram of this candidate is: @%s\n" %(self.name)
+            result += "The instagram of this candidate is: @%s\n" %(self.name.lower())
             result += "Feel free to add him/her to start chatting!\n"
             return[result,0]
 
