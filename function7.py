@@ -110,7 +110,7 @@ class openFunction(object):
         elif int(user_input) != correctAnswer:
             return ["Game: Wrong... Try again!",attempts-1]
         else:
-            result = "Yay you got it!!\n"
-            result += "The instagram of this candidate is: @%s\n" %(self.name.lower())
+            result = "\nYay you got it!!\n"
+            result += "The instagram of this candidate is ------------------> @%s\n" %(self.name.lower())
             result += "Feel free to add him/her to start chatting!\n"
             return[result,0]

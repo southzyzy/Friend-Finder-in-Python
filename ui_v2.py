@@ -13,7 +13,6 @@ import function3 as f3
 import function6 as f6
 import function7 as f7
 
-
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
 PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
 API_KEY_DIR = os.path.join(CURENT_DIR, "keys/")
@@ -66,7 +65,6 @@ def ui():
     df = f1_list.profilesDF(f1_list.HEADERS, f1_list.DATA)
     m_class = main.MAIN(df)
 
-
     # Variable to determine the state of the program
     program_exit = False
 
@@ -91,7 +89,7 @@ def ui():
             print '\n'
             print (tabulate(m_class.profiles_df[
                                 ['Name', 'Gender', 'Country', 'Acceptable_country', 'Age', 'Acceptable_age_range',
-                                 'Likes', 'Dislikes']], headers='keys', tablefmt='fancy_grid'))
+                                 'Likes', 'Dislikes']], headers='keys', tablefmt='psql'))
             print '\n'
             raw_input("Press Enter to return to main menu...")
             continue
@@ -134,17 +132,19 @@ def ui():
                         # Option 1 to print out all the male in the dataset
                         if sb_choice == 1:
                             print '\n'
-                            print(tabulate(m_class.profiles_df[["Name", "Gender"]].loc[m_class.profiles_df['Gender'] == "M"],
-                                           headers='keys',
-                                           tablefmt='psql'))
+                            print(tabulate(
+                                m_class.profiles_df[["Name", "Gender"]].loc[m_class.profiles_df['Gender'] == "M"],
+                                headers='keys',
+                                tablefmt='psql'))
                             print '\n'
 
                         # Option 2 to print out all the female in the dataset
                         elif sb_choice == 2:
                             print '\n'
-                            print(tabulate(m_class.profiles_df[["Name", "Gender"]].loc[m_class.profiles_df['Gender'] == "F"],
-                                           headers='keys',
-                                           tablefmt='psql'))
+                            print(tabulate(
+                                m_class.profiles_df[["Name", "Gender"]].loc[m_class.profiles_df['Gender'] == "F"],
+                                headers='keys',
+                                tablefmt='psql'))
                             print '\n'
 
                         else:
@@ -158,8 +158,8 @@ def ui():
                         if choice == 2:
                             print '\n'
                             print(tabulate(f2_df[['Name', 'Gender', 'Country', 'Acceptable_country', 'Age',
-                                                  'Acceptable_age_range', 'Likes', 'Dislikes']], headers='keys',
-                                           tablefmt='fancy_grid'))
+                                                  'Acceptable_age_range', 'Likes', 'Dislikes', 'Rank']], headers='keys',
+                                           tablefmt='psql'))
                             print '\n'
                             raw_input("Press Enter to return to main menu...")
                             break
@@ -173,8 +173,8 @@ def ui():
                         if choice == 3:
                             print '\n'
                             print(tabulate(f3_df[['Name', 'Gender', 'Country', 'Acceptable_country', 'Age',
-                                                  'Acceptable_age_range', 'Likes', 'Dislikes']], headers='keys',
-                                           tablefmt='fancy_grid'))
+                                                  'Acceptable_age_range', 'Likes', 'Dislikes', 'Rank']], headers='keys',
+                                           tablefmt='psql'))
                             print '\n'
                             raw_input("Press Enter to return to main menu...")
                             break
@@ -191,8 +191,8 @@ def ui():
                             f4_df = m_class.function4(bk, f4_temp_profiles_list, sb_df)
 
                             print '\n'
-                            print(tabulate(f4_df[['Name', 'Books']], headers='keys',
-                                           tablefmt='fancy_grid'))
+                            print(tabulate(f4_df[['Name', 'Gender', 'Rank']], headers='keys',
+                                           tablefmt='psql'))
                             print '\n'
                             raw_input("Press Enter to return to main menu...")
                             break
@@ -203,7 +203,7 @@ def ui():
                             print '\n'
                             print(tabulate(f5_df[['Name', 'Gender', 'Country', 'Acceptable_country', 'Age',
                                                   'Acceptable_age_range', 'Likes', 'Dislikes', 'Rank']], headers='keys',
-                                           tablefmt='fancy_grid'))
+                                           tablefmt='psql'))
                             print '\n'
                             raw_input("Press Enter to return to main menu...")
                             break
@@ -212,7 +212,9 @@ def ui():
                         if choice == 6:
 
                             print '\n'
-                            bar = progressbar.ProgressBar(maxval=20, widgets=['Converting to CSV ... ', progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
+                            bar = progressbar.ProgressBar(maxval=20, widgets=['Converting to CSV ... ',
+                                                                              progressbar.Bar('=', '[', ']'), ' ',
+                                                                              progressbar.Percentage()])
                             bar.start()
                             for i in xrange(20):
                                 bar.update(i + 1)
@@ -232,13 +234,15 @@ def ui():
                             """This part serves function 7"""
                             # Initialize function 7 and get a list of matched profiles
                             print '\n'
+                            print '-------------------------------------------------------------------------------------'
+                            print 'HELLO %s !' % student_B_name.upper(),
                             game = f7.openFunction(f5_df)
                             exclude_profile = []  # This is for excluding profiles that have done the game
                             count = 0
                             while count < len(game.profiles):
                                 # Randomly select a profile that has not been used for the game
                                 random_profile = sample([i for i in game.profiles if i not in exclude_profile],
-                                                               1)
+                                                        1)
                                 # Add the selected profile into the exclude list
                                 exclude_profile.append(random_profile[0])
                                 count += 1
@@ -248,7 +252,7 @@ def ui():
                                 print game.tupleListDecoder(choices)  # Print multiple choices
                                 attempts = 3
                                 while attempts > 0:
-                                    user_input = raw_input("What is their birthday?(Select by number, i.e 1!): ")
+                                    user_input = raw_input("What is their birthday?(Select by number, i.e 1!) => ")
                                     gameData = game.startGame(user_input, attempts,
                                                               correctAnswer)  # Printstring[0], attempt number[1]
                                     print gameData[0]
@@ -256,7 +260,7 @@ def ui():
                                 while True:
                                     # Ask player if they wish to guess another candidate.
                                     answer = raw_input(
-                                        "Would you like to guess another one of your top few most matched candidate(Y/N)?:")
+                                        "Would you like to guess another one of your top few most matched candidate? (Y/N) => ")
                                     if answer.lower() == "n":
                                         print "Thanks for playing, see you next time!"
                                         count = len(game.profiles)  # Break the profile selection loop
