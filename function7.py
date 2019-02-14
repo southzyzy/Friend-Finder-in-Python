@@ -114,4 +114,3 @@ class openFunction(object):
             result += "The instagram of this candidate is: @%s\n" %(self.name.lower())
             result += "Feel free to add him/her to start chatting!\n"
             return[result,0]
-

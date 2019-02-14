@@ -10,6 +10,7 @@ import main
 import function1 as f1
 import function3 as f3
 import function6 as f6
+import function7 as f7
 
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
@@ -51,8 +52,9 @@ def options_page():
     print "4. List the top 3 best matched students based on books they like."
     print "5. List the top 3 best matched students based on the overall profile information which may include all the personal information for ranking."
     print "6. Store all the best matched students into one .csv file on the disk."
-    print "7. Exit."
+    print "7. Running the open Function."
     print "8. Clear Screen (Enter 8 to clear screen)"
+    print "9. Exit the program."
     print "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
 
 
@@ -93,16 +95,17 @@ def ui():
             raw_input("Press Enter to return to main menu...")
             continue
 
-        # Option 7: Exit.
-        elif choice == 7:
+        # Option 8: clear the cli screen
+        elif choice == 8:
+            os.system("cls")
+
+        # Option 9: Exit.
+        elif choice == 9:
             print "Thank You for Using 1002_Tinder!"
             print "Have a nice day!"
             program_exit = True
 
-        elif choice == 8:
-            os.system("cls")
-
-        # Option 2 to Option 6
+        # Option 2 to Option 7
         else:
             while True:
                 # Prompt the user to enter his/her profile name
@@ -205,7 +208,7 @@ def ui():
                             raw_input("Press Enter to return to main menu...")
                             break
 
-                        else:
+                        if choice == 6:
                             """ This part serves function 6 """
                             print '\n'
                             bar = progressbar.ProgressBar(maxval=20, widgets=['Converting to CSV ... ', progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
@@ -223,6 +226,12 @@ def ui():
 
                             raw_input("Press Enter to return to main menu...")
                             break
+
+                        else:
+                            """ This part serves function 7 """
+                            f7_class = f7.openFunction(f5_df)
+                            break
+
 
                     except Exception as e:
                         print e
