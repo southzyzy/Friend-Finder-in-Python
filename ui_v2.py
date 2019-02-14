@@ -1,6 +1,7 @@
 import pandas as pd
 import warnings, time, os
 
+from random import sample
 from pyfiglet import Figlet
 import cowsay
 import progressbar as progressbar
@@ -10,6 +11,7 @@ import main
 import function1 as f1
 import function3 as f3
 import function6 as f6
+import function7 as f7
 
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
@@ -51,8 +53,9 @@ def options_page():
     print "4. List the top 3 best matched students based on books they like."
     print "5. List the top 3 best matched students based on the overall profile information which may include all the personal information for ranking."
     print "6. Store all the best matched students into one .csv file on the disk."
-    print "7. Exit."
-    print "8. Clear Screen (Enter 8 to clear screen)"
+    print "7. Play the Function 7 birthday guessing game."
+    print "8. Exit."
+    print "9. Clear Screen (Enter 8 to clear screen)"
     print "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
 
 
@@ -94,12 +97,12 @@ def ui():
             continue
 
         # Option 7: Exit.
-        elif choice == 7:
+        elif choice == 8:
             print "Thank You for Using 1002_Tinder!"
             print "Have a nice day!"
             program_exit = True
 
-        elif choice == 8:
+        elif choice == 9:
             os.system("cls")
 
         # Option 2 to Option 6
@@ -205,8 +208,9 @@ def ui():
                             raw_input("Press Enter to return to main menu...")
                             break
 
-                        else:
-                            """ This part serves function 6 """
+                        """ This part serves function 6 """
+                        if choice == 6:
+
                             print '\n'
                             bar = progressbar.ProgressBar(maxval=20, widgets=['Converting to CSV ... ', progressbar.Bar('=', '[', ']'), ' ', progressbar.Percentage()])
                             bar.start()
@@ -221,6 +225,52 @@ def ui():
 
                             print '\n'
 
+                            raw_input("Press Enter to return to main menu...")
+                            break
+
+                        else:
+                            """This part serves function 7"""
+                            # Initialize function 7 and get a list of matched profiles
+                            print '\n'
+                            game = f7.openFunction(f5_df)
+                            exclude_profile = []  # This is for excluding profiles that have done the game
+                            count = 0
+                            while count < len(game.profiles):
+                                # Randomly select a profile that has not been used for the game
+                                random_profile = sample([i for i in game.profiles if i not in exclude_profile],
+                                                               1)
+                                # Add the selected profile into the exclude list
+                                exclude_profile.append(random_profile[0])
+                                count += 1
+                                print game.getGameIntro(random_profile)  # Print intro + hints
+                                choices = game.choiceGenerator()
+                                correctAnswer = game.getAnswer(choices)
+                                print game.tupleListDecoder(choices)  # Print multiple choices
+                                attempts = 3
+                                while attempts > 0:
+                                    user_input = raw_input("What is their birthday?(Select by number, i.e 1!): ")
+                                    gameData = game.startGame(user_input, attempts,
+                                                              correctAnswer)  # Printstring[0], attempt number[1]
+                                    print gameData[0]
+                                    attempts = gameData[1]
+                                while True:
+                                    # Ask player if they wish to guess another candidate.
+                                    answer = raw_input(
+                                        "Would you like to guess another one of your top few most matched candidate(Y/N)?:")
+                                    if answer.lower() == "n":
+                                        print "Thanks for playing, see you next time!"
+                                        count = len(game.profiles)  # Break the profile selection loop
+                                        break
+                                    elif answer.lower() == "y":
+                                        # Stop the game when all of the profiles available are visited
+                                        if count == len(game.profiles):
+                                            print "Sorry, looks like you have reached the end of your most matched candidates, thanks for playing!"
+                                        break
+                                    else:
+                                        # Invalid values
+                                        print "Please enter Y or N!"
+
+                            print '\n'
                             raw_input("Press Enter to return to main menu...")
                             break
 
