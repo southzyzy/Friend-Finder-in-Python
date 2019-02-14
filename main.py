@@ -65,7 +65,7 @@ class MAIN(object):
         f3_df = f3_class.matches(count_likes, count_dislikes, temp_profiles_list)
         return f3_df.head(n=3)[
             ['Name', 'Gender', 'Country', 'Acceptable_country', 'Age', 'Acceptable_age_range', 'Likes',
-             'Dislikes', 'Books', "Rank"]]
+             'Dislikes', 'Books', 'Birthday', "Rank"]]
 
     def function4(self, bk, temp_profiles_list, student_B_info):
         # Loading the updated list
@@ -79,4 +79,4 @@ class MAIN(object):
         f4_df = bk.matches(count_genre, temp_profiles_list)
         return f4_df.head(n=3)[
             ['Name', 'Gender', 'Country', 'Acceptable_country', 'Age', 'Acceptable_age_range', 'Likes',
-             'Dislikes', 'Books', "Rank"]]
+             'Dislikes', 'Books', 'Birthday', "Rank"]]
