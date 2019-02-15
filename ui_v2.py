@@ -51,7 +51,7 @@ def options_page():
     print "6. Store all the best matched students into one .csv file on the disk."
     print "7. Play the Function 7 birthday guessing game."
     print "8. Exit."
-    print "9. Clear Screen (Enter 8 to clear screen)"
+    print "9. Clear Screen (Enter 9 to clear screen)"
     print "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
 
 
@@ -208,7 +208,7 @@ def ui():
 
                         """ This part serves function 4 """
 
-                        password = raw_input("Enter passphrase to decrypt API Eey => ")
+                        password = raw_input("Enter passphrase to decrypt API Key => ")
                         bk = m_class.updateBooksGenre(password)
 
                         if choice == 4:
