@@ -19,6 +19,7 @@ class LIKES_DISLIKES(object):
                 "Rank": x['Rank']
             }, axis=1))
 
+    # This Part is where the function 5 is. COUNTING OF THE RANKING METRIC
     def countMatch(self, temp_list, sb_info, term):
         """
             ### Counting Likes and Dislikes

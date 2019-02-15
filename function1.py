@@ -16,7 +16,7 @@ def formattingData(df):
 
 
 class FUNCTION_1(object):
-    def __init__(self, files, profiles):
+    def __init__(self, profiles_dir, files):
         # specify the column header
         self.HEADERS = ['Name', 'Gender', 'Country', 'Acceptable_country', 'Age', 'Acceptable_age_range', 'Likes',
                         'Dislikes', 'Books', 'Birthday']
@@ -24,7 +24,7 @@ class FUNCTION_1(object):
         self.DATA = []  # create the empty list to store profiles
 
         for file in files:  # iterate over each file
-            filename = profiles + file  # full path name of the data files
+            filename = profiles_dir + '/' + file  # full path name of the data files
 
             text_file = open(filename, "r")  # open the file
             lines = text_file.read()  # read the file in memory

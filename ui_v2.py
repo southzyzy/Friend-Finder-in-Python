@@ -14,10 +14,8 @@ import function6 as f6
 import function7 as f7
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
-PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
+# PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
 API_KEY_DIR = os.path.join(CURENT_DIR, "keys/")
-pro_files = [file for file in os.listdir(PROFILES) if
-             file.endswith(".txt")]  # list out all the profiles in profiles folder
 key_files = [file for file in os.listdir(API_KEY_DIR) if file.endswith(".bin")]  # list out the api-keys in keys folder
 booklist_dir = CURENT_DIR + '/bookslist.txt'
 
@@ -61,7 +59,23 @@ def options_page():
 # Main Program
 def ui():
     """ This part serves function 1 """
-    f1_list = f1.FUNCTION_1(profiles=PROFILES, files=pro_files)
+    while True:
+        profiles_dir = raw_input("Specify the profiles file directory => ")
+
+        if not os.path.exists(profiles_dir):
+            print 'Directory does not exist'
+            continue
+
+        elif [f for f in os.listdir(profiles_dir) if not f.startswith('.')] == []:
+            print 'Profiles Directory specified is empty. Are you sure you point to the right directory?'
+            continue
+
+        else:
+            profiles = [file for file in os.listdir(profiles_dir) if
+                        file.endswith(".txt")]  # list out all the profiles in profiles folder
+            break
+
+    f1_list = f1.FUNCTION_1(profiles_dir=profiles_dir, files=profiles)
     df = f1_list.profilesDF(f1_list.HEADERS, f1_list.DATA)
     m_class = main.MAIN(df)
 
