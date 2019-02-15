@@ -2,9 +2,9 @@ import pandas as pd
 
 
 class LIKES_DISLIKES(object):
-    def __init__(self, f2_matches):
+    def __init__(self, df):
         # convert df object to a list
-        self.temp_list = list(f2_matches.apply(
+        self.temp_list = list(df.apply(
             lambda x: {
                 "Name": x['Name'],
                 "Gender": x["Gender"],

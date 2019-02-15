@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body id="page-top">
+<!-- Page Wrapper -->
+<div id="wrapper">
+    {% include 'base.html' %}
+    <!-- Begin Page Content -->
+    <div class="container-fluid" style="margin-top: 2em;">
+        <!-- Page Heading -->
+        <div class="d-sm-flex align-items-center justify-content-between mb-4">
+            <h1 class="h3 mb-0 text-gray-800">Dashboard</h1>
+        </div>
+
+        <hr class="topbar-divider">
+
+        <div class="row">
+            {% for d in data %}
+            <div class="col-sm-12 col-md-6 col-lg-4" style="margin-bottom: 5em;">
+                <div class="card border-left-primary shadow h-100 py-2">
+                    <div class="view overlay zoom">
+                        <div class="card-body">
+                            <div class="row no-gutters align-items-center">
+                                <div class="col mr-2">
+                                    <div class="h5 mb-0 font-weight-bold text-gray-800 text-uppercase mb-1">
+                                        {% if d['Gender'] == 'F' %}
+                                        <img class="rounded-circle" src="../static/img/female_profile.png" alt="Profile"
+                                             height="80" width="80">
+                                        {% else %}
+                                        <img class="rounded-circle" src="../static/img/male_profile.png" alt="Profile"
+                                             height="80" width="80">
+                                        {% endif %}
+                                        {{ d['Name'] }}
+                                    </div>
+                                </div>
+                                <div class="col-auto">
+                                    {% include 'profiles.html' %}
+                                    <button class="btn btn-primary btn-user" data-toggle="modal"
+                                            data-target="#{{ d['Name'].replace(' ', '') }}">View Profile
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<!-- Footer -->
+<footer class="sticky-footer bg-white">
+    <div class="container my-auto">
+        <div class="copyright text-center my-auto">
+            <span>Copyright &copy; Your Website 2019</span>
+        </div>
+    </div>
+</footer>
+
+
+<!-- Scroll to Top Button-->
+<a class="scroll-to-top rounded" href="#page-top">
+    <i class="fas fa-angle-up"></i>
+</a>
+</body>
+
+</html>

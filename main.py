@@ -6,10 +6,7 @@ import function2 as f2
 import function4 as f4
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
-PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
 API_KEY_DIR = os.path.join(CURENT_DIR, "keys/")
-pro_files = [file for file in os.listdir(PROFILES) if
-             file.endswith(".txt")]  # list out all the profiles in profiles folder
 key_files = [file for file in os.listdir(API_KEY_DIR) if file.endswith(".bin")]  # list out the api-keys in keys folder
 booklist_dir = CURENT_DIR + '/bookslist.txt'
 

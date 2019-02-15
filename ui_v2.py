@@ -62,10 +62,11 @@ def checkFile(file_path):
         return "False"
 
     for f in fileList:
-        f = open(file_path+'/'+f, 'r').read()
+        f = open(file_path + '/' + f, 'r').read()
         if 'Name' not in f:
             return "False"
 
+    return "True"
 
 # Main Program
 def ui():
@@ -80,8 +81,6 @@ def ui():
         elif checkFile(profiles_dir) == "False":
             print 'Profiles Directory specified is empty. Are you sure you point to the right directory?'
             continue
-            # print "This is not the profiles data directory. Please input the directory again."
-            # continue
 
         else:
             profiles = [file for file in os.listdir(profiles_dir) if
