@@ -14,7 +14,6 @@ import function6 as f6
 import function7 as f7
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
-# PROFILES = os.path.join(CURENT_DIR, "profile/")  # locate the data profile
 API_KEY_DIR = os.path.join(CURENT_DIR, "keys/")
 key_files = [file for file in os.listdir(API_KEY_DIR) if file.endswith(".bin")]  # list out the api-keys in keys folder
 booklist_dir = CURENT_DIR + '/bookslist.txt'
@@ -56,6 +55,18 @@ def options_page():
     print "-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-="
 
 
+def checkFile(file_path):
+    fileList = [file for file in os.listdir(file_path) if file.endswith(".txt")]
+
+    if fileList == []:
+        return "False"
+
+    for f in fileList:
+        f = open(file_path+'/'+f, 'r').read()
+        if 'Name' not in f:
+            return "False"
+
+
 # Main Program
 def ui():
     """ This part serves function 1 """
@@ -66,9 +77,11 @@ def ui():
             print 'Directory does not exist'
             continue
 
-        elif [f for f in os.listdir(profiles_dir) if not f.startswith('.')] == []:
+        elif checkFile(profiles_dir) == "False":
             print 'Profiles Directory specified is empty. Are you sure you point to the right directory?'
             continue
+            # print "This is not the profiles data directory. Please input the directory again."
+            # continue
 
         else:
             profiles = [file for file in os.listdir(profiles_dir) if
@@ -208,6 +221,7 @@ def ui():
                             print(tabulate(f4_df[['Name', 'Gender', 'Rank']], headers='keys',
                                            tablefmt='psql'))
                             print '\n'
+
                             raw_input("Press Enter to return to main menu...")
                             break
 
@@ -230,12 +244,11 @@ def ui():
                                                                               progressbar.Bar('=', '[', ']'), ' ',
                                                                               progressbar.Percentage()])
                             bar.start()
+                            f6_class = f6.FUNCTION6(f5_df)
+                            f6_class.convert2CSV(CURENT_DIR, student_B_name)
                             for i in xrange(20):
                                 bar.update(i + 1)
                                 time.sleep(0.1)
-
-                            f6_class = f6.FUNCTION6(f5_df)
-                            f6_class.convert2CSV(CURENT_DIR, student_B_name)
 
                             bar.finish()
 

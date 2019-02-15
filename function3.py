@@ -13,9 +13,9 @@ class LIKES_DISLIKES(object):
                 "Age": x["Age"],
                 "Acceptable_age_range": x["Acceptable_age_range"],
                 "Likes": x['Likes'],
+                "Dislikes": x['Dislikes'],
                 "Books": x["Books"],
                 "Birthday": x["Birthday"],
-                "Dislikes": x['Dislikes'],
                 "Rank": x['Rank']
             }, axis=1))
 

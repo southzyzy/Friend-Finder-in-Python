@@ -1,4 +1,3 @@
-import pandas as pd
 import datetime as dt
 import random
 import horoscope as h
@@ -17,8 +16,8 @@ class openFunction(object):
                 "Age": x["Age"],
                 "Acceptable_age_range": x["Acceptable_age_range"],
                 "Likes": x['Likes'],
-                "Books": x["Books"],
                 "Dislikes": x['Dislikes'],
+                "Books": x["Books"],
                 "Birthday": x["Birthday"],
                 "Rank": x['Rank']
             }, axis=1))
