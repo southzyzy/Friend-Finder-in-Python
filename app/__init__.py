@@ -17,6 +17,7 @@ profiles_dir = []
 name_list = []
 main_class = {}
 
+
 @app.route('/')
 def index():
     if not session.get('profiles'):
@@ -30,8 +31,8 @@ def index():
             f1_list = f1.FUNCTION_1(profiles_dir=profiles_dir[0], files=profiles)
             df = f1_list.profilesDF(f1_list.HEADERS, f1_list.DATA)
 
-            m_class = main.MAIN(df) # Create the main class method
-            main_class['m_class'] = m_class # store it in memory so can be accessible throughout
+            m_class = main.MAIN(df)  # Create the main class method
+            main_class['m_class'] = m_class  # store it in memory so can be accessible throughout
 
             data_list = f3.LIKES_DISLIKES(df).temp_list
 
@@ -100,6 +101,8 @@ def handle_functions():
         if request.method == 'POST':
             option = request.form['option']
             sb_name = request.form['name']
+            # api_key_path = request.form['api_key_path']
+            # password = request.form['password']
 
             # get the m_class Class
             m_class = main_class.get('m_class')
@@ -114,8 +117,8 @@ def handle_functions():
                 f2_list = f3.LIKES_DISLIKES(f2_df).temp_list
 
                 templateData = {
-                    'name' : sb_name,
-                    'data' : f2_list
+                    'name': sb_name,
+                    'data': f2_list
                 }
 
                 return render_template("results.html", **templateData)
@@ -130,20 +133,29 @@ def handle_functions():
                 print "Run function 3"
                 f3_list = f3.LIKES_DISLIKES(f3_df).temp_list
                 templateData = {
-                    'name' : sb_name,
-                    'data' : f3_list
+                    'name': sb_name,
+                    'data': f3_list
                 }
 
                 return render_template("results.html", **templateData)
 
+            bk = m_class.updateBooksGenre(password)
 
-@app.route('/home', methods=["GET", "POST"])
-def api_key():
-    if not session.get('profiles'):
-        return render_template('welcome.html')
+            if option == '4':
+                print "Run Function 4"
+                f4_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
+                f4_temp_profiles_list = f4_class.temp_list  # converting dataframe to list
 
-    if request.method == 'POST':
-        file_path = request.form['file_path']
+                f4_df = m_class.function4(bk, f4_temp_profiles_list, sb_df)
+                f4_list = f3.LIKES_DISLIKES(f4_df).temp_list
+
+                templateData = {
+                    'name' : sb_name,
+                    'data' : f4_list
+                }
+
+                return redirect('results.html', **templateData)
+        return redirect('/functions')
 
 
 @app.route("/logout")
