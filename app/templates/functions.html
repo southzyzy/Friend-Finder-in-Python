@@ -40,7 +40,13 @@
                             <hr>
                             <p class="card-text">List the top 3 best matched students who share the most similar likes
                                 or dislikes for one given student B.</p>
-                            <a href="#" class="btn btn-outline-primary btn-circle"><i class="fa fa-play"></i></a>
+                            <button class="btn btn-outline-primary btn-circle" data-toggle="modal"
+                                    data-target="#selectName"><i class="fa fa-play"></i>
+                            </button>
+                            <form action="{{ url_for('handle_functions') }}" method="post">
+                                <input type="hidden" name="option" value="3">
+                                {% include 'selectName.html' %}
+                            </form>
                         </div>
                     </div>
                 </div>

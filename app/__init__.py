@@ -39,7 +39,8 @@ def index():
             male_list = [val['Name'].replace(' ', '') for val in data_list if val['Gender'] == 'M']
 
             for val in data_list:
-                name_list.append(val['Name'])
+                if val not in name_list:
+                    name_list.append(val['Name'])
 
             templateData = {
                 'data': data_list,  # return and pass the data to index.html
@@ -106,17 +107,34 @@ def handle_functions():
             """ This part get student B info """
             sb_df = m_class.student_B(sb_name)
 
+            f2_df = m_class.function2(sb_df, sb_name)
             if option == '2':
+                print "Run function 2"
                 """ This part serves function 2 """
-                f2_df = m_class.function2(sb_df, sb_name)
                 f2_list = f3.LIKES_DISLIKES(f2_df).temp_list
 
                 templateData = {
+                    'name' : sb_name,
                     'data' : f2_list
                 }
 
                 return render_template("results.html", **templateData)
 
+            """ This part serves function 3 """
+            f3_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
+            f3_temp_profiles_list = f3_class.temp_list  # converting dataframe to list
+
+            f3_df = m_class.function3(f3_class, f3_temp_profiles_list, sb_df)
+
+            if option == '3':
+                print "Run function 3"
+                f3_list = f3.LIKES_DISLIKES(f3_df).temp_list
+                templateData = {
+                    'name' : sb_name,
+                    'data' : f3_list
+                }
+
+                return render_template("results.html", **templateData)
 
 
 @app.route('/home', methods=["GET", "POST"])

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Results</title>
+</head>
+<body id="page-top">
+<!-- Page Wrapper -->
+<div id="wrapper">
+    {% include 'base.html' %}
+    <!-- Begin Page Content -->
+    <div class="container-fluid" style="margin-top: 2em;">
+        <!-- Page Heading -->
+        <div class="d-sm-flex align-items-center justify-content-between mb-4">
+            <h1 class="h3 mb-0 text-gray-800">Matches</h1>
+        </div>
+
+        <hr class="topbar-divider">
+
+        <h5 class="text-gray-900">{{ name }} is matched with the following:</h5>
+        <table class="table table-hover" data-show-columns="true" data-toggle="table">
+            <thead>
+            <tr>
+                <th data-sortable="true">Name</th>
+                <th>Gender</th>
+                <th>Country</th>
+                <th>Acceptable_country</th>
+                <th>Age</th>
+                <th>Likes</th>
+                <th>Dislikes</th>
+                <th>Birthday</th>
+                <th>Rank</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for d in data %}
+            <tr>
+                <td>{{ d['Name'] }}</td>
+                <td>{{ d['Gender'] }}</td>
+                <td>{{ d['Country'] }}</td>
+                <td>{{ d['Acceptable_country'] }}</td>
+                <td>{{ d['Age'] }}</td>
+                <td>{{ d['Likes'] }}</td>
+                <td>{{ d['Dislikes'] }}</td>
+                <td>{{ d['Birthday'] }}</td>
+                <td>{{ d['Rank'] }}</td>
+
+            </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+        <a class="float-lg-right align-bottom" href="{{ url_for('functions') }}">&larr; Back to Functions</a>
+    </div>
+</div>
+</body>
+</html>
