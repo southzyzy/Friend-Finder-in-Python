@@ -14,6 +14,8 @@ csrf = CSRFProtect(app)
 csrf.init_app(app)
 
 profiles_dir = []
+name_list = []
+main_class = {}
 
 @app.route('/')
 def index():
@@ -27,10 +29,22 @@ def index():
 
             f1_list = f1.FUNCTION_1(profiles_dir=profiles_dir[0], files=profiles)
             df = f1_list.profilesDF(f1_list.HEADERS, f1_list.DATA)
+
+            m_class = main.MAIN(df) # Create the main class method
+            main_class['m_class'] = m_class # store it in memory so can be accessible throughout
+
             data_list = f3.LIKES_DISLIKES(df).temp_list
+
+            female_list = [val['Name'].replace(' ', '') for val in data_list if val['Gender'] == 'F']
+            male_list = [val['Name'].replace(' ', '') for val in data_list if val['Gender'] == 'M']
+
+            for val in data_list:
+                name_list.append(val['Name'])
 
             templateData = {
                 'data': data_list,  # return and pass the data to index.html
+                'female_list': female_list,
+                'male_list': male_list
             }
             return render_template('index.html', **templateData)
 
@@ -58,6 +72,60 @@ def home():
             profiles_dir.append(file_path)
 
             return redirect('/')
+
+
+@app.route('/functions')
+def functions():
+    if not session.get('profiles'):
+        return render_template('welcome.html')
+    else:
+        if name_list == []:
+            session['profiles'] = False
+            flash('Session Expire')
+            return redirect('/')
+        else:
+            templateData = {
+                'name_list': name_list
+            }
+            return render_template('functions.html', **templateData)
+
+
+@app.route('/result', methods=["GET", "POST"])
+def handle_functions():
+    if not session.get('profiles'):
+        return render_template('welcome.html')
+
+    else:
+        if request.method == 'POST':
+            option = request.form['option']
+            sb_name = request.form['name']
+
+            # get the m_class Class
+            m_class = main_class.get('m_class')
+
+            """ This part get student B info """
+            sb_df = m_class.student_B(sb_name)
+
+            if option == '2':
+                """ This part serves function 2 """
+                f2_df = m_class.function2(sb_df, sb_name)
+                f2_list = f3.LIKES_DISLIKES(f2_df).temp_list
+
+                templateData = {
+                    'data' : f2_list
+                }
+
+                return render_template("results.html", **templateData)
+
+
+
+@app.route('/home', methods=["GET", "POST"])
+def api_key():
+    if not session.get('profiles'):
+        return render_template('welcome.html')
+
+    if request.method == 'POST':
+        file_path = request.form['file_path']
 
 
 @app.route("/logout")
