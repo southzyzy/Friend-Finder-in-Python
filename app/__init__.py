@@ -5,7 +5,7 @@ import os
 import function1 as f1
 import function3 as f3
 import main
-import ui_v2
+import ui
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secret!'
@@ -64,7 +64,7 @@ def home():
             flash('Directory does not exist')
             return redirect('/')
 
-        elif ui_v2.checkFile(file_path) == "False":
+        elif ui.checkFile(file_path) == "False":
             flash('Profiles Directory specified is empty. Are you sure you point to the right directory?')
             return redirect('/')
 
