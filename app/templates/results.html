@@ -18,7 +18,7 @@
         <hr class="topbar-divider">
 
         <h5 class="text-gray-900">{{ name }} is matched with the following:</h5>
-        <table class="table table-hover" data-show-columns="true" data-toggle="table">
+        <table id="table" class="table table-hover" data-show-columns="true" data-toggle="table">
             <thead>
             <tr>
                 <th data-sortable="true">Name</th>
@@ -50,7 +50,14 @@
             </tbody>
         </table>
         <a class="float-lg-right align-bottom" href="{{ url_for('functions') }}">&larr; Back to Functions</a>
+        <button id="export" class="btn btn-primary">Export to CSV</button>
     </div>
 </div>
+<script src="../static/table/csvExport.js"></script>
+<script>
+    $("#export").click(function () {
+        $('table').csvExport();
+    });
+</script>
 </body>
 </html>

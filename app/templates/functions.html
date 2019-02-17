@@ -56,10 +56,10 @@
                             <p class="card-text"><br>List the top 3 best matched students based on books they
                                 like.<br><br></p>
                             <button class="btn btn-outline-primary btn-circle" data-toggle="modal"
-                                    data-target="#apiFile"><i class="fa fa-play"></i>
+                                    data-target="#f4"><i class="fa fa-play"></i>
                             </button>
                             <form action="{{ url_for('handle_functions') }}" method="post">
-                                {% include 'api_key.html' %}
+                                {% include 'f4_api_key.html' %}
                             </form>
                         </div>
                     </div>
@@ -73,20 +73,16 @@
                                 List the top 3 best matched students based on the overall profile
                                 information which may include all the personal information for
                                 ranking.</p>
-                            <a href="#" class="btn btn-outline-primary btn-circle"><i class="fa fa-play"></i></a>
+                            <button class="btn btn-outline-primary btn-circle" data-toggle="modal"
+                                    data-target="#f5"><i class="fa fa-play"></i>
+                            </button>
+                            <form action="{{ url_for('handle_functions') }}" method="post">
+                                {% include 'f5_api_key.html' %}
+                            </form>
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6">
-                    <div class="card shadow-lg my-5">
-                        <div class="card-body">
-                            <h4 class="card-title text-gray-900">Function 6</h4>
-                            <hr>
-                            <p class="card-text">Store all the best matched students into one .csv file on the disk.</p>
-                            <a href="#" class="btn btn-outline-primary btn-circle"><i class="fa fa-play"></i></a>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="col-md-6">
                     <div class="card shadow-lg my-5">
                         <div class="card-body">
@@ -95,7 +91,12 @@
                             <p class="card-text">
                                 Play the Function 7 birthday guessing game.
                             </p>
-                            <a href="#" class="btn btn-outline-primary btn-circle"><i class="fa fa-play"></i></a>
+                            <button class="btn btn-outline-primary btn-circle" data-toggle="modal"
+                                    data-target="#f7"><i class="fa fa-play"></i>
+                            </button>
+                            <form action="{{ url_for('handle_functions') }}" method="post">
+                                {% include 'f7_api_key.html' %}
+                            </form>
                         </div>
                     </div>
                 </div>

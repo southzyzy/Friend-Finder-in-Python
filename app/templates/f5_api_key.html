@@ -1,0 +1,38 @@
+<div class="modal fade" id="f5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+     aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center">
+                <h4 class="modal-title w-100 font-weight-bold">Function 5: Specify API Password</h4>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body mx-3">
+                <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+                <label data-error="wrong" data-success="right">Password</label>
+                <input type="password" name="api-key-pwd" class="form-control validate" required>
+                <code>ICT1002_Password</code>
+            </div>
+
+            <div class="modal-header text-center">
+                <h4 class="modal-title w-100 font-weight-bold">Specify Profiles Name</h4>
+            </div>
+
+            <div class="modal-body mx-3">
+                <div class="form-group">
+                    <label>Select Name:</label>
+                    <select name="name" class="form-control">
+                        {% for name in name_list %}
+                        <option>{{name}}</option>
+                        {% endfor %}}
+                    </select>
+                </div>
+            </div>
+
+            <div class="modal-footer d-flex justify-content-center">
+                <button type="submit" class="btn btn-primary btn-user" name="option" value="5">Submit</button>
+            </div>
+        </div>
+    </div>
+</div>

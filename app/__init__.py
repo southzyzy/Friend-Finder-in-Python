@@ -142,7 +142,7 @@ def handle_functions():
 
                 return render_template("results.html", **templateData)
 
-            password = request.form['password']
+            password = request.form['api-key-pwd']
             bk = m_class.updateBooksGenre(password)
 
             if option == '4':
@@ -160,6 +160,33 @@ def handle_functions():
                     'data' : f4_list
                 }
                 return render_template('results.html', **templateData)
+
+            if option == '5' or '7':
+                name = request.form['name']
+
+                """ This part get student B info """
+                f5_sb_df = m_class.student_B(name)
+                f2_df = m_class.function2(f5_sb_df, name)
+
+                f3_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
+                f3_temp_profiles_list = f3_class.temp_list
+                f3_df = m_class.function3(f3_class, f3_temp_profiles_list, f5_sb_df)
+
+                """ This part serves function 5 """
+                f5_df = m_class.function4(bk, f3_temp_profiles_list, f5_sb_df)
+                f5_list = f3.LIKES_DISLIKES(f5_df).temp_list
+
+
+                templateData = {
+                    'name': name,
+                    'data': f5_list
+                }
+                if option == '5':
+                    return render_template('results.html', **templateData)
+                else:
+                    """ Put function 7 here """
+                    return render_template('game.html', **templateData)
+
         return redirect('/functions')
 
 
