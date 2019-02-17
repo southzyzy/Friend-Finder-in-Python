@@ -1,19 +1,20 @@
-import os, sys
+import os
 
 import AESCipher
 import student_B as sb
-import function1 as f1
 import function2 as f2
-import function3 as f3
 import function4 as f4
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory
-API_KEY_DIR = os.path.join(CURENT_DIR, "keys/")
+API_KEY_DIR = os.path.join(CURENT_DIR, "keys/") # specify the keys directory
 key_files = [file for file in os.listdir(API_KEY_DIR) if file.endswith(".bin")]  # list out the api-keys in keys folder
-booklist_dir = CURENT_DIR + '/bookslist.txt'
+booklist_dir = CURENT_DIR + '/bookslist.txt' # specify the booklist directory
 
-
-def getAPIKey():
+"""
+There will only be one file with one api key inside. In this use case, we will be using the already encrypted api key and store it in api-key.bin
+1. First retrieve the API Key from api-key.bin
+"""
+def getAPIKey(): # retrieve the encrpyted API key
     api_dir = API_KEY_DIR + key_files[0]
     api_file = open(api_dir, "r")
     enc = api_file.read()

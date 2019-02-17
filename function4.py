@@ -1,6 +1,6 @@
 import os
 import re
-import requests
+import grequests
 import random
 from multiprocessing import Pool
 import pandas as pd
@@ -10,54 +10,44 @@ def randomInt(num):
     return random.randint(0, num - 1)
 
 
-def search(book_name, googleapikey):
-    """
-    This function search the book by on its title. Returns the genre of the book
-    """
-    genreDict = {}
-
-    parms = {"q": book_name, 'key': googleapikey}
-    r = requests.get(url="https://www.googleapis.com/books/v1/volumes", params=parms)
-    rjson = r.json()
-
-    randNum = randomInt(len(rjson["items"]))
-    book_info = rjson["items"][randNum]
-
-    # Try and search for the categories for 10 times
-    for i in xrange(10):
-        if "categories" in book_info["volumeInfo"]:
-            break
-        else:
-            randNum = randomInt(len(rjson["items"]))
-            book_info = rjson["items"][randNum]
-
-    gl = book_info["volumeInfo"]["categories"]
-
-    genreDict[book_name] = gl[0]
-
-    return genreDict
-
-
 class G_BOOKS():
     def __init__(self, obj, cipherText, key):
         aes = obj.AESCipher(key)
         self.googleapikey = aes.decrypt(key, cipherText)
 
     def get_book_genre(self, line):
-        pool = Pool(processes=6)
-        jobs = []
         book_list = []
+        urls = []
 
-        for val in line:
-            if not re.findall("::.*", val):
-                jobs.append(pool.apply_async(search, args=(val, self.googleapikey)))
+        for book_name in line:
+            if not re.findall("::.*", book_name):
+                urls.append("https://www.googleapis.com/books/v1/volumes?q={}&key={}".format(book_name, self.googleapikey))
 
-        # wait for all jobs to finish
-        for j in jobs:
-            book_list.append(j.get())
+        # Sending requests at one go.
+        rs = (grequests.get(u) for u in urls)
 
-        pool.close()
-        pool.join()
+        name = map(lambda x: re.findall('q=(.*)&', x), urls)
+        format_lst = [single_name for n in name for single_name in n]
+        count = 0
+
+        for content in grequests.map(rs):
+            rjson = content.json()
+            randNum = randomInt(len(rjson["items"]))
+            book_info = rjson["items"][randNum]
+
+            for i in xrange(10):
+                if "categories" in book_info["volumeInfo"]:
+                    break
+                else:
+                    randNum = randomInt(len(rjson["items"]))
+                    book_info = rjson["items"][randNum]
+
+            gl = book_info["volumeInfo"]["categories"]
+
+            book_list.append({
+                format_lst[count]: gl[0]
+            })
+            count += 1
 
         # Getting the genre out of the book and create it into the new dictionary
         book_genre_dict = {}

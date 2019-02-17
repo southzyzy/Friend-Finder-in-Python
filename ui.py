@@ -19,7 +19,9 @@ key_files = [file for file in os.listdir(API_KEY_DIR) if file.endswith(".bin")] 
 booklist_dir = CURENT_DIR + '/bookslist.txt'
 
 ERRMSG = {
-    1: "Value Error! The option input is not provided in the function"
+    1: "Value Error! The option input is not provided in the function",
+    2: "Directory does not exist",
+    3: "Profiles Directory specified is either empty or not the correct format. Are you sure you point to the right directory?"
 }
 
 
@@ -68,6 +70,7 @@ def checkFile(file_path):
 
     return "True"
 
+
 # Main Program
 def ui():
     """ This part serves function 1 """
@@ -75,11 +78,11 @@ def ui():
         profiles_dir = raw_input("Specify the profiles file directory => ")
 
         if not os.path.exists(profiles_dir):
-            print 'Directory does not exist'
+            print ERRMSG.get(2)
             continue
 
         elif checkFile(profiles_dir) == "False":
-            print 'Profiles Directory specified is empty. Are you sure you point to the right directory?'
+            print ERRMSG.get(3)
             continue
 
         else:

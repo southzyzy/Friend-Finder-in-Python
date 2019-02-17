@@ -159,7 +159,7 @@ def handle_functions():
                     'name': f4_sb_name,
                     'data' : f4_list
                 }
-                return render_template('results', **templateData)
+                return render_template('results.html', **templateData)
         return redirect('/functions')
 
 
