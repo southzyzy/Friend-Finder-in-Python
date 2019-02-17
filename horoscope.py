@@ -1,6 +1,3 @@
-import datetime
-
-
 class Horoscope:
     def __init__(self):
         self.horoscopes = {
@@ -21,17 +18,9 @@ class Horoscope:
     def get_horoscope(self, dateInput):
         dateTuple = (dateInput.month, dateInput.day)
 
-        # for h in self.horoscopes:
-        #     if h[0] <= dateTuple <= h[1]:
-        #         return self.horoscopes[(h[0], h[1])]
-
         return self.horoscopes[next(iter(filter(lambda x: (x[0] <= dateTuple <= x[1]), self.horoscopes)))]
 
     def get_horoscope_range(self, dateInput):
         dateTuple = (dateInput.month, dateInput.day)
-
-        # for h in self.horoscopes:
-        #     if h[0] <= dateTuple <= h[1]:
-        #         return h
 
         return next(iter(filter(lambda x: (x[0] <= dateTuple <= x[1]), self.horoscopes)))
