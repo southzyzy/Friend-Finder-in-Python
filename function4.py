@@ -2,7 +2,6 @@ import os
 import re
 import grequests
 import random
-from multiprocessing import Pool
 import pandas as pd
 
 
