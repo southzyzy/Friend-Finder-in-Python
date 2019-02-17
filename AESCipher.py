@@ -1,5 +1,7 @@
 """
 Advanced Feature: AESCipher.
+Author: @ Tan Zhao Yea
+
 This advanced feature namely uses the Advanced Encryption Standard to protect the integrity and confidentiality of the data.
     1. Uses this feature to encrypt and decrypt the API Key for usage of function 4 (Google API Books)
 
