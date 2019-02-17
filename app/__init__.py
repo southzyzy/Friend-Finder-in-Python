@@ -161,7 +161,7 @@ def handle_functions():
                 }
                 return render_template('results.html', **templateData)
 
-            if option == '5' or '7':
+            if option == '5':
                 name = request.form['name']
 
                 """ This part get student B info """
@@ -181,11 +181,8 @@ def handle_functions():
                     'name': name,
                     'data': f5_list
                 }
-                if option == '5':
-                    return render_template('results.html', **templateData)
-                else:
-                    """ Put function 7 here """
-                    return render_template('game.html', **templateData)
+
+                return render_template('results.html', **templateData)
 
         return redirect('/functions')
 
