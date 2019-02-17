@@ -14,11 +14,12 @@ pandas: https://pandas.pydata.org/
 import pandas as pd
 import re
 
+
 # Part 3
 def formattingData(df):
     # Check Gender column
-    df["Gender"] = df.Gender.str.replace("Female", "F") # Replace all 'Female' to 'F'
-    df["Gender"] = df.Gender.str.replace("Male", "M") # Replace all 'Male' to 'M'
+    df["Gender"] = df.Gender.str.replace("Female", "F")  # Replace all 'Female' to 'F'
+    df["Gender"] = df.Gender.str.replace("Male", "M")  # Replace all 'Male' to 'M'
 
     df["Acceptable_country"] = df.Acceptable_country.str.replace(", ", ",")  # remove the white space after ,
     df["Likes"] = df.Likes.str.replace(", ", ",")  # remove white spaces after ,

@@ -222,17 +222,20 @@ def handle_functions():
 
         return redirect('/functions')
 
+
 # reset the session if the file cannot load the profiles dir
 @app.route("/logout")
 def logout():
     session['profiles'] = False
     return redirect('/')
 
+
 # display the error if the user tries to attempt to go to a site without providing a profiles dir
 @app.errorhandler(404)
 def page_not_found(e):
     # note that we set the 404 status explicitly
     return render_template('404.html'), 404
+
 
 # display the error if the user tries to attempt to go to a site without providing a profiles dir
 @app.errorhandler(500)

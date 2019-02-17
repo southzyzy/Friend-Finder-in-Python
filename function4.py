@@ -1,7 +1,7 @@
 """
 Function 4:
 Author: @ Tan Zhao Yea
-Function 5 Ranking Metric: Kish & Koh Jie
+Function 5 Ranking Metric @ Kish & Koh Jie
 
 Using the Google Books API, the application can perform full-text searches and retrieve book information, viewability and eBook availability. You can also manage your personal bookshelves:
     -> Google Books API will return 10 search results with every requests
@@ -145,8 +145,8 @@ class G_BOOKS():
         sb_genre_preferences = list(set(sb_genre_preferences))  # remove all duplicates
 
         # This part gets the genre that all the other data prefers
-        name_books_genre = {} # create an empty dictionary that is going to store the { name of a user : [list of genre] }
-        for items in temp_list: # loop throughout the list of all profiles
+        name_books_genre = {}  # create an empty dictionary that is going to store the { name of a user : [list of genre] }
+        for items in temp_list:  # loop throughout the list of all profiles
             # remove the duplicates of the list results, by passing every book the profiles read and store them inthe the name_books_genre
             name_books_genre[items["Name"]] = list(set([bk_dict.get(val.strip()) for val in items["Books"].split("|")]))
 
