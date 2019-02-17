@@ -17,7 +17,6 @@ profiles_dir = []
 name_list = []
 main_class = {}
 
-
 @app.route('/')
 def index():
     if not session.get('profiles'):
@@ -40,7 +39,7 @@ def index():
             male_list = [val['Name'].replace(' ', '') for val in data_list if val['Gender'] == 'M']
 
             for val in data_list:
-                if val not in name_list:
+                if val['Name'] not in name_list:
                     name_list.append(val['Name'])
 
             templateData = {
@@ -100,61 +99,68 @@ def handle_functions():
     else:
         if request.method == 'POST':
             option = request.form['option']
-            sb_name = request.form['name']
-            # api_key_path = request.form['api_key_path']
-            # password = request.form['password']
 
             # get the m_class Class
             m_class = main_class.get('m_class')
 
-            """ This part get student B info """
-            sb_df = m_class.student_B(sb_name)
-
-            f2_df = m_class.function2(sb_df, sb_name)
             if option == '2':
-                print "Run function 2"
+                f2_sb_name = request.form['f2_name']
+
+                """ This part get student B info """
+                f2_sb_df = m_class.student_B(f2_sb_name)
+
+                f2_df = m_class.function2(f2_sb_df, f2_sb_name)
+
                 """ This part serves function 2 """
                 f2_list = f3.LIKES_DISLIKES(f2_df).temp_list
 
                 templateData = {
-                    'name': sb_name,
+                    'name': f2_sb_name,
                     'data': f2_list
                 }
 
                 return render_template("results.html", **templateData)
 
-            """ This part serves function 3 """
-            f3_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
-            f3_temp_profiles_list = f3_class.temp_list  # converting dataframe to list
-
-            f3_df = m_class.function3(f3_class, f3_temp_profiles_list, sb_df)
-
             if option == '3':
-                print "Run function 3"
+                """ This part serves function 3 """
+                f3_sb_name = request.form['f3_name']
+
+                """ This part get student B info """
+                f3_sb_df = m_class.student_B(f3_sb_name)
+                f2_df = m_class.function2(f3_sb_df, f3_sb_name)
+
+                f3_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
+                f3_temp_profiles_list = f3_class.temp_list  # converting dataframe to list
+
+                f3_df = m_class.function3(f3_class, f3_temp_profiles_list, f3_sb_df)
+
                 f3_list = f3.LIKES_DISLIKES(f3_df).temp_list
                 templateData = {
-                    'name': sb_name,
+                    'name': f3_sb_name,
                     'data': f3_list
                 }
 
                 return render_template("results.html", **templateData)
 
+            password = request.form['password']
             bk = m_class.updateBooksGenre(password)
 
             if option == '4':
-                print "Run Function 4"
+                f4_sb_name = request.form['f4_name']
+                f4_sb_name = request.form['f3_name']
+                f4_sb_df = m_class.student_B(f4_sb_name)
+                f2_df = m_class.function2(f4_sb_df, f4_sb_name)
                 f4_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
                 f4_temp_profiles_list = f4_class.temp_list  # converting dataframe to list
 
-                f4_df = m_class.function4(bk, f4_temp_profiles_list, sb_df)
+                f4_df = m_class.function4(bk, f4_temp_profiles_list, f4_sb_df)
                 f4_list = f3.LIKES_DISLIKES(f4_df).temp_list
 
                 templateData = {
-                    'name' : sb_name,
+                    'name', f4_sb_name,
                     'data' : f4_list
                 }
-
-                return redirect('results.html', **templateData)
+                return render_template('results', **templateData)
         return redirect('/functions')
 
 

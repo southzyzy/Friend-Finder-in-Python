@@ -1,8 +1,10 @@
-import os
+import os, sys
 
 import AESCipher
 import student_B as sb
+import function1 as f1
 import function2 as f2
+import function3 as f3
 import function4 as f4
 
 CURENT_DIR = os.path.dirname(__file__)  # specify current directory

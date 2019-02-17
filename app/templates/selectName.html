@@ -12,7 +12,7 @@
                 <div class="form-group">
                     <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
                     <label>Select Name</label>
-                    <select name="name" class="form-control">
+                    <select name="f2_name" class="form-control">
                         {% for name in name_list %}
                         <option>{{name}}</option>
                         {% endfor %}}
@@ -40,7 +40,7 @@
                 <div class="form-group">
                     <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
                     <label>Select Name:</label>
-                    <select name="name" class="form-control">
+                    <select name="f3_name" class="form-control">
                         {% for name in name_list %}
                         <option>{{name}}</option>
                         {% endfor %}}
