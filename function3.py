@@ -1,3 +1,14 @@
+"""
+Function 3:
+Pandas framework to extract all of the entire dataframe where it matches the student_B country.
+    1. df['Country'].isin(student_B_country) -> iterate entire df and return the country that matches
+    2. & operator to check if they are of the same gender, will not match same gender
+    3. it will not match itself as well
+
+Read More:
+pandas.DataFrame.isin: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.isin.html
+"""
+
 import pandas as pd
 
 
@@ -39,11 +50,11 @@ class LIKES_DISLIKES(object):
                     if val in a:
                         count += 1.0
 
-                if term == "Likes": # 3. if student B like smth and matched dislike same as the B_like == -0.5
+                if term == "Likes":  # 3. if student B like smth and matched dislike same as the B_like == -0.5
                     for _ in i["Dislikes"].split(","):
                         if val in _:
                             count -= 0.5
-                else: # if student B dislike smth and matched like same as the B_dislike == -0.5
+                else:  # if student B dislike smth and matched like same as the B_dislike == -0.5
                     for _ in i["Likes"].split(","):
                         if val in _:
                             count -= 0.5
