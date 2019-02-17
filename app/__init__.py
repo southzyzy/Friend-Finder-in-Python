@@ -157,7 +157,7 @@ def handle_functions():
                 f4_list = f3.LIKES_DISLIKES(f4_df).temp_list
 
                 templateData = {
-                    'name', f4_sb_name,
+                    'name': f4_sb_name,
                     'data' : f4_list
                 }
                 return render_template('results', **templateData)
