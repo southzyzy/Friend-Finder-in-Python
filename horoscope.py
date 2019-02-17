@@ -1,3 +1,8 @@
+"""
+Function 7 Open Function
+Author: @ Jerome
+"""
+
 class Horoscope:
     def __init__(self):
         self.horoscopes = {

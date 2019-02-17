@@ -1,5 +1,8 @@
 """
 Function 3:
+Author: @ Jerome
+Function 5 Ranking Metric: Kish & Koh Jie
+
 Iterate all the dataset and find the similarities and differences of every other student with student B Likes and Dislikes.
     1. Convert dataframe into a list with .apply(lambda)
     2. Function 5 implemented here with the counting of the amt of likes and dislikes @ countMatch()

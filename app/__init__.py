@@ -1,3 +1,15 @@
+"""
+__init__.py
+Author: @ Tan Zhao Yea
+
+Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.
+Form Validation with WTForms.
+
+More Info:
+Flask: http://flask.pocoo.org/
+WTForms: http://flask.pocoo.org/docs/1.0/patterns/wtforms/
+"""
+
 from flask import Flask, render_template, request, redirect, flash, session
 from flask_wtf.csrf import CSRFProtect
 
@@ -7,19 +19,19 @@ import function3 as f3
 import main
 import ui
 
-app = Flask(__name__)
-app.config['SECRET_KEY'] = 'secret!'
+app = Flask(__name__) # initialise the flask app
+app.config['SECRET_KEY'] = 'secret!' # create the secret key
 
-csrf = CSRFProtect(app)
-csrf.init_app(app)
+csrf = CSRFProtect(app) # protect the csrf app
+csrf.init_app(app) # initialise the csrf with the app
 
-profiles_dir = []
-name_list = []
-main_class = {}
+profiles_dir = [] # specify and empty list to store the directory of the profiles
+name_list = [] # specify an empty name list to store the name
+main_class = {} # store the main class to call the main method in main.py
 
 @app.route('/')
 def index():
-    if not session.get('profiles'):
+    if not session.get('profiles'): # if profiles directory not specified return to welcome.html to specify the profile directory
         return render_template('welcome.html')
 
     else:
@@ -27,21 +39,26 @@ def index():
             profiles = [file for file in os.listdir(profiles_dir[0]) if
                         file.endswith(".txt")]  # list out all the profiles in profiles folder
 
+            # run the function to generate the profiles list
             f1_list = f1.FUNCTION_1(profiles_dir=profiles_dir[0], files=profiles)
             df = f1_list.profilesDF(f1_list.HEADERS, f1_list.DATA)
 
             m_class = main.MAIN(df)  # Create the main class method
             main_class['m_class'] = m_class  # store it in memory so can be accessible throughout
 
-            data_list = f3.LIKES_DISLIKES(df).temp_list
+            data_list = f3.LIKES_DISLIKES(df).temp_list # converts the entire df into a list
 
+            # store the names of all the female, used to display the names of studnet B in the html
             female_list = [val['Name'].replace(' ', '') for val in data_list if val['Gender'] == 'F']
+            # store the names of all the male, used to display the names of studnet B in the html
             male_list = [val['Name'].replace(' ', '') for val in data_list if val['Gender'] == 'M']
 
+            # if the name exist in the name_list do no append, one of the dropdown feature in the html page
             for val in data_list:
                 if val['Name'] not in name_list:
                     name_list.append(val['Name'])
 
+            # creates the template data and pass it into the html for viewing of data
             templateData = {
                 'data': data_list,  # return and pass the data to index.html
                 'female_list': female_list,
@@ -50,34 +67,35 @@ def index():
             return render_template('index.html', **templateData)
 
         except:
+            # if session expire, set the session to False
             session['profiles'] = False
             flash('Session Expire')
             return redirect('/')
 
-
+# handles the form when a dir is specifies
 @app.route('/home', methods=["GET", "POST"])
 def home():
-    if request.method == 'POST':
-        file_path = request.form['file_path']
+    if request.method == 'POST': # check form methods
+        file_path = request.form['file_path'] # get the file path specifiedin the form
 
-        if not os.path.exists(file_path):
-            flash('Directory does not exist')
-            return redirect('/')
+        if not os.path.exists(file_path): # check if the file exist in the user system
+            flash('Directory does not exist') # display an error
+            return redirect('/') # trys again
 
-        elif ui.checkFile(file_path) == "False":
-            flash('Profiles Directory specified is empty. Are you sure you point to the right directory?')
-            return redirect('/')
+        elif ui.checkFile(file_path) == "False": # check if the file is the correct directory
+            flash('Profiles Directory specified is either empty or not in the correct format. Are you sure you point to the right directory?') # display an error
+            return redirect('/') # trys again
 
         else:
-            session['profiles'] = True
-            profiles_dir.append(file_path)
+            session['profiles'] = True # set session to be true, the user can now access the dashboard
+            profiles_dir.append(file_path) # add the valid profiles path in the list to be about the data
 
             return redirect('/')
 
 
 @app.route('/functions')
 def functions():
-    if not session.get('profiles'):
+    if not session.get('profiles'): # if profiles directory not specified return to welcome.html to specify the profile directory
         return render_template('welcome.html')
     else:
         if name_list == []:

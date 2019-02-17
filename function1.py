@@ -1,5 +1,7 @@
 """
 Function 1:
+Author: @ Ryan Goh
+
 Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
     1. Use of regex expression to filter and extract the data
     2. Pass the data and convert data into a pandas dataframe

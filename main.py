@@ -1,5 +1,7 @@
 """
 MAIN Method:
+Author: Tan Zhao Yea
+
 This part holds all the codes to make the Friend Finder app workable. It hold many functions in a class, namely:
     1. getAPIKey() -> retrieve the API KEY
     2. MAIN class method for the ui.py to call and use the functions written in it

@@ -1,3 +1,8 @@
+"""
+Function 7 Open Function
+Author: @ Jerome
+"""
+
 import datetime as dt
 import random
 import horoscope as h

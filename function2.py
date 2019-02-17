@@ -1,5 +1,7 @@
 """
 Function 2:
+Author: @ Ryan Goh
+
 Pandas framework to extract all of the entire dataframe where it matches the student_B country.
     1. df['Country'].isin(student_B_country) -> iterate entire df and return the country that matches
     2. & operator to check if they are of the same gender, will not match same gender
