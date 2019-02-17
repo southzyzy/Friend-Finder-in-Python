@@ -6,9 +6,6 @@ Read More:
 pandas.DataFrame.apply: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_csv.html
 """
 
-
-
-
 class FUNCTION6(object):
     def __init__(self, final_df):
         self.df = final_df
