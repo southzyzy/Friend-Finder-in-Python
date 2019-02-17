@@ -1,11 +1,22 @@
+"""
+Function 1:
+Pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+    1. Use of regex expression to filter and extract the data
+    2. Pass the data and convert data into a pandas dataframe
+    3. Format the dataframe to remove any error for data handling
+
+Read More:
+pandas: https://pandas.pydata.org/
+"""
+
 import pandas as pd
 import re
 
-
+# Part 3
 def formattingData(df):
     # Check Gender column
-    df["Gender"] = df.Gender.str.replace("Female", "F")
-    df["Gender"] = df.Gender.str.replace("Male", "M")
+    df["Gender"] = df.Gender.str.replace("Female", "F") # Replace all 'Female' to 'F'
+    df["Gender"] = df.Gender.str.replace("Male", "M") # Replace all 'Male' to 'M'
 
     df["Acceptable_country"] = df.Acceptable_country.str.replace(", ", ",")  # remove the white space after ,
     df["Likes"] = df.Likes.str.replace(", ", ",")  # remove white spaces after ,
