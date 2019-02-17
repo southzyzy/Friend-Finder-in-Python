@@ -1,6 +1,6 @@
 """
 Function 7 Open Function
-Author: @ Jerome
+Author: @ Jerome & Kish
 """
 
 import datetime as dt
