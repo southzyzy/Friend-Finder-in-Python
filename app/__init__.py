@@ -147,7 +147,6 @@ def handle_functions():
 
             if option == '4':
                 f4_sb_name = request.form['f4_name']
-                f4_sb_name = request.form['f3_name']
                 f4_sb_df = m_class.student_B(f4_sb_name)
                 f2_df = m_class.function2(f4_sb_df, f4_sb_name)
                 f4_class = f3.LIKES_DISLIKES(f2_df)  # calling the class LIKES_DISLIKES
