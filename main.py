@@ -1,3 +1,14 @@
+"""
+MAIN Method:
+This part holds all the codes to make the Friend Finder app workable. It hold many functions in a class, namely:
+    1. getAPIKey() -> retrieve the API KEY
+    2. MAIN class method for the ui.py to call and use the functions written in it
+    3. updateBookGenre(password) -> takes in the password of the encrypted API key file and run the necessary function to acheieve function 4
+    4. student_B -> returns the information of a selected student B
+    5.
+"""
+
+
 import os
 
 import AESCipher
@@ -30,7 +41,7 @@ class MAIN(object):
     def updateBooksGenre(self, password):
         aes = AESCipher
         enc = getAPIKey()
-        bk = f4.G_BOOKS(aes, enc, password)
+        bk = f4.G_BOOKS(aes, enc, password) # call the class G_Books in function to search for books
 
         # store all the books in the a text file
         bk.writeBooks2File(booklist_dir, self.profiles_df.Books.values)

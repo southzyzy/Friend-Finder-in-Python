@@ -1,12 +1,12 @@
 """
 Function 3:
-Pandas framework to extract all of the entire dataframe where it matches the student_B country.
-    1. df['Country'].isin(student_B_country) -> iterate entire df and return the country that matches
-    2. & operator to check if they are of the same gender, will not match same gender
-    3. it will not match itself as well
+Iterate all the dataset and find the similarities and differences of every other student with student B Likes and Dislikes.
+    1. Convert dataframe into a list with .apply(lambda)
+    2. Function 5 implemented here with the counting of the amt of likes and dislikes @ countMatch()
+    3. Updating the dataframe by adding the final score to it
 
 Read More:
-pandas.DataFrame.isin: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.isin.html
+pandas.DataFrame.apply: https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.apply.html
 """
 
 import pandas as pd
