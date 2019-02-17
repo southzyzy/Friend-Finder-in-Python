@@ -21,6 +21,7 @@ class Horoscope:
         dateTuple = (dateInput.month, dateInput.day)
 
         return self.horoscopes[next(iter(filter(lambda x: (x[0] <= dateTuple <= x[1]), self.horoscopes)))]
+    
     # Function to return horoscope date range by date range from horoscope list
     def get_horoscope_range(self, dateInput):
         dateTuple = (dateInput.month, dateInput.day)
