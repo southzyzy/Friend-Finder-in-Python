@@ -5,6 +5,7 @@ Author: @ Jerome
 
 class Horoscope:
     def __init__(self):
+        # Upon initalization, create a pre-defined list of horoscopes
         self.horoscopes = {
             ((3, 21), (4, 19)): "Aries",
             ((4, 20), (5, 20)): "Taurus",
@@ -19,12 +20,14 @@ class Horoscope:
             ((1, 20), (2, 18)): "Aquarius",
             ((2, 19), (3, 20)): "Pisces"
         }
-
+        
+    # Function to return horoscope type by date range from horoscope list
     def get_horoscope(self, dateInput):
         dateTuple = (dateInput.month, dateInput.day)
 
         return self.horoscopes[next(iter(filter(lambda x: (x[0] <= dateTuple <= x[1]), self.horoscopes)))]
-
+    
+    # Function to return horoscope date range by date range from horoscope list
     def get_horoscope_range(self, dateInput):
         dateTuple = (dateInput.month, dateInput.day)
 
